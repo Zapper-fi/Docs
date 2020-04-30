@@ -24,7 +24,7 @@
 * [Why build with Zapper?](build/why-build-with-zapper.md)
 * [Smart Contract Interface](build/smart-contract-interface.md)
 * [iFrame Integration](build/iframe-integration.md)
-* [Our Partners](build/our-partners.md)
+* [Ecosystem Partners](build/our-partners.md)
 
 ## ADDITIONAL RESOURCES
 
