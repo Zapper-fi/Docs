@@ -2,7 +2,7 @@
 description: Ability to add liquidity to multiple liquidity pools.
 ---
 
-# 🎛️Custom Zapping
+# 🎛️Multipooling
 
 
 

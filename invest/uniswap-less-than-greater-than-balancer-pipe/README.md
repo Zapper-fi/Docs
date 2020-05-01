@@ -1,12 +1,6 @@
 ---
-description: Rebalance liquidity between pools.
+description: (coming soon)
 ---
 
-# 🚰Pool Piping
-
-![](../../.gitbook/assets/piping.png)
-
-## What does "Piping" mean?
-
-> **Rebalancing liquidity between pools.** _****_
+# 🚰Piping
 

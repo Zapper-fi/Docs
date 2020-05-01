@@ -63,8 +63,6 @@ _**Instructions:**_
 
 To help us design and develop a worthy UI/UX, we partnered with one of our fellow MetaCartel members - [RaidGuild](https://raidguild.org/). This page will be launched as soon as the community approves, tests and audits zUNI smart contract.
 
-**Some WIP drafts:**[![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1923ca45-037c-4130-af2c-3c5e3769e0e2_1280x960.jpeg)](https://cdn.substack.com/image/fetch/c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1923ca45-037c-4130-af2c-3c5e3769e0e2_1280x960.jpeg)[![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0c0e6ce2-ff49-4ac4-bf49-8fe8a64c21d4_1600x1459.png)](https://cdn.substack.com/image/fetch/c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0c0e6ce2-ff49-4ac4-bf49-8fe8a64c21d4_1600x1459.png)
-
 ### **Next Steps:**
 
 1. [Proposal to Synthetix’s Grants DAO.](https://github.com/DeFiStrategies/snx-grants-dao/blob/master/proposals/zUNI.md)
@@ -74,11 +72,7 @@ To help us design and develop a worthy UI/UX, we partnered with one of our fello
 
    [Join the conversation](https://discord.gg/h6CGbuN)
 
-[![](https://cdn.substack.com/image/twitter_name/w_36/DeFi_Zap.jpg)DeFiZap@DeFi\_Zap🆕Introducing zUNI - an ERC20 token that lets you accrue additional sETH LP tokens from automatic SNX rewards rebalancing. ℹ️Learn more:](https://twitter.com/DeFi_Zap/status/1235988543635369986?s=20) [defitutorials.substack.com/p/zuni-program…](https://defitutorials.substack.com/p/zuni-programmable-pooling-incentives)⏯️Walk-through tutorial testing zUNI by @amateurdev2:[loom.com/share/53ead589…](https://www.loom.com/share/53ead589fa584db49c228d6c0352b5f6)Why zUNI? �Pm![](https://cdn.substack.com/image/fetch/w_600,c_limit,f_auto,q_auto:good/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FESccgo8WkAAB5tM.jpg)
 
-March 6th 2020
-
-**Please note that DeFiZap is an experimental project. DeFiZap is not providing any investment advisory or recommendation service. By using DeFiZap or its services, you agree that you are using the Services at your own risk and that you will not and do not hold DeFiZap or its team members liable should the services not perform as per your expectation. DeFiZap is not a licensed financial advisor under any law. Please consult your own independent investment advisor before making any investment decisions.**
 
 
 
