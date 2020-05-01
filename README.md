@@ -1,10 +1,10 @@
 # Introduction
 
-![](.gitbook/assets/group-3.png)
+![](.gitbook/assets/zapper-logo.png)
 
 ## **What is Zapper?**
 
-> #### Zapper = [DeFiSnap ](https://www.defisnap.io/)+ [DeFiZap ](https://defizap.com/)coming together to form the ultimate hub for **investing** _**and**_ **monitoring your DeFi positions.**
+> #### Zapper = [DeFiSnap ](https://www.defisnap.io/)+ [DeFiZap ](https://defizap.com/)coming together to form the ultimate hub for managing your DeFi assets and liabilities.
 >
 > #### **Our  mission is to increase the GDP of DeFi by abstracting the complexities of accessing unique opportunities faced by retail investors, fund managers and builders around the world.**
 >
