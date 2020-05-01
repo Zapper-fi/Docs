@@ -12,6 +12,8 @@
 
 {% embed url="https://frontierwallet.com/" %}
 
+{% embed url="https://www.blocknative.com/" %}
+
 {% embed url="https://iearn.finance/" %}
 
 {% embed url="https://www.futureswap.com/" %}
