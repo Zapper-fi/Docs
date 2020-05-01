@@ -1,32 +1,44 @@
 # Ecosystem Partners
 
-**Wyre**
+{% embed url="https://www.sendwyre.com/" %}
+
+{% embed url="https://www.metacartel.org/" %}
+
+{% embed url="https://www.synthetix.io/" %}
+
+{% embed url="https://kyber.network/" %}
 
 {% embed url="https://MyCrypto.com" %}
 
-**Frontier**
+{% embed url="https://frontierwallet.com/" %}
 
-**Kyber**
+{% embed url="https://iearn.finance/" %}
 
-**Fortmatic**
+{% embed url="https://www.futureswap.com/" %}
 
-**Metacartel**
+{% embed url="https://compound.finance/" %}
 
-**iearn**
+{% embed url="https://makerdao.com/en/" %}
 
-**Synthetix**
+{% embed url="https://fortmatic.com/" %}
 
-**Compound**
+{% embed url="https://renproject.io/" %}
 
-**Maker**
+{% embed url="https://defiscore.io/" %}
 
-**Rainbow wallet**
+{% embed url="https://dappradar.com/" %}
 
-**Dapp Radar**
+{% embed url="https://defipulse.com/" %}
 
-**Aave**
+{% embed url="https://uniswap.org/" %}
 
-**DeFiPulse**
+{% embed url="https://aave.com/" %}
+
+{% embed url="https://etherscan.io/" %}
+
+\*\*\*\*
+
+\*\*\*\*
 
 
 
