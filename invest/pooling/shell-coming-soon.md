@@ -1,2 +1,2 @@
-# Shell \(coming soon\)
+# Shell
 

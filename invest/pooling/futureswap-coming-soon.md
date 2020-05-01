@@ -1,2 +1,2 @@
-# FutureSwap \(coming soon\)
+# FutureSwap
 

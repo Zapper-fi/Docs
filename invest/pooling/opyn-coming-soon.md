@@ -1,2 +1,2 @@
-# Opyn \(coming soon\)
+# Opyn
 
