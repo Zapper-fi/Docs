@@ -16,7 +16,7 @@
 
 ![](../.gitbook/assets/7cjaymdmqn.gif)
 
-**3. Click 'Confirm' and depending on your wallet provider, you will need to verify transaction details before sending. Once you submit your transaction, you will be able to follow progress on Etherscan. Here's a live Multipooling test transaction adding liquidity across sETH, DAI, MKR, REP, LINK, and KNC pools.**
+**3. Click 'Confirm' and depending on your wallet provider, you will need to verify transaction details before sending. Once you submit your transaction, you will be able to follow progress on Etherscan. Here's a live Multipooling test transaction deploying 1 ETH across sETH, DAI, MKR, REP, LINK, and KNC Uniswap pools:** [**https://etherscan.io/tx/0x8fc108c97fd76dae4cf81d6baf76189f04ff484ce077bae12f867b6193531f0d**](https://etherscan.io/tx/0x8fc108c97fd76dae4cf81d6baf76189f04ff484ce077bae12f867b6193531f0d)\*\*\*\*
 
-\*\*\*\*
+![](../.gitbook/assets/chrome_ez72xvkucr.png)
 
