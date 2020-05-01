@@ -13,9 +13,7 @@
   * [Shell](invest/pooling/shell-coming-soon.md)
 * [🎛️Multipooling](invest/custom-zaps.md)
 * [🤐Zips](invest/zuni-coming-soon.md)
-* [🚰Piping](invest/uniswap-less-than-greater-than-balancer-pipe/README.md)
-  * [Uniswap&lt;&gt;Balancer Pipe](invest/uniswap-less-than-greater-than-balancer-pipe/uniswap-less-than-greater-than-balancer-pipe.md)
-  * [Uniswap&lt;&gt;Curve Pipe](invest/uniswap-less-than-greater-than-balancer-pipe/uniswap-less-than-greater-than-curve-pipe.md)
+* [🚰Piping](invest/uniswap-less-than-greater-than-balancer-pipe.md)
 * [🚀Leveraged Pooling](invest/leveraged-pooling-coming-soon.md)
 * [☯️Hedged Pooling](invest/hedged-pooling-coming-soon.md)
 
