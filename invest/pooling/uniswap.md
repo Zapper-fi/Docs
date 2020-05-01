@@ -119,6 +119,11 @@ _**minus**_
 
 \*This result would be the difference between the trading fees and the impermanent loss when you withdraw.
 {% endhint %}
+
+**Additional Resources:**
+
+* This report is based on a cadCAD model of Uniswap by [Markus Buhatem Koch](https://community.cadcad.org/t/modeling-uniswap-in-cadcad/35)
+* [DAI&lt;&gt;ETH exchange info](https://uniswap.info/token/0x6b175474e89094c44da98b954eedeac495271d0f)
 {% endtab %}
 {% endtabs %}
 
