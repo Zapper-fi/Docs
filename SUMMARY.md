@@ -26,7 +26,5 @@
 
 ## ADDITIONAL RESOURCES
 
-* [FAQs](faqs.md)
 * [DeFiTutorials.com](https://defitutorials.com/)
-* [DeFi.Gifts](https://defi.gifts/)
 

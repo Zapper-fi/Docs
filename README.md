@@ -26,5 +26,3 @@
 
    Easily re-balance between DeFi platforms or create your own opportunities.
 
-{% page-ref page="faqs.md" %}
-
