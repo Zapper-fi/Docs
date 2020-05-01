@@ -10,7 +10,7 @@
 >
 > #### **As of April, over $11M worth of value has been deployed via DeFiZap and more than \[xyz\] unique users are actively monitoring their assets & liabilities on DeFiSnap.**
 >
-> #### \*\*\*\*[**Read the full announcement post.**](https://defitutorials.substack.com/)\*\*\*\*
+> #### \*\*\*\*[**Read the full announcement post.**](https://defitutorials.substack.com/p/introducing-zapperfi)\*\*\*\*
 
 ## **How does it work?**
 
