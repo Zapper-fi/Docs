@@ -14,11 +14,15 @@
 >
 > #### **From December 2019 - April 2020:** 
 >
+> 🔗 **20+** protocol integrations
+>
+> 🔍 **6,000** unique users monitored their assets
+>
 > 💸 **$13M+** deployed into DeFi
 >
-> 🤩 by **1,500+** unique users
+> 🤩 by **1,500+** unique Zappers
 >
-> ⚡️ via **5,000+** Zaps
+> ⚡️ via **5,000+** zaps
 >
 > ❌ saving **18,000+** transactions
 >
