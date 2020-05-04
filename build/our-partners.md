@@ -38,6 +38,8 @@
 
 {% embed url="https://etherscan.io/" %}
 
+{% embed url="https://www.bancor.network/" %}
+
 {% embed url="https://1inch.exchange/" %}
 
 {% embed url="https://dex.ag/" %}

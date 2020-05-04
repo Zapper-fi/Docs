@@ -2,6 +2,10 @@
 
 ![](.gitbook/assets/zapper-logo.png)
 
+{% hint style="danger" %}
+**NOTE: These docs are still being worked on.**
+{% endhint %}
+
 ## **What is Zapper?**
 
 > #### Zapper = [DeFiSnap ](https://www.defisnap.io/)+ [DeFiZap ](https://defizap.com/)coming together to form the ultimate hub for managing your DeFi assets and liabilities.

@@ -4,7 +4,7 @@
 
 ### **First use-case: zUNI = Tokenized sETH Pool with SNX Incentives Rebalancer.**
 
-We at [DeFiZap ](https://defizap.com/)are big fans of Synthetix and are always looking for ways to improve the experience for this community. 
+We are big fans of Synthetix and are always looking for ways to improve the experience for this community. 
 
 For example, our [sETH Unipool Zap](https://defizap.com/zaps) helps users add liquidity to the sETH&lt;&gt;ETH Pool on Uniswap in one-transaction, using just one asset \(ETH or sETH or other ERC20s\). Inputs are split into appropriate proportions to enter the pool with. In return sETH LP tokens are minted which represent your claim on liquidity provided + accrued exchange fees. Over 8,000 ETH has been added to the sETH pool using this Zap alone since it’s deployment less than 3 months ago.
 
