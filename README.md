@@ -44,3 +44,9 @@
 
    Easily re-balance between DeFi platforms or create your own opportunities.
 
+## **Team - 100% Remote**
+
+![](.gitbook/assets/chrome_fyxinh8b2p.png)
+
+
+
