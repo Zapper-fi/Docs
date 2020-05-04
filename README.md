@@ -12,7 +12,17 @@
 >
 > #### **Our  mission is to increase the GDP of DeFi by abstracting the complexities of accessing unique opportunities faced by retail investors, fund managers and builders around the world.**
 >
-> #### **As of April, over $11M worth of value has been deployed via DeFiZap and more than \[xyz\] unique users are actively monitoring their assets & liabilities on DeFiSnap.**
+> #### **From December 2019 - April 2020:** 
+>
+> 💸 **$13M+** deployed into DeFi
+>
+> 🤩 by **1,500+** unique users
+>
+> ⚡️ via **5,000+** Zaps
+>
+> ❌ saving **18,000+** transactions
+>
+> 🕑 or **400+** hours
 >
 > #### \*\*\*\*[**Read the full announcement post.**](https://defitutorials.substack.com/p/introducing-zapperfi)\*\*\*\*
 
