@@ -30,7 +30,22 @@ This function acts as a **constant sum** when the portfolio is balanced and shif
 {% endtab %}
 
 {% tab title="How it works" %}
-![](../../.gitbook/assets/ezgif.com-gif-maker-1.gif)
+![sUSD Curve Pooling Illustration](../../.gitbook/assets/ezgif.com-gif-maker-1.gif)
+
+1. _**Connect**_ your digital wallet.
+
+   _No wallet?_ [_**Get one.**_](https://metamask.io/)_\*\*\*\*_
+
+2. Navigate to the [**Invest**](https://www.zapper.fi/#/invest) tab.
+3. Type in _**Curve**_ in the filter & click _**Invest**_ next to sUSD CRV Pool.
+4.  ****Enter how much you want to invest in _**ETH or ERC20s** \(fiat coming soon\). Token balances show up in the drop-down if you have any available. ****_
+5. Select gas setting for your transaction and click _**confirm**_. 
+
+   _When Metamask or your wallet provider prompts you, click confirm again._ 
+
+{% hint style="info" %}
+**Note:** Curve pooling options will be included in [**Multipooling** ](../multipooling.md)soon. For now, you are able to submit 2 separate transactions if you would like to add liquidity to both Curve and Uniswap pool.
+{% endhint %}
 {% endtab %}
 {% endtabs %}
 
