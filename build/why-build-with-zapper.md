@@ -1,3 +1,7 @@
+---
+description: COMPOSE NEW USE CASES WITH ZAPPER
+---
+
 # Why build with Zapper?
 
 ### The problem
@@ -27,4 +31,6 @@ Rapidly increase the functionality of your dapp with each new Zap integration
 **› Learn from user behavior**
 
 Analyze behavior to understand & prioritize which strategies to integrate next
+
+## [GET STARTED](https://discord.gg/PfaUkcP)
 
