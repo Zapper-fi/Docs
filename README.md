@@ -20,7 +20,7 @@
 >
 > 💸 **$13M+** deployed into DeFi
 >
-> 🤩 by **1,500+** unique Zappers
+> 🤩 by **1,500+** unique Zappers _\(~40% never interacted with Uniswap before Zaps\)_
 >
 > ⚡️ via **5,000+** zaps
 >

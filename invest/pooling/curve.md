@@ -28,6 +28,10 @@ This function acts as a **constant sum** when the portfolio is balanced and shif
 * [yCurve](https://y.curve.fi/)
 * [BUSD](https://busd.curve.fi/)
 {% endtab %}
+
+{% tab title="How it works" %}
+![](../../.gitbook/assets/ezgif.com-gif-maker-1.gif)
+{% endtab %}
 {% endtabs %}
 
 

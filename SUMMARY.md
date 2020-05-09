@@ -6,8 +6,8 @@
 
 * [💦Pooling](invest/pooling/README.md)
   * [Uniswap](invest/pooling/uniswap.md)
-  * [Balancer](invest/pooling/balancer.md)
   * [Curve](invest/pooling/curve.md)
+  * [Balancer](invest/pooling/balancer.md)
   * [FutureSwap](invest/pooling/futureswap-coming-soon.md)
   * [Opyn](invest/pooling/opyn-coming-soon.md)
   * [Bancor](invest/pooling/bancor.md)
