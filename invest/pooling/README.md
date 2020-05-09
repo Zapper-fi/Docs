@@ -1,8 +1,8 @@
 # 💦Pooling
 
-![](../../.gitbook/assets/zapper-pooling%20%281%29.png)
+![](../../.gitbook/assets/group-505.png)
 
-## What does "Pooling" mean?
+## What does "Pooling" mean
 
 > **Providing liquidity to** [_**constant function market makers**_](https://medium.com/bollinger-investment-group/constant-function-market-makers-defis-zero-to-one-innovation-968f77022159) _**& earning proportional exchange fees in return.**_ 
 >
