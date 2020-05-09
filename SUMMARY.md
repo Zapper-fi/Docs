@@ -28,4 +28,5 @@
 ## ADDITIONAL RESOURCES
 
 * [DeFiTutorials.com](https://defitutorials.com/)
+* [Zapper Support](https://discord.gg/aj57AeW)
 
