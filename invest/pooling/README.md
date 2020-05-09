@@ -1,6 +1,6 @@
 # 💦Pooling
 
-![](../../.gitbook/assets/group-505.png)
+![](../../.gitbook/assets/slice-6.png)
 
 ## What does "Pooling" mean
 
