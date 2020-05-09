@@ -51,21 +51,21 @@ Broadly speaking, there are three types of pools to consider:
 
 **Pegged Pools**
 
-* Low risk/ low reward
+* Low risk/ low reward \(unless juiced with incentives\)
 * e.g. ETH-sETH
-* These pools are for tokens pegged to ETH, meaning you maintain full exposure to ETH while collecting trading fees. There is risk in a peg collapse and historically these pools do not generate a great deal in fees.
+* These pools are for tokens pegged to ETH, meaning you maintain full exposure to ETH while collecting trading fees AND SNX rewards from the project's team itself. 
 
 **Stablecoin pools**
 
 * High risk/ high reward
 * e.g. ETH-DAI
-* These pools are historically popular with traders and often generate a good deal in fees. There is risk of missing out on ETH returns should its price break significantly upwards.
+* These pools are historically popular with traders and often generate a good deal in fees. There is risk of missing out on ETH returns should its price break significantly upwards. But if the fees are high enough, they typically beat this opportunity cost.
 
 **Standard token pools**
 
 * For existing token holders
 * e.g. ETH-MKR
-* If you’re already exposed to tokens and rebalancing, there is little harm in supplying liquidity to established pools.
+* If you’re already exposed to tokens, there is little harm in supplying liquidity to established pools. Still make sure to do thorough research before making the decision.
 
 If you’re just starting out as a liquidity provider, try sticking with established pools that have deep liquidity, high trading volume and lots of other liquidity providers.
 
