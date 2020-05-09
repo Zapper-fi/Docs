@@ -19,14 +19,6 @@ Where **x** is the reserves for each asset, **n** is the number of assets, **D**
 This function acts as a **constant sum** when the portfolio is balanced and shifts towards a **constant product** as the portfolio becomes more imbalanced. In effect, the function looks like a “zoomed-in hyperbola”.
 
 ![](../../.gitbook/assets/image%20%283%29.png)
-
-### Available Curve Pools:
-
-* [sUSD \(beta\)](https://beta.curve.fi/)
-* [Compound](https://compound.curve.fi/)
-* [USDT](https://usdt.curve.fi/)
-* [yCurve](https://y.curve.fi/)
-* [BUSD](https://busd.curve.fi/)
 {% endtab %}
 
 {% tab title="How it works" %}
