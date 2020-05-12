@@ -9,14 +9,14 @@
 ## What is Zapper?
 #### Zapper = [DeFiSnap ](https://www.defisnap.io/)+ [DeFiZap ](https://defizap.com/)coming together to form the ultimate hub for managing your DeFi assets & liabilities. 
 
+## Our Mission
+#### **Increase the GDP of DeFi by abstracting the complexities of accessing unique opportunities faced by retail investors, fund managers and builders around the world.**
+
 ## Features
 * Enter wallet address & get an instant snapshot of all your DeFi holdings. 
 * Integration with over 20 DeFi protocols.
 * Ability to combine different DeFi building blocks to create your own instruments, strategies or even entirely new use-cases.
 * Supported wallets - Metamask, Ledger, Trezor, WalletConnect, Fortmatic, Torus, Opera, Authereum.
-
-## Mission
-#### **Increase the GDP of DeFi by abstracting the complexities of accessing unique opportunities faced by retail investors, fund managers and builders around the world.**
 
 ## **How does it work?**
 
