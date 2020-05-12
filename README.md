@@ -21,15 +21,10 @@
 ## **How does it work?**
 
 1. [**Invest**](https://www.zapper.fi/#/invest).
-
    Browse unique opportunities available across the always expanding list of available DeFi platforms.
-
 2. [**Monitor**](https://www.zapper.fi/#/dashboard).
-
    Get a snapshot of all your DeFi assets & liabilities.
-
 3. [**Manage**](https://www.zapper.fi/#/invest).
-
    Easily re-balance between DeFi platforms or create your own opportunities.
 
 ## Traction
