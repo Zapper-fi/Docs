@@ -18,7 +18,7 @@ Where **x** is the reserves for each asset, **n** is the number of assets, **D**
 
 This function acts as a **constant sum** when the portfolio is balanced and shifts towards a **constant product** as the portfolio becomes more imbalanced. In effect, the function looks like a “zoomed-in hyperbola”.
 
-![](../../.gitbook/assets/image%20%283%29.png)
+![Source: https://medium.com/bollinger-investment-group/constant-function-market-makers-defis-zero-to-one-innovation-968f77022159](../../.gitbook/assets/image%20%283%29.png)
 {% endtab %}
 
 {% tab title="How it works" %}
