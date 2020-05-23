@@ -36,9 +36,7 @@ description: Add liquidity to pools on Uniswap & start generating fees.
 {% endtab %}
 
 {% tab title="Who\'s this for?" %}
-![](../../.gitbook/assets/uniswap_image_02.png)
-
-> ### Uniswap liquidity provisioning on active pools is proving to be a great alternative to hedge your assets as exchange fees generated seem to be outpacing any impermanent losses incurred. Past few weeks we’ve witnessed some of the most volatile times in crypto history. Extreme volatility resulted in increased volume, especially around stable tokens such as DAI and USDC as many rushed to exit their crypto positions. For example, on March 13th alone, DAI&lt;&gt;ETH LPs proportionally earned ~$75,000 for processing ~$25M worth of swaps!
+> ### Liquidity provisioning within active pools is proving to be a great alternative to hedge your assets as exchange fees generated seem to be outpacing any impermanent losses incurred. Past few weeks we’ve witnessed some of the most volatile times in crypto history. Extreme volatility resulted in increased volume, especially around stable tokens such as DAI and USDC as many rushed to exit their crypto positions. For example, on March 13th alone, DAI&lt;&gt;ETH LPs proportionally earned ~$75,000 for processing ~$25M worth of swaps!
 
 {% hint style="danger" %}
  _Before entering a Uniswap Pool make sure you understand the concept of impermanent loss which_ [_was covered here_](https://bankless.substack.com/p/how-to-make-money-on-uniswap) _or_ [_here_](https://medium.com/@pintail/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2) _so you’ve have clear expectations on gain and loss potential._
@@ -50,9 +48,9 @@ Broadly speaking, there are three types of pools to consider:
 
 **Pegged Pools**
 
-* Low risk/ low reward \(unless juiced with incentives\)
-* e.g. ETH-sETH
-* These pools are for tokens pegged to ETH, meaning you maintain full exposure to ETH while collecting trading fees AND SNX rewards from the project's team itself. 
+* Low risk/ low reward.
+* Some have extra incentives: e.g. ETH-sETH
+* These pools are for tokens pegged to ETH, meaning you maintain full exposure to ETH while collecting trading fees AND accruing SNX rewards from Synthetix if you stake your LP. We've been experimenting with [zUNI ](https://defitutorials.substack.com/p/zuni-programmable-pooling-incentives)tokens which "Chai-fi" your LP staking experience while automatically retaking accrued rewards.
 
 **Stablecoin pools**
 
