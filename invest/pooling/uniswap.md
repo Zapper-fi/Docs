@@ -50,7 +50,7 @@ Broadly speaking, there are three types of pools to consider:
 
 * Low risk/ low reward.
 * Some have extra incentives: e.g. ETH-sETH.
-* These pools are for tokens pegged to ETH, meaning you maintain full exposure to ETH while collecting trading fees AND accruing SNX rewards from Synthetix if you stake your LP. We've been experimenting with [zUNI ](https://defitutorials.substack.com/p/zuni-programmable-pooling-incentives)tokens which "Chai-fi" your LP staking experience while automatically retaking accrued rewards.
+* These pools are for tokens pegged to ETH, meaning you maintain full exposure to ETH while collecting trading fees AND accruing SNX rewards from Synthetix if you stake your LP. We've been experimenting with [zUNI ](https://defitutorials.substack.com/p/zuni-programmable-pooling-incentives)tokens which "Chai-fi" your LP staking experience while automatically retaking accrued rewards. Keep in mind zUNIs haven not been deployed on the mainnet yet, we want to make sure these are thoroughly tested.
 
 **Stablecoin pools**
 
@@ -72,14 +72,6 @@ Also use caution interacting with pools whose tokens are highly specialized. For
 {% endtab %}
 
 {% tab title="Calculating ROI" %}
-{% hint style="success" %}
-**You make the highest returns when there’s high trading volume and low price change between the pair. Or when price is volatile but goes back to the ratio you started with.**
-{% endhint %}
-
-{% hint style="danger" %}
-**You make the least returns when there’s low trading volume and high price change.**
-{% endhint %}
-
 | DAI Pool Analysis Example | Block _**\[Time\]**_ |
 | :--- | :--- |
 | `Start` | \*\*\*\*[**\#8,957,433** _****_](https://etherscan.io/tx/0x32d2b60e4b627d5b4d5e9c7369590b53f4512c8c0fccc4401b03c38df4ff4424)_\[Nov-18-2019 04:15:18 PM +UTC\]_ |
@@ -104,6 +96,14 @@ HOLDING 50/50 ETH/DAI:🔻**17.98%**
 ### NOTE: These are total pool returns, not individual liquidity providers. Returns for individual LPs will vary highly depending on their proportional share throughout the pooling period. 
 
 ### Why? Because if you have 1/10 of all liquidity in the pool, you will generate 10% of all trading fees \(.30 % paid by traders\) but let's say someone adds double the liquidity -&gt; now proportionally you have 1/20. Given the same volume, you will generate less fees since you will only be receiving 5% of all trading fees.
+
+{% hint style="success" %}
+**You make the highest returns when there’s high trading volume and low price change between the pair. Or when price is volatile but goes back to the ratio you started with.**
+{% endhint %}
+
+{% hint style="danger" %}
+**You make the least returns when there’s low trading volume and high price change.**
+{% endhint %}
 
 {% hint style="info" %}
 **LP Net Gains =** 
