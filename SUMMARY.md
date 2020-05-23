@@ -11,9 +11,10 @@
   * [FutureSwap](invest/pooling/futureswap-coming-soon.md)
   * [Bancor](invest/pooling/bancor.md)
   * [Shell](invest/pooling/shell-coming-soon.md)
+  * [Opyn](invest/pooling/opyn.md)
 * [🎛️Multipooling](invest/multipooling.md)
-* [🤐Zips](invest/zuni-coming-soon.md)
 * [🚰Piping](invest/uniswap-less-than-greater-than-balancer-pipe.md)
+* [🤐Zips](invest/zuni-coming-soon.md)
 * [🚀Leveraged Pooling](invest/leveraged-pooling-coming-soon.md)
 * [☯️Hedged Pooling](invest/hedged-pooling-coming-soon.md)
 

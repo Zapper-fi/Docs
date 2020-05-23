@@ -25,7 +25,6 @@ description: Add liquidity to pools on Uniswap & start generating fees.
 
 * **In order to mint pool tokens, you are required to deposit an equivalent value of ETH and ERC20 tokens.**
 * **So providing liquidity on an ETH/DAI pair could require you to trade half your ETH exposure for DAI in order to participate.**
-* **Is it worth exiting 50% of an ETH position to enter a DAI pool? The bet here is that pool growth from trading fees will outweigh your reduced exposure to ETH.** 
 
 ![](../../.gitbook/assets/unipool.png)
 

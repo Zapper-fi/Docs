@@ -8,7 +8,9 @@
 
 ## What is Zapper?
 
-### Zapper = [DeFiSnap ](https://www.defisnap.io/)+ [DeFiZap ](https://defizap.com/)coming together to form the ultimate hub for managing your DeFi assets & liabilities.
+### Zapper = DeFiSnap + DeFiZap coming together to form the ultimate hub for managing your DeFi assets & liabilities.
+
+### [**Read the full announcement post.**](https://defitutorials.substack.com/p/introducing-zapperfi)
 
 ## Our Mission
 
@@ -34,24 +36,4 @@
 3. [**Manage**](https://www.zapper.fi/#/invest).
 
    Easily re-balance between DeFi platforms or create your own opportunities.
-
-## Traction
-
-### **From December 2019 - April 2020:**
-
-🔗 **20+** protocol integrations
-
-🔍 **6,000** unique users monitored their assets
-
-💸 **$13M+** deployed into DeFi
-
-🤩 by **1,500+** unique Zappers _\(~40% never interacted with Uniswap before Zaps\)_
-
-⚡️ via **5,000+** zaps
-
-❌ saving **18,000+** transactions
-
-🕑 or **400+** hours
-
-### [**Read the full announcement post.**](https://defitutorials.substack.com/p/introducing-zapperfi)
 
