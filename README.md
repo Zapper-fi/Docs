@@ -10,11 +10,11 @@
 
 ### Zapper = DeFiSnap + DeFiZap coming together to form the ultimate hub for managing your DeFi assets & liabilities.
 
-### [**Read the full announcement post.**](https://defitutorials.substack.com/p/introducing-zapperfi)
-
 ## Our Mission
 
 ### **Increase the GDP of DeFi by abstracting the complexities of accessing unique opportunities faced by retail investors, fund managers and builders around the world.**
+
+### [**Read the full announcement post about our merger.**](https://defitutorials.substack.com/p/introducing-zapperfi)
 
 ## Features
 
