@@ -4,9 +4,9 @@
 
 | Contract | Description | Address ||
 | :--- | :--- | :--- | :--- |
-| Curve to Curve Pipe | Rebalance liquidity between Curve pools | [0x83c32BF929F80e404ff30Ede7333271460b13cd9](https://etherscan.io/address/0x83c32BF929F80e404ff30Ede7333271460b13cd9) |  
-| Unipool-Curve Pipe | Rebalance liquidity from Uniswap to Curve pools or from Curve pools to Uniswap pools | [0x66895417881B1d77Ca71bd9e5Ba1E729f3Aa44D3](https://etherscan.io/address/0x66895417881B1d77Ca71bd9e5Ba1E729f3Aa44D3) | 
-| Unipool-Unipool Pipe | Rebalance liquidity between Curve pools | [0xaecCd58001D52B4b931FD6FD5bF87D4F911100B7](https://etherscan.io/address/0xaecCd58001D52B4b931FD6FD5bF87D4F911100B7) | 
+| Curve to Curve Pool Pipe | Rebalance liquidity between Curve pools | [0x83c32BF929F80e404ff30Ede7333271460b13cd9](https://etherscan.io/address/0x83c32BF929F80e404ff30Ede7333271460b13cd9) |  
+| Uniswap V1 to Curve Pool Pipe | Rebalance liquidity from Uniswap to Curve pools or from Curve pools to Uniswap pools | [0x66895417881B1d77Ca71bd9e5Ba1E729f3Aa44D3](https://etherscan.io/address/0x66895417881B1d77Ca71bd9e5Ba1E729f3Aa44D3) | 
+| Uniswap V1 to Uniswap V1 Pool Pipe | Rebalance liquidity between Curve pools | [0xaecCd58001D52B4b931FD6FD5bF87D4F911100B7](https://etherscan.io/address/0xaecCd58001D52B4b931FD6FD5bF87D4F911100B7) | 
 | Curve Remove Liquidity | Remove liquidity from Curve. Recieve ETH or Stablecoin | [0x983dd5dc5a99ec27bb850b865ca99407b38722bf](https://etherscan.io/address/0x983dd5dc5a99ec27bb850b865ca99407b38722bf) | 
 
 ## Usage example (Curve to Curve Pipe)
