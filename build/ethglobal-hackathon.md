@@ -10,6 +10,7 @@
 | Curve Remove Liquidity | Remove liquidity from Curve. Recieve ETH or Stablecoin | [0x983dd5dc5a99ec27bb850b865ca99407b38722bf](https://etherscan.io/address/0x983dd5dc5a99ec27bb850b865ca99407b38722bf) | 
 
 ## Usage example (Curve to Curve Pipe)
+#### Swap 5 CRV tokens (sUSD) for y Curve tokens
 
 ```
 import Web3 from "web3";
