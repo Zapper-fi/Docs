@@ -52,13 +52,13 @@ Broadly speaking, there are three types of pools to consider:
 * Some have extra incentives: e.g. ETH-sETH.
 * These pools are for tokens pegged to ETH, meaning you maintain full exposure to ETH while collecting trading fees AND accruing SNX rewards from Synthetix if you stake your LP. We've been experimenting with [zUNI ](https://defitutorials.substack.com/p/zuni-programmable-pooling-incentives)tokens which "Chai-fi" your LP staking experience while automatically retaking accrued rewards. Keep in mind zUNIs haven not been deployed on the mainnet yet, we want to make sure these are thoroughly tested.
 
-**Stablecoin pools**
+**Stable Pools**
 
 * High risk/ high reward.
 * e.g. ETH-DAI.
 * These pools are historically popular with traders and often generate a good deal in fees. There is risk of missing out on ETH returns should its price break significantly upwards \(or downwards\). But if the fees are high enough, they typically beat this opportunity cost.
 
-**Standard token pools**
+**Token Pools**
 
 * For existing token holders of underlying ERC20 tokens OR active liquidity providers looking for extra yield/diversifying assets.
 * e.g. ETH-MKR.
