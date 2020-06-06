@@ -48,7 +48,7 @@ description: Add liquidity to pools on Uniswap & start generating fees.
 
 #### **Choosing a pool**
 
-Broadly speaking, there are three types of pools to consider:
+Broadly speaking, there are three types of pools to consider within Uniswap:
 
 **Pegged Pools**
 
