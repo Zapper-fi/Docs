@@ -2,7 +2,7 @@
 description: COMPOSE NEW USE CASES WITH ZAPPER
 ---
 
-# Why build with Zapper?
+# 🛠️Why build with Zapper?
 
 ### The problem
 

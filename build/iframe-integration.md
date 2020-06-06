@@ -1,4 +1,4 @@
-# iFrame Integration
+# 🖼️iFrame Integration
 
 An iFrame embeds specific Zap cards aka strategies to your website.
 

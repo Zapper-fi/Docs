@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [⚡️Introduction](README.md)
+* [⚙️Features](features.md)
 
 ## INVEST
 
@@ -20,13 +21,14 @@
 
 ## BUILD
 
-* [Why build with Zapper?](build/why-build-with-zapper.md)
-* [Smart Contract Interface](build/smart-contract-interface.md)
-* [iFrame Integration](build/iframe-integration.md)
-* [Ecosystem Partners](build/our-partners.md)
+* [🛠️Why build with Zapper?](build/why-build-with-zapper.md)
+* [📄Smart Contract Interface](build/smart-contract-interface.md)
+* [🖼️iFrame Integration](build/iframe-integration.md)
 
 ## ADDITIONAL RESOURCES
 
-* [DeFiTutorials.com](https://defitutorials.com/)
-* [Zapper Support](https://discord.gg/aj57AeW)
+* [🥰Fan Love](additional-resources/fan-love.md)
+* [🤝Ecosystem Partners](additional-resources/our-partners.md)
+* [🔌Join Our Community](https://discordapp.com/invite/h6CGbuN)
+* [▶️DeFiTutorials.com](https://defitutorials.com/)
 
