@@ -12,6 +12,8 @@
 
 {% embed url="https://www.molochdao.com/" %}
 
+{% embed url="https://uniswap.org/" %}
+
 {% embed url="https://frontierwallet.com/" %}
 
 {% embed url="https://www.blocknative.com/" %}
@@ -24,6 +26,8 @@
 
 {% embed url="https://makerdao.com/en/" %}
 
+{% embed url="https://balancer.finance/" %}
+
 {% embed url="https://fortmatic.com/" %}
 
 {% embed url="https://chain.link/" %}
@@ -35,8 +39,6 @@
 {% embed url="https://dappradar.com/" %}
 
 {% embed url="https://defipulse.com/" %}
-
-{% embed url="https://uniswap.org/" %}
 
 {% embed url="https://www.argent.xyz/" %}
 
