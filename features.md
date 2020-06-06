@@ -1,14 +1,22 @@
 # ⚙️Features
 
-## **Enter wallet address & get an instant snapshot of all your DeFi holdings.** 
+## 📊[**Enter wallet address & get an instant snapshot of all your DeFi holdings**](https://www.zapper.fi/)\*\*\*\*
 
-## **Integration with over 20 DeFi protocols.**
+![](.gitbook/assets/chrome_u3a5ubn8tt.png)
 
-## **Easiest way to understand & deploy capital to unique opportunities in DeFi.**
+## 💸[**Easiest way to understand & deploy capital to unique opportunities in DeFi**](https://docs.zapper.fi/)\*\*\*\*
 
-## **Ability to combine financial instruments to create your own strategies or even entirely new use-cases.**
+{% embed url="https://docs.zapper.fi/" %}
 
-## **Supported wallets:** 
+## ⛓️[**Integration with 19 DeFi platforms**](https://www.zapper.fi/supported)
+
+![](.gitbook/assets/chrome_nzuutqqmvs.png)
+
+## 🧱[**Ability to combine financial instruments to create your own strategies or even entirely new use-cases**](https://www.zapper.fi/invest)\*\*\*\*
+
+\*\*\*\*
+
+## 💳[**Supported wallets**](https://www.zapper.fi/) ****
 
 ![Get Started on Zapper.Fi](.gitbook/assets/image%20%288%29.png)
 
