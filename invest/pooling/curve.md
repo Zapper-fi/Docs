@@ -21,7 +21,7 @@ This function acts as a **constant sum** when the portfolio is balanced and shif
 ![Source: https://medium.com/bollinger-investment-group/constant-function-market-makers-defis-zero-to-one-innovation-968f77022159](../../.gitbook/assets/image%20%283%29.png)
 {% endtab %}
 
-{% tab title="How it works" %}
+{% tab title="Add Liquidity" %}
 ![sUSD Curve Pooling Illustration](../../.gitbook/assets/ezgif.com-gif-maker-1.gif)
 
 1. _**Connect**_ your digital wallet.
@@ -38,6 +38,14 @@ This function acts as a **constant sum** when the portfolio is balanced and shif
 {% hint style="info" %}
 **Note:** Curve pooling options will be included in [**Multipooling** ](../multipooling.md)soon. For now, you are able to submit 2 separate transactions if you would like to add liquidity to both Curve and Uniswap pool.
 {% endhint %}
+{% endtab %}
+
+{% tab title="Remove Liquidity" %}
+![](../../.gitbook/assets/5eloy7hedn.gif)
+
+1. **As usual start by selecting which pool you want to exit.**
+2. **For output you are able to select ETH, sUSD, DAI, USDC, TUSD, USDT, or BUSD.**
+3. **Confirm your transaction.**
 {% endtab %}
 
 {% tab title="Who\'s this for? " %}

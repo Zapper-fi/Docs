@@ -20,7 +20,7 @@ description: Add liquidity to pools on Uniswap & start generating fees.
 | **Market Function** | Constant Product _**x∗y=k**_ |
 {% endtab %}
 
-{% tab title="How it works" %}
+{% tab title="Add liquidity" %}
 ### **A. Adding liquidity with 2 assets.**
 
 * **In order to mint pool tokens, you are required to deposit an equivalent value of ETH and ERC20 tokens.**
@@ -33,6 +33,10 @@ description: Add liquidity to pools on Uniswap & start generating fees.
 * **Zapper enables liquidity provisioning with** _**a single asset**_**.**
 * **Ideal for those who don't have required underlying ERC20 tokens.**
 * **Save 3 or more on-chain transactions to mint Uniswap pool tokens.**
+{% endtab %}
+
+{% tab title="Remove Liquidity" %}
+{% embed url="https://twitter.com/zapper\_fi/status/1262681589613498368?s=20" %}
 {% endtab %}
 
 {% tab title="Who\'s this for?" %}
