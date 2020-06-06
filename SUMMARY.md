@@ -22,7 +22,7 @@
 ## BUILD
 
 * [🛠️Why build with Zapper?](build/why-build-with-zapper.md)
-* [📄Smart Contract Interface](build/smart-contract-interface.md)
+* [📄Smart Contracts](build/smart-contracts.md)
 * [🖼️iFrame Integration](build/iframe-integration.md)
 
 ## ADDITIONAL RESOURCES
