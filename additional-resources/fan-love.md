@@ -1,4 +1,4 @@
-# 🥰Fan Love
+# 🥰Community Love
 
 {% embed url="https://twitter.com/UniswapProtocol/status/1209217414740754434?s=20" %}
 

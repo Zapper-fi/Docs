@@ -27,7 +27,7 @@
 
 ## ADDITIONAL RESOURCES
 
-* [🥰Fan Love](additional-resources/fan-love.md)
+* [🥰Community Love](additional-resources/fan-love.md)
 * [🤝Ecosystem Partners](additional-resources/our-partners.md)
 * [🔌Join Our Community](https://discordapp.com/invite/h6CGbuN)
 * [▶️DeFiTutorials.com](https://defitutorials.com/)
