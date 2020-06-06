@@ -14,9 +14,9 @@
 
 ## 🧱[**Ability to combine financial instruments to create your own strategies or even entirely new use-cases**](https://www.zapper.fi/invest)\*\*\*\*
 
-\*\*\*\*
+![](.gitbook/assets/7cjaymdmqn%20%281%29.gif)
 
 ## 💳[**Supported wallets**](https://www.zapper.fi/) ****
 
-![Get Started on Zapper.Fi](.gitbook/assets/image%20%288%29.png)
+![Get Started on Zapper.Fi](.gitbook/assets/image%20%289%29.png)
 

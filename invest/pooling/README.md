@@ -1,6 +1,6 @@
 # 💦Pooling
 
-![](../../.gitbook/assets/slice-6.png)
+![Get started on Zapper.Fi](../../.gitbook/assets/slice-6.png)
 
 ## What does "Pooling" mean
 
