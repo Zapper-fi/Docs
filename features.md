@@ -4,7 +4,7 @@
 
 ![](.gitbook/assets/chrome_u3a5ubn8tt.png)
 
-## 💸[**The easiest way to learn about new opportunities & deploy capital**](invest/pooling/)\*\*\*\*
+## 💸[**The easiest way to discover and access new opportunities in DeFi** ](invest/pooling/)\*\*\*\*
 
 {% embed url="https://docs.zapper.fi/invest/pooling" %}
 
