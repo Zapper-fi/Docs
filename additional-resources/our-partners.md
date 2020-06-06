@@ -10,6 +10,8 @@
 
 {% embed url="https://MyCrypto.com" %}
 
+{% embed url="https://www.molochdao.com/" %}
+
 {% embed url="https://frontierwallet.com/" %}
 
 {% embed url="https://www.blocknative.com/" %}
@@ -24,6 +26,8 @@
 
 {% embed url="https://fortmatic.com/" %}
 
+{% embed url="https://chain.link/" %}
+
 {% embed url="https://renproject.io/" %}
 
 {% embed url="https://defiscore.io/" %}
@@ -33,6 +37,8 @@
 {% embed url="https://defipulse.com/" %}
 
 {% embed url="https://uniswap.org/" %}
+
+{% embed url="https://www.argent.xyz/" %}
 
 {% embed url="https://aave.com/" %}
 
@@ -44,11 +50,7 @@
 
 {% embed url="https://dex.ag/" %}
 
-{% embed url="https://aave.com/" %}
+{% embed url="https://paraswap.io/\#/" %}
 
 {% embed url="https://unlock-protocol.com/" %}
-
-{% embed url="https://www.molochdao.com/" %}
-
-{% embed url="https://www.argent.xyz/" %}
 
