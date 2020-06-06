@@ -125,7 +125,7 @@ _**minus**_
 {% tab title="Incentives" %}
 ### sETH Uniswap Pool provides extra incentives to those who further stake their LPs in Synthetix unipool contract which accrues proportional SNX rewards as a bonus from the project team itself. 
 
-[More info.](https://sips.synthetix.io/sips/sip-31)
+{% embed url="https://twitter.com/zapper\_fi/status/1266299922975875074?s=20" %}
 {% endtab %}
 {% endtabs %}
 
