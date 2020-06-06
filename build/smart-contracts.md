@@ -16,11 +16,12 @@
 | Uniswap V1 &lt;&gt; Uniswap V1 Pool Pipe | Rebalance liquidity between Uniswap V1 liquidity pools  | [0xaecCd58001D52B4b931FD6FD5bF87D4F911100B7](https://etherscan.io/address/0xaecCd58001D52B4b931FD6FD5bF87D4F911100B7) |  |
 | Uniswap V1 &lt;&gt; Uniswap V2 Pool Pipe | Rebalance liquidity between Uniswap V1+V2 liquidity pools | [0x6d313883c6db5ea58bdd5546f403f1fe27e92690](https://etherscan.io/address/0x6d313883c6db5ea58bdd5546f403f1fe27e92690) |  |
 
-## Mainnet
+## Deprecated
 
 | Contract | Description | Address | ABI |
 | :--- | :--- | :--- | :--- |
-| Uniswap V1 Add Liquidity With ETH | Add liquidity to any liquidity pool on Uniswap V1 using just ETH | [0x97402249515994Cc0D22092D3375033Ad0ea438A](https://etherscan.io/address/0x97402249515994cc0d22092d3375033ad0ea438a) |  |
+| \[OLD\]Uniswap V1 Add Liquidity With ETH | Add liquidity to any liquidity pool on Uniswap V1 using just ETH | [0x606563f8DC27F316b77F22d14D9Cd025B4F70469](https://etherscan.io/address/0x606563f8dc27f316b77f22d14d9cd025b4f70469) |  |
+| Uniswap Remove Liquidity | Remove liquidity from any liquidity pool on Uniswap V1 & receive just ETH or any ERC20 | [0x2fba0b21a553f0f268293be7abb07a54fffd2b02](https://etherscan.io/address/0x2fba0b21a553f0f268293be7abb07a54fffd2b02) |  |
 
 ## Usage
 
@@ -169,4 +170,6 @@ import Web3 from "web3";
   } else await sendTransaction(address, 0, tx, gasPrice); // Contract already has approval, gas estimates will not fail
 };
 ```
+
+
 
