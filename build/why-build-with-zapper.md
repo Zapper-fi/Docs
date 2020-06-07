@@ -1,7 +1,3 @@
----
-description: COMPOSE NEW USE CASES WITH ZAPPER
----
-
 # 🛠️Why build with Zapper?
 
 ### Benefits
