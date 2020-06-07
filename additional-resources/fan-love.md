@@ -1,14 +1,14 @@
 # 🥰Community Love
 
-{% embed url="https://twitter.com/UniswapProtocol/status/1209217414740754434?s=20" %}
+{% embed url="https://twitter.com/UniswapProtocol/status/1268285485639708675?s=20\]" %}
 
 {% embed url="https://twitter.com/synthetix\_io/status/1268441601719713792?s=20" %}
-
-{% embed url="https://twitter.com/UniswapProtocol/status/1268285485639708675?s=20\]" %}
 
 {% embed url="https://twitter.com/DefiRate/status/1265057152520957952?s=20" %}
 
 {% embed url="https://twitter.com/DeFi\_Dad/status/1257905192055353344?s=20" %}
+
+{% embed url="https://twitter.com/UniswapProtocol/status/1209217414740754434?s=20" %}
 
 {% embed url="https://twitter.com/sassal0x/status/1257399462353235969?s=20" %}
 
