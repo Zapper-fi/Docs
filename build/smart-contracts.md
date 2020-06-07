@@ -21,7 +21,7 @@
 | Contract | Description | Address | ABI |
 | :--- | :--- | :--- | :--- |
 | \[OLD\]Uniswap V1 Add Liquidity With ETH | Add liquidity to any liquidity pool on Uniswap V1 using just ETH | [0x606563f8DC27F316b77F22d14D9Cd025B4F70469](https://etherscan.io/address/0x606563f8dc27f316b77f22d14d9cd025b4f70469) |  |
-| Uniswap Remove Liquidity | Remove liquidity from any liquidity pool on Uniswap V1 & receive just ETH or any ERC20 | [0x2fba0b21a553f0f268293be7abb07a54fffd2b02](https://etherscan.io/address/0x2fba0b21a553f0f268293be7abb07a54fffd2b02) |  |
+| Uniswap Remove Liquidity | Remove liquidity from any liquidity pool on Uniswap V1 & receive just ETH or any ERC20 | [0x4316e3aD83ca2Cf0ea5e3b25e3DE2fA7F93cfE9c](https://etherscan.io/address/0x4316e3ad83ca2cf0ea5e3b25e3de2fa7f93cfe9c) |  |
 
 ## Usage
 

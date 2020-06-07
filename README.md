@@ -50,7 +50,11 @@ Just like jewelers use gold to make necklaces and rings, developers program digi
 
 _**Gwei**_ is converted to Ether which is deducted as the smart contract gets executed.
 
-**Why is there gwei AND Ether?Why can’t we just price operations in Ether directly?** The reason for that is to decouple the price of an operation with the market price of Ether. If the price of Ether skyrockets on the market, the cost of running operations could be controlled with gwei/ETH conversion rate \(set by miners\). 
+{% hint style="warning" %}
+**Why is there gwei AND Ether? Why can’t we just price operations in Ether directly?** 
+
+The reason for that is to decouple the price of an operation with the market price of Ether. If the price of Ether skyrockets on the market, the cost of running operations could be controlled with gwei/ETH conversion rate \(set by miners\). 
+{% endhint %}
 
 [Learn more about smart contracts.](https://ethereum.org/learn/#smart-contracts)
 {% endtab %}
