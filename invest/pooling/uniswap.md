@@ -72,7 +72,7 @@ Also use caution interacting with pools whose tokens are highly specialized. For
 
 ### **B. Adding liquidity with 1 asset AKA 'Unipooling'.**
 
-* **Zapper enables liquidity provisioning with** _**a single asset**_**.**
+* **Zapper enables liquidity provisioning with** _**a single asset \(ETH or ERC20 tokens\)**_**.**
 * **Ideal for those who don't have required underlying ERC20 tokens.**
 * **Save 3 or more on-chain transactions to mint Uniswap pool tokens.**
 {% endtab %}
