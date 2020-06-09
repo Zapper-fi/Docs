@@ -54,7 +54,7 @@ Broadly speaking, there are three types of pools to consider within Uniswap:
 
 * Low risk/ low reward.
 * Some have extra incentives: e.g. ETH-sETH.
-* These pools are for tokens pegged to ETH, meaning you maintain full exposure to ETH while collecting trading fees AND accruing SNX rewards from Synthetix if you stake your LP. We've been experimenting with [zUNI ](https://defitutorials.substack.com/p/zuni-programmable-pooling-incentives)tokens which "Chai-fi" your LP staking experience while automatically retaking accrued rewards. Keep in mind zUNIs haven not been deployed on the mainnet yet, we want to make sure these are thoroughly tested.
+* These pools are for tokens pegged to ETH, meaning you maintain full exposure to ETH while collecting trading fees AND accruing SNX rewards from Synthetix if you stake your LP. We've been experimenting with [zUNI ](https://defitutorials.substack.com/p/zuni-programmable-pooling-incentives)tokens which "Chai-fi" your LP staking experience while automatically re-staking accrued rewards. Keep in mind zUNIs haven not been deployed on the mainnet yet, we want to make sure these are thoroughly tested.
 
 **Stable Pools**
 
