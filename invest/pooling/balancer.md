@@ -22,6 +22,16 @@
 | **Arbitrageurs** | maintain the price of assets within that portfolio in accordance with the market price in exchange for a profit. |
 {% endtab %}
 
+{% tab title="Incentives" %}
+### **Earn BAL tokens on top of pool returns**
+
+On Monday, June 1st at 00:00 UTC \(i.e. at midnight from Sunday to Monday\), Balancer Labs will start considering liquidity held on Balancer protocol for the distribution of governance tokens. 
+
+### How to get involved
+
+Simply add liquidity to ANY liquidity pool on Balancer and you will automatically start accruing BAL tokens which will start distributing to your wallet in the coming weeks.
+{% endtab %}
+
 {% tab title="Adding liquidity" %}
 1. **Connect with your wallet.**
 2. **Choose which Balancer pool you would like to join.**
