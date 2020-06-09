@@ -7,7 +7,7 @@
 {% endhint %}
 
 {% tabs %}
-{% tab title="What is Zapper?" %}
+{% tab title="What\'s Zapper?" %}
 ### [Zapper ](https://www.zapper.fi/dashboard)was formed as a result of DeFiSnap + DeFiZap coming together to create the ultimate hub for Decentralized Finance aka \#DeFi.
 
 1. [**Invest**](invest/pooling/).
