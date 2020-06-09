@@ -23,11 +23,12 @@
 
 * [🛠️Why build with Zapper?](build/why-build-with-zapper.md)
 * [📄Smart Contracts](build/smart-contracts.md)
+* [🔌ENS Connectors](build/ens-connectors.md)
 
 ## ADDITIONAL RESOURCES
 
 * [🥰Community Love](additional-resources/fan-love.md)
 * [🤝Ecosystem Partners](additional-resources/our-partners.md)
-* [🔌Join Our Community](https://discordapp.com/invite/h6CGbuN)
+* [💬Join Our Community](https://discordapp.com/invite/h6CGbuN)
 * [▶️DeFiTutorials.com](https://defitutorials.com/)
 

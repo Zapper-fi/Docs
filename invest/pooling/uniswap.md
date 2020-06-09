@@ -20,25 +20,6 @@ description: Add liquidity to pools on Uniswap & start generating fees.
 | **Market Function** | Constant Product _**x∗y=k**_ |
 {% endtab %}
 
-{% tab title="Add liquidity" %}
-### **A. Adding liquidity with 2 assets.**
-
-* **In order to mint pool tokens, you are required to deposit an equivalent value of ETH and ERC20 tokens.**
-* **So providing liquidity on an ETH/DAI pair could require you to trade half your ETH exposure for DAI in order to participate.**
-
-![](../../.gitbook/assets/unipool.png)
-
-### **B. Adding liquidity with 1 asset AKA 'Unipooling'.**
-
-* **Zapper enables liquidity provisioning with** _**a single asset**_**.**
-* **Ideal for those who don't have required underlying ERC20 tokens.**
-* **Save 3 or more on-chain transactions to mint Uniswap pool tokens.**
-{% endtab %}
-
-{% tab title="Remove Liquidity" %}
-{% embed url="https://twitter.com/zapper\_fi/status/1262681589613498368?s=20" %}
-{% endtab %}
-
 {% tab title="Who\'s this for?" %}
 > ### Liquidity provisioning within active pools is proving to be a great alternative to hedge your assets as exchange fees generated seem to be outpacing any impermanent losses incurred. Past few weeks we’ve witnessed some of the most volatile times in crypto history. Extreme volatility resulted in increased volume, especially around stable tokens such as DAI and USDC as many rushed to exit their crypto positions. For example, on March 13th alone, DAI&lt;&gt;ETH LPs proportionally earned ~$75,000 for processing ~$25M worth of swaps!
 
@@ -73,6 +54,31 @@ If you’re just starting out as a liquidity provider, try sticking with establi
 Avoid low liquidity pools. There is no reasonable expectation of profit starting a new pool or contributing to low liquidity pools as an individual.
 
 Also use caution interacting with pools whose tokens are highly specialized. For example, deflationary token supply mechanisms may severely impact returns.
+{% endtab %}
+
+{% tab title="Incentives" %}
+### sETH Uniswap Pool provides extra incentives to those who further stake their LPs in Synthetix unipool contract which accrues proportional SNX rewards as a bonus from the project team itself. 
+
+{% embed url="https://twitter.com/zapper\_fi/status/1266299922975875074?s=20" %}
+{% endtab %}
+
+{% tab title="Add liquidity" %}
+### **A. Adding liquidity with 2 assets.**
+
+* **In order to mint pool tokens, you are required to deposit an equivalent value of ETH and ERC20 tokens.**
+* **So providing liquidity on an ETH/DAI pair could require you to trade half your ETH exposure for DAI in order to participate.**
+
+![](../../.gitbook/assets/unipool.png)
+
+### **B. Adding liquidity with 1 asset AKA 'Unipooling'.**
+
+* **Zapper enables liquidity provisioning with** _**a single asset**_**.**
+* **Ideal for those who don't have required underlying ERC20 tokens.**
+* **Save 3 or more on-chain transactions to mint Uniswap pool tokens.**
+{% endtab %}
+
+{% tab title="Remove Liquidity" %}
+{% embed url="https://twitter.com/zapper\_fi/status/1262681589613498368?s=20" %}
 {% endtab %}
 
 {% tab title="Calculating ROI" %}
@@ -124,12 +130,6 @@ _**minus**_
 **Additional Resources:**
 
 * This report is based on a cadCAD model of Uniswap by [Markus Buhatem Koch](https://community.cadcad.org/t/modeling-uniswap-in-cadcad/35)
-{% endtab %}
-
-{% tab title="Incentives" %}
-### sETH Uniswap Pool provides extra incentives to those who further stake their LPs in Synthetix unipool contract which accrues proportional SNX rewards as a bonus from the project team itself. 
-
-{% embed url="https://twitter.com/zapper\_fi/status/1266299922975875074?s=20" %}
 {% endtab %}
 {% endtabs %}
 

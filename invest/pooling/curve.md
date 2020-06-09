@@ -6,6 +6,8 @@ description: Add liquidity to Curve pools & start generating fees on stable-coin
 
 ![](../../.gitbook/assets/group-280.png)
 
+
+
 {% tabs %}
 {% tab title="Overview" %}
 {% hint style="info" %}
@@ -19,6 +21,22 @@ Where **x** is the reserves for each asset, **n** is the number of assets, **D**
 This function acts as a **constant sum** when the portfolio is balanced and shifts towards a **constant product** as the portfolio becomes more imbalanced. In effect, the function looks like a “zoomed-in hyperbola”.
 
 ![Source: https://medium.com/bollinger-investment-group/constant-function-market-makers-defis-zero-to-one-innovation-968f77022159](../../.gitbook/assets/image%20%283%29.png)
+{% endtab %}
+
+{% tab title="Who\'s this for? " %}
+{% hint style="warning" %}
+Risk-averse: prefer stable and predictable income.
+{% endhint %}
+
+{% hint style="danger" %}
+Generally bearish on crypto markets for the time being.
+{% endhint %}
+{% endtab %}
+
+{% tab title="Incentives" %}
+SNX incentives available for sUSD Curve Pool.
+
+{% embed url="https://twitter.com/zapper\_fi/status/1266299922975875074?s=20" %}
 {% endtab %}
 
 {% tab title="Add Liquidity" %}
@@ -47,19 +65,5 @@ This function acts as a **constant sum** when the portfolio is balanced and shif
 2. **For output you are able to select ETH, sUSD, DAI, USDC, TUSD, USDT, or BUSD.**
 3. **Confirm your transaction.**
 {% endtab %}
-
-{% tab title="Who\'s this for? " %}
-{% hint style="warning" %}
-Risk-averse: prefer stable and predictable income.
-{% endhint %}
-
-{% hint style="danger" %}
-Generally bearish on crypto markets for the time being.
-{% endhint %}
-{% endtab %}
 {% endtabs %}
-
-
-
-
 
