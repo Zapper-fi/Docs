@@ -75,6 +75,19 @@ Also use caution interacting with pools whose tokens are highly specialized. For
 * **Zapper enables liquidity provisioning with** _**a single asset \(ETH or ERC20 tokens\)**_**.**
 * **Ideal for those who don't have required underlying ERC20 tokens.**
 * **Save 3 or more on-chain transactions to mint Uniswap pool tokens.**
+
+**Walk-through:**
+
+1. _**Connect**_ your digital wallet.
+
+   _No wallet?_ [_**Get one.**_](https://metamask.io/)_\*\*\*\*_
+
+2. Navigate to the [**Invest**](https://www.zapper.fi/#/invest) tab.
+3. Type in _**Uniswap**_ in the filter & click Add liquidity next to the pool you would like to join.
+4.  ****Enter how much you want to invest in _**ETH or ERC20s** \(fiat coming soon\). Token balances show up in the drop-down if you have them available. ****_
+5. Select gas setting for your transaction and click _**confirm**_. 
+
+   _When Metamask or your wallet provider prompts you, click confirm again._ 
 {% endtab %}
 
 {% tab title="Remove Liquidity" %}

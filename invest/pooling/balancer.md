@@ -21,5 +21,14 @@
 | **Traders** | exchange one asset for another asset. |
 | **Arbitrageurs** | maintain the price of assets within that portfolio in accordance with the market price in exchange for a profit. |
 {% endtab %}
+
+{% tab title="Adding liquidity" %}
+1. **Connect with your wallet.**
+2. **Choose which balancer pool you would like to join.**
+3. **Enter how much liquidity you would like to add.**
+4. **Confirm the transaction & you will receive Balancer Pool Tokens which are ERC20 tokens that track your liquidity provided to the protocol.**
+
+\*\*\*\*
+{% endtab %}
 {% endtabs %}
 
