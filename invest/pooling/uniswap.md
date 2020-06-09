@@ -78,16 +78,11 @@ Also use caution interacting with pools whose tokens are highly specialized. For
 
 **Walk-through:**
 
-1. _**Connect**_ your digital wallet.
-
-   _No wallet?_ [_**Get one.**_](https://metamask.io/)_\*\*\*\*_
-
+1. _**Connect**_ your digital wallet. _No wallet?_ [_**Get one.**_](https://metamask.io/)_\*\*\*\*_
 2. Navigate to the [**Invest**](https://www.zapper.fi/#/invest) tab.
-3. Type in _**Uniswap**_ in the filter & click Add liquidity next to the pool you would like to join.
-4.  ****Enter how much you want to invest in _**ETH or ERC20s** \(fiat coming soon\). Token balances show up in the drop-down if you have them available. ****_
-5. Select gas setting for your transaction and click _**confirm**_. 
-
-   _When Metamask or your wallet provider prompts you, click confirm again._ 
+3. Type in _**Uniswap**_ in the filter & click _**Add liquidity**_ next to the pool you would like to join.
+4. Enter how much liquidity you would like to add in _**ETH or ERC20s** \(fiat coming soon\). Token balances show up in the drop-down if you have them available. ****_
+5. Confirm the transaction & you will receive Uniswap V1 or V2 tokens which are ERC20 tokens that track your liquidity provided to the protocol.
 {% endtab %}
 
 {% tab title="Remove Liquidity" %}
