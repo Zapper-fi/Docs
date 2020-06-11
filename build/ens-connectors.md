@@ -6,7 +6,7 @@ We've registered some popular pools with the Ethereum Name Service so that addin
 **NOTE: YOU CAN EXECUTE THESE ACTIONS WITH ETH DEPOSITS ONLY. DO NOT SEND ERC20 TOKENS.**
 {% endhint %}
 
-Available ENS Connectors:
+**Available ENS Connectors:**
 
 | ENS | Action | Gas requirement | Strategy |
 | :--- | :--- | :--- | :--- |
