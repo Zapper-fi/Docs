@@ -10,6 +10,8 @@
 
 {% embed url="https://MyCrypto.com" %}
 
+{% embed url="https://debank.com/" %}
+
 {% embed url="https://www.molochdao.com/" %}
 
 {% embed url="https://uniswap.org/" %}
