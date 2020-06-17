@@ -76,6 +76,10 @@ Also use caution interacting with pools whose tokens are highly specialized. For
 * **Ideal for those who don't have required underlying ERC20 tokens.**
 * **Save 3 or more on-chain transactions to mint Uniswap pool tokens.**
 
+{% hint style="warning" %}
+Note: slippage will increase with larger deposits because your input is being proportionally exchanged to obtain underlying assets required to join the pool with. In order to prevent unnecessary losses due to this price impact, _**currently the slippage limit is set to 5%. This means that if your exchange transaction experiences greater than 5% difference between the market and estimated price due to trade size, the transaction will revert.**_
+{% endhint %}
+
 **Walk-through:**
 
 1. _**Connect**_ your digital wallet. _No wallet?_ [_**Get one.**_](https://metamask.io/)_\*\*\*\*_

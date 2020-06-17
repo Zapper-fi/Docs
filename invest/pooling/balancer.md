@@ -39,6 +39,10 @@ Simply add liquidity to ANY liquidity pool on Balancer and you will automaticall
 4. **Confirm the transaction & you will receive Balancer Pool Tokens which are ERC20 tokens that track your liquidity provided to the protocol.**
 
 ![](../../.gitbook/assets/cui3qnxovn.gif)
+
+{% hint style="warning" %}
+Note: slippage will increase with larger deposits because your input is being proportionally exchanged to obtain underlying assets required to join the pool with. In order to prevent unnecessary losses due to this price impact, _**currently the slippage limit is set to 5%. This means that if your exchange transaction experiences greater than 5% difference between the market and estimated price due to trade size, the transaction will revert.**_
+{% endhint %}
 {% endtab %}
 {% endtabs %}
 
