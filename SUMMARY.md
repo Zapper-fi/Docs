@@ -30,5 +30,5 @@
 * [🥰Community Love](additional-resources/fan-love.md)
 * [🤝Ecosystem Partners](additional-resources/our-partners.md)
 * [💬Join Our Community](https://discordapp.com/invite/h6CGbuN)
-* [▶️DeFiTutorials.com](https://defitutorials.com/)
+* [▶️DeFiTutorials.com](https://defitutorials.substack.com/)
 
