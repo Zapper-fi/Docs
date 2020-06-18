@@ -45,6 +45,8 @@ To move some of your liquidity from Uniswap sETH Pool into Curve’s sUSD Pool, 
 
 ### **Available Pool Pipes:**
 
+![](../.gitbook/assets/curve-curve-pool-pipe.png)
+
 ![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5d7e93b-e8c4-4429-8bc4-b46ec861f8ba_1902x2732.png)
 
 ![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F824a2c4f-525d-4ba3-b87b-4f5d72a364de_1902x2732.png)
@@ -58,8 +60,6 @@ To move some of your liquidity from Uniswap sETH Pool into Curve’s sUSD Pool, 
 ![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff76026b-24e8-456f-82bb-8dcfb0d7b886_1902x1564.png)
 
 ![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0d7d0a21-2510-4659-a3a4-159ac190cbd9_1902x1564.png)
-
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F39c2d4d2-9cf0-427a-ac4a-da4339edd7ac_1902x1642.png)
 
 > **While some of these may seem similar, each pipe contains optimizations to help you re-balance your assets with the least slippage.**
 
