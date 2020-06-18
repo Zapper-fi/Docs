@@ -6,6 +6,8 @@
 
 {% embed url="https://www.synthetix.io/" %}
 
+{% embed url="https://www.curve.fi/" %}
+
 {% embed url="https://kyber.network/" %}
 
 {% embed url="https://MyCrypto.com" %}
