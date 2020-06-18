@@ -10,7 +10,6 @@
   * [Curve](invest/pooling/curve.md)
   * [Balancer](invest/pooling/balancer.md)
   * [FutureSwap](invest/pooling/futureswap-coming-soon.md)
-  * [Bancor](invest/pooling/bancor.md)
   * [Shell](invest/pooling/shell-coming-soon.md)
   * [Opyn](invest/pooling/opyn.md)
 * [🎛️Multipooling](invest/multipooling.md)
