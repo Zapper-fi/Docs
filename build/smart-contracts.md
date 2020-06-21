@@ -11,7 +11,7 @@
 | Uniswap V1 Remove Liquidity | Remove liquidity from any liquidity pool on Uniswap V1 & receive just ETH or any ERC20 | [0x2fba0b21a553f0f268293be7abb07a54fffd2b02](https://etherscan.io/address/0x2fba0b21a553f0f268293be7abb07a54fffd2b02) |  |
 | Curve Add Liquidity with ETH or ERC20s | Add liquidity to sUSD, y, BUSD, or PAX pools on Curve using just ETH or just ERC20s | [0x924Cc11Fd506fcE3dAB461AA71a6bb823669EcE3](https://etherscan.io/address/0xc4ec123cd61d8ca3ea1ee413d5cb0a95de6d34cd) |  |
 | Curve Remove Liquidity | Remove liquidity from any Curve pool & receive just ETH or any ERC20 | [0x983dd5dc5a99ec27bb850b865ca99407b38722bf](https://etherscan.io/address/0x983dd5dc5a99ec27bb850b865ca99407b38722bf) |  |
-| Balancer Add Liquidity with ETH or ERC20s | Add liquidity to Balancer pools using just ETH or just ERC20s | [0x727412DB12fED07386235D1474257Dc15302CCE5](https://etherscan.io/address/0x727412db12fed07386235d1474257dc15302cce5) |  |
+| Balancer Add Liquidity with ETH or ERC20s | Add liquidity to Balancer pools using just ETH or just ERC20s | [0x85560d8ee2e714e60645f887dd4133ee0479b362](https://etherscan.io/address/0x85560d8ee2e714e60645f887dd4133ee0479b362)  |  |
 | Curve &lt;&gt; Curve Pool Pipe | Rebalance liquidity between liquidity pools on Curve | [0x83c32BF929F80e404ff30Ede7333271460b13cd9](https://etherscan.io/address/0x83c32BF929F80e404ff30Ede7333271460b13cd9) |  |
 | Uniswap V1 &lt;&gt; Curve Pool Pipe | Rebalance liquidity between Uniswap V1 & Curve liquidity pools  | [0x66895417881B1d77Ca71bd9e5Ba1E729f3Aa44D3](https://etherscan.io/address/0x66895417881B1d77Ca71bd9e5Ba1E729f3Aa44D3) |  |
 | Uniswap V1 &lt;&gt; Uniswap V1 Pool Pipe | Rebalance liquidity between Uniswap V1 liquidity pools  | [0xaecCd58001D52B4b931FD6FD5bF87D4F911100B7](https://etherscan.io/address/0xaecCd58001D52B4b931FD6FD5bF87D4F911100B7) |  |
@@ -24,6 +24,7 @@
 | Uniswap V1 Add Liquidity With ETH | Add liquidity to any liquidity pool on Uniswap V1 using just ETH | [0x606563f8DC27F316b77F22d14D9Cd025B4F70469](https://etherscan.io/address/0x606563f8dc27f316b77f22d14d9cd025b4f70469) |  |
 | Uniswap V1 Remove Liquidity | Remove liquidity from any liquidity pool on Uniswap V1 & receive just ETH or any ERC20 | [0x4316e3aD83ca2Cf0ea5e3b25e3DE2fA7F93cfE9c](https://etherscan.io/address/0x4316e3ad83ca2cf0ea5e3b25e3de2fa7f93cfe9c) |  |
 | Uniswap V1 Add Liquidity With ERC20s | Add liquidity to any liquidity pool on Uniswap V1 using any ERC20 token | [0xF0cd9981F15695324763A06869d1c1DD90073C2A](https://etherscan.io/address/0xf0cd9981f15695324763a06869d1c1dd90073c2a) |  |
+| Balancer Add Liquidity with ETH or ERC20s | Add liquidity to Balancer pools using just ETH or just ERC20s | [0x727412DB12fED07386235D1474257Dc15302CCE5](https://etherscan.io/address/0x727412db12fed07386235d1474257dc15302cce5) |  |
 
 ## Usage
 
