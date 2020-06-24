@@ -22,6 +22,8 @@
 
 {% embed url="https://yieldhero.app/" %}
 
+{% embed url="https://1inch.exchange/" %}
+
 {% embed url="https://frontierwallet.com/" %}
 
 {% embed url="https://www.blocknative.com/" %}
