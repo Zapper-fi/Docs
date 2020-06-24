@@ -20,6 +20,8 @@
 
 {% embed url="https://uniswap.org/" %}
 
+{% embed url="https://yieldhero.app/" %}
+
 {% embed url="https://frontierwallet.com/" %}
 
 {% embed url="https://www.blocknative.com/" %}
