@@ -63,6 +63,8 @@ Also use caution interacting with pools whose tokens are highly specialized. For
 {% endtab %}
 
 {% tab title="Add liquidity" %}
+{% embed url="https://www.youtube.com/watch?v=hUegWuLhWA8" %}
+
 ### **A. Adding liquidity with 2 assets.**
 
 * **In order to mint pool tokens, you are required to deposit an equivalent value of ETH and ERC20 tokens.**
