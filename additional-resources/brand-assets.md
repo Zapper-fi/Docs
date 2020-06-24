@@ -1,4 +1,4 @@
-# Brand Assets
+# 🎨Brand Assets
 
 ![](../.gitbook/assets/slice-6%20%282%29.png)
 
