@@ -1,6 +1,6 @@
 # 🤐Zips
 
-### [Zips ](https://defitutorials.substack.com/p/zuni-programmable-pooling-incentives)are tokens which represent a claim on multiple positions with just one token - providing a faster, more efficient exchange of the most complex & popular strategies.
+### [Zips ](https://defitutorials.substack.com/p/zuni-programmable-pooling-incentives)are tokens which represent a claim on multiple positions/strategies and rebalances with just one token.
 
 ### **First use-case: zUNI = Tokenized sETH Pool with SNX Incentives Rebalancer.**
 
