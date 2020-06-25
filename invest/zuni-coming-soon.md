@@ -16,6 +16,8 @@ But we knew we had to do more. Today we are proud to propose something we alread
 
 zUNI tokens represent a claim on sETH LP stake in Unipool + accrued SNX incentives from sETH Unipool Staking Reward system, which are auto-rebalanced into additional sETH LPs and re-staked in Unipool contract.
 
+![](../.gitbook/assets/group-707.png)
+
 zUNI users can convert their sETH LPs into zUNI tokens at any point, by calling _**stakeMyShare**_. 
 
 Likewise, they can redeem their zUNI for their original sETH LPs + additional sETH LPs \(accrued from rebalancing SNX rewards into additional sETH LPs\), by calling _**getMyStakeOut**_. 
