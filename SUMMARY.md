@@ -13,7 +13,7 @@
   * [Shell](invest/pooling/shell-coming-soon.md)
   * [Opyn](invest/pooling/opyn.md)
 * [🎛️Multipooling](invest/multipooling.md)
-* [🚰Piping](invest/uniswap-less-than-greater-than-balancer-pipe.md)
+* [🚰Piping](invest/piping.md)
 * [🤐Zips](invest/zuni-coming-soon.md)
 * [🚀Leveraged Pooling](invest/leveraged-pooling-coming-soon.md)
 * [☯️Hedged Pooling](invest/hedged-pooling-coming-soon.md)
