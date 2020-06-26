@@ -4,9 +4,9 @@
 
 {% tabs %}
 {% tab title="Overview" %}
-Pool pipes seamlessly **re-balance** liquidity between pools.
+Pool pipes seamlessly **re-balance** liquidity between pools. This is the ultimate liquidity mining tool for DeFi farmers.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb82a33a-11c8-4430-b857-d237161e9580_920x558.png)
+![](../.gitbook/assets/group-709.png)
 
 _Pipes were originally introduced as part of our ETH Global Hackathon submission:_ 
 
@@ -53,7 +53,7 @@ To move some of your liquidity from Uniswap sETH Pool into Curve’s sUSD Pool, 
 
 > **STEP 4: Click confirm once ready to initiate the transaction.**
 >
-> **Note: if this is your very first time interacting with pool pipes you will need to confirm an approval transaction at first so you will see 2 requests to confirm. Here’s a sample sETH-&gt;sUSD pool piping transaction: https://etherscan.io/tx/0xf3029af4efae7a82aff195f1f4a3961f0b2fb5c24af8806cb0bc31a80a54abbc**
+> **Note: if this is your very first time interacting with pool pipes you will need to confirm an approval transaction at first so you will see 2 requests to confirm. Here’s a sample sETH-&gt;sUSD pool piping transaction:** [**https://etherscan.io/tx/0xf3029af4efae7a82aff195f1f4a3961f0b2fb5c24af8806cb0bc31a80a54abbc**](https://etherscan.io/tx/0xf3029af4efae7a82aff195f1f4a3961f0b2fb5c24af8806cb0bc31a80a54abbc)\*\*\*\*
 
 ![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7dac56b-53d0-4d1e-a07d-1f434ff93a68_1557x633.png)
 
