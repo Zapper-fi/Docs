@@ -4,8 +4,8 @@
 
 | Contract | Description | Address | ABI |
 | :--- | :--- | :--- | :--- |
-| Uniswap V1 Add  | Add liquidity to any liquidity pool on Uniswap V1 **using just ETH** | [0x97402249515994Cc0D22092D3375033Ad0ea438A](https://etherscan.io/address/0x97402249515994cc0d22092d3375033ad0ea438a) | [ABI](https://gist.github.com/suhailgme/7ad05d8d1ee633973a427f923caea940) |
-| Uniswap V1 Add  | Add liquidity to any liquidity pool on Uniswap V1 using **using just ERC20 token** | [0x4f026054B9C934D92cD2db344ea1ae193A22067d](https://etherscan.io/address/0x4f026054b9c934d92cd2db344ea1ae193a22067d) | [ABI](https://gist.github.com/suhailgme/6aab72c8fdb37492e2207ac11483dc34) |
+| Uniswap V1 Add ETH | Add liquidity to any liquidity pool on Uniswap V1 **using just ETH** | [0x97402249515994Cc0D22092D3375033Ad0ea438A](https://etherscan.io/address/0x97402249515994cc0d22092d3375033ad0ea438a) | [ABI](https://gist.github.com/suhailgme/7ad05d8d1ee633973a427f923caea940) |
+| Uniswap V1 Add ERC20 | Add liquidity to any liquidity pool on Uniswap V1 using **using just ERC20 token** | [0x4f026054B9C934D92cD2db344ea1ae193A22067d](https://etherscan.io/address/0x4f026054b9c934d92cd2db344ea1ae193a22067d) | [ABI](https://gist.github.com/suhailgme/6aab72c8fdb37492e2207ac11483dc34) |
 | Uniswap V1 Remove  | Remove liquidity from any liquidity pool on Uniswap V1 **& receive just ETH or any ERC20** | [0x2fba0b21a553f0f268293be7abb07a54fffd2b02](https://etherscan.io/address/0x2fba0b21a553f0f268293be7abb07a54fffd2b02) |  |
 | Uniswap V2 Add  | Add liquidity to any liquidity pool on Uniswap V2 **using just ETH or ERC20s** | [0x026BdaC2F308C0109A864138CCa1a623F7828F4a](https://etherscan.io/address/0x026bdac2f308c0109a864138cca1a623f7828f4a) |  |
 | Uniswap V2 Remove  | Add liquidity to any liquidity pool on Uniswap V2 **using just ETH or ERC20s** | [0xcfA897e2C4e0A64eaA9CA41F607820a09134353a](https://etherscan.io/address/0xcfa897e2c4e0a64eaa9ca41f607820a09134353a) |  |
