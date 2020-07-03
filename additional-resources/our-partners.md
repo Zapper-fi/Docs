@@ -20,6 +20,8 @@
 
 {% embed url="https://uniswap.org/" %}
 
+{% embed url="https://balancer.finance/" %}
+
 {% embed url="https://yieldhero.app/" %}
 
 {% embed url="https://1inch.exchange/" %}
@@ -33,8 +35,6 @@
 {% embed url="https://compound.finance/" %}
 
 {% embed url="https://makerdao.com/en/" %}
-
-{% embed url="https://balancer.finance/" %}
 
 {% embed url="https://fortmatic.com/" %}
 
