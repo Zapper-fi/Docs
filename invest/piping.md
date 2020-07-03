@@ -32,6 +32,8 @@ To move some of your liquidity from Uniswap sETH Pool into Curve’s sUSD Pool, 
 **Uniswap V1 &lt;&gt; Curve Pipe cuts this down to one!**
 
 ![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F823efe8b-7944-44e1-b0b7-f86e4a99d30c_1006x638.png)
+
+{% embed url="https://www.youtube.com/watch?v=2iGoTyR9kAI" %}
 {% endtab %}
 
 {% tab title="Tutorial" %}
@@ -42,8 +44,6 @@ To move some of your liquidity from Uniswap sETH Pool into Curve’s sUSD Pool, 
 ![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4b4288a-be02-4241-bd47-1d1ba1c64c6a_961x460.png)
 
 > **STEP 2: View your liquidity pool balances & click ‘Rebalance’**
->
-> > \*\*\*\*
 
 ![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F06bffb69-cdda-43e4-a85e-3db9f679ea34_1797x867.png)
 
@@ -56,10 +56,6 @@ To move some of your liquidity from Uniswap sETH Pool into Curve’s sUSD Pool, 
 > **Note: if this is your very first time interacting with pool pipes you will need to confirm an approval transaction at first so you will see 2 requests to confirm. Here’s a sample sETH-&gt;sUSD pool piping transaction:** [**https://etherscan.io/tx/0xf3029af4efae7a82aff195f1f4a3961f0b2fb5c24af8806cb0bc31a80a54abbc**](https://etherscan.io/tx/0xf3029af4efae7a82aff195f1f4a3961f0b2fb5c24af8806cb0bc31a80a54abbc)\*\*\*\*
 
 ![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7dac56b-53d0-4d1e-a07d-1f434ff93a68_1557x633.png)
-
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5d7e93b-e8c4-4429-8bc4-b46ec861f8ba_1902x2732.png)
-
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F824a2c4f-525d-4ba3-b87b-4f5d72a364de_1902x2732.png)
 {% endtab %}
 
 {% tab title="Available Pipes" %}
@@ -95,6 +91,12 @@ Rebalance trigger parameters will differ based on your investment goals and risk
   * As any yield hacker knows, opportunities in DeFi need to be capitalized ASAP. With pool piping, it’s never been easier to move liquidity around the DeFi ecosystem. Each pool pipe is a general smart contracts so once a pipe is deployed between two underlying platforms, anyone is able to instantly move liquidity between ANY pools within those platforms. Builders could deploy their own auto-rebalancing logic which uses pool pipes to shift liquidity based on set logic.
 {% endtab %}
 {% endtabs %}
+
+
+
+
+
+
 
 ### ⚡️⚡️⚡️[**Get Started on Zapper.Fi**](http://zapper.fi/)⚡️⚡️⚡️
 
