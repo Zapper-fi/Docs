@@ -25,20 +25,6 @@
 ### [**Read the full announcement post about our merger.**](https://defitutorials.substack.com/p/introducing-zapperfi)
 {% endtab %}
 
-{% tab title="What\'s DeFi?" %}
-### DeFi represents a broad category of financial applications that are being developed on top of open, trust-minimized, programmable and censorship resistant networks to improve upon the legacy financial system or create entirely new use-cases.
-
-### Today most of these new applications are deployed on Ethereum.
-{% endtab %}
-
-{% tab title="DeFi vs FinTech" %}
-### The internet tremendously improved communication and trade execution speeds but was not able to transform finance at its most critical point: _the creation of new instruments._
-
-### Ethereum enables anyone to programmatically control digital value through ‘smart contracts’. Smart contracts are essentially computer programs that escrow and then reallocate value based on certain conditions.
-
-### These conditions could effectively replicate swaps, options, futures, bonds, or other financial instruments which are executed and settled by Ethereum’s decentralized network with immutable records.
-{% endtab %}
-
 {% tab title="What\'s Ethereum?" %}
 > _Ethereum is a **global, open source platform that runs smart contracts**: applications that run exactly as programmed without any possibility of downtime, censorship, or third party interference._
 
@@ -57,9 +43,9 @@ The reason for that is to decouple the price of an operation with the market pri
 {% endhint %}
 
 [Learn more about smart contracts.](https://ethereum.org/learn/#smart-contracts)
-{% endtab %}
 
-{% tab title="Why is this important?" %}
+## Why is this important?
+
 ### What's interesting is that anyone is able to write smart contracts and create new financial instruments such as money markets, exchanges and asset management solutions.
 
 ### The internet disinter-mediated traditional media over the last twenty years by providing wealth building tools to content creators. 
@@ -67,6 +53,20 @@ The reason for that is to decouple the price of an operation with the market pri
 {% hint style="info" %}
 ## Ethereum is doing to finance what the internet did to the media by democratizing the creation of new financial instruments.
 {% endhint %}
+{% endtab %}
+
+{% tab title="What\'s DeFi?" %}
+### DeFi represents a broad category of financial applications that are being developed on top of open, trust-minimized, programmable and censorship resistant networks to improve upon the legacy financial system or create entirely new use-cases.
+
+### Today most of these new applications are deployed on Ethereum.
+
+## DeFi vs. Fintech
+
+### The internet tremendously improved communication and trade execution speeds but was not able to transform finance at its most critical point: _the creation of new instruments._
+
+### Ethereum enables anyone to programmatically control digital value through ‘smart contracts’. Smart contracts are essentially computer programs that escrow and then reallocate value based on certain conditions.
+
+### These conditions could effectively replicate swaps, options, futures, bonds, or other financial instruments which are executed and settled by Ethereum’s decentralized network with immutable records.
 {% endtab %}
 
 {% tab title="Our Mission" %}

@@ -2,6 +2,7 @@
 
 * [⚡️Introduction](README.md)
 * [⚙️Features](features.md)
+* [📊Stats](stats.md)
 
 ## INVEST
 
