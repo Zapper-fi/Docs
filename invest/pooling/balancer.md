@@ -36,19 +36,19 @@ Note: slippage will increase with larger deposits because your input is being pr
 {% endtab %}
 
 {% tab title="Incentives" %}
-## **Earn BAL tokens on top of pool returns**
+## **Earn BAL tokens on top of pool returns.**
 
 On Monday, June 1st at 00:00 UTC \(i.e. at midnight from Sunday to Monday\), Balancer Labs will start considering liquidity held on Balancer protocol for the distribution of governance tokens. 
 
-**How to get involved:** Simply add liquidity to ANY liquidity pool on Balancer and you will automatically start accruing BAL tokens to your wallet. Not all pools receive equal BAL rewards, [you can see how these are allocated here.](http://www.predictions.exchange/uniswap_markets/)
+_**How to get involved.**_ ****Simply [**add liquidity to ANY liquidity pool on Balancer**](https://www.zapper.fi/invest) and you will automatically start accruing BAL tokens to your wallet. Not all pools receive equal BAL rewards, [**you can see how these are allocated here**.](http://www.predictions.exchange/uniswap_markets/)
 
 ## Add liquidity to [JRT based Balancer pools](https://www.zapper.fi/invest) to receive $BAL + $JRT.
 
-![Type in &apos;JRT&apos; to filter out available pools](../../.gitbook/assets/chrome_ydbqwowneb.png)
+![Type in &apos;JRT&apos; to filter out available pools on the invest tab](../../.gitbook/assets/chrome_ydbqwowneb.png)
 
 ## **\[DISCONTINUED\] Earn BAL + SNX tokens on top of pool returns by providing liquidity to the SNX/USDC pool.**
 
-\*\*\*\*
+{% embed url="https://www.youtube.com/watch?v=wyXuwiYJRzk" %}
 {% endtab %}
 {% endtabs %}
 
