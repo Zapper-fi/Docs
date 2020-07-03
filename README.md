@@ -1,6 +1,6 @@
 # ⚡️Introduction
 
-![Get started on www.Zapper.Fi](.gitbook/assets/zapper.png)
+![](.gitbook/assets/group-704.png)
 
 {% hint style="danger" %}
 **NOTE: These docs are still being worked on.**
