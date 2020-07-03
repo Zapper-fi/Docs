@@ -6,8 +6,6 @@ description: Add liquidity to Curve pools & start generating fees on stable-coin
 
 ![](../../.gitbook/assets/group-280.png)
 
-
-
 {% tabs %}
 {% tab title="Overview" %}
 {% hint style="info" %}
@@ -21,9 +19,9 @@ Where **x** is the reserves for each asset, **n** is the number of assets, **D**
 This function acts as a **constant sum** when the portfolio is balanced and shifts towards a **constant product** as the portfolio becomes more imbalanced. In effect, the function looks like a “zoomed-in hyperbola”.
 
 ![Source: https://medium.com/bollinger-investment-group/constant-function-market-makers-defis-zero-to-one-innovation-968f77022159](../../.gitbook/assets/image%20%283%29.png)
-{% endtab %}
 
-{% tab title="Who\'s this for? " %}
+## Who's this for?
+
 {% hint style="warning" %}
 Risk-averse: prefer stable and predictable income.
 {% endhint %}
@@ -31,12 +29,6 @@ Risk-averse: prefer stable and predictable income.
 {% hint style="danger" %}
 Generally bearish on crypto markets for the time being.
 {% endhint %}
-{% endtab %}
-
-{% tab title="Incentives" %}
-SNX incentives available for sUSD Curve Pool.
-
-{% embed url="https://twitter.com/zapper\_fi/status/1266299922975875074?s=20" %}
 {% endtab %}
 
 {% tab title="Add Liquidity" %}
@@ -62,6 +54,24 @@ SNX incentives available for sUSD Curve Pool.
 1. **As usual start by selecting which pool you want to exit.**
 2. **For output you are able to select ETH, sUSD, DAI, USDC, TUSD, USDT, or BUSD.**
 3. **Confirm your transaction.**
+{% endtab %}
+
+{% tab title="Incentives" %}
+## Add liquidity to [sUSD pool on Curve ](https://www.zapper.fi/invest)+ stake your pool tokens to receive $BAL + $SNX + future $CRV rewards.
+
+![1. Type in &apos;sUSD&apos; to filter Curve sUSD pool.](../../.gitbook/assets/chrome_2psnreh6sm.png)
+
+![2. Enter how much liquidity you would like to add.](../../.gitbook/assets/chrome_cv6vcbcdmd.png)
+
+![3. Once you have sUSD Curve pool tokens, click stake. ](../../.gitbook/assets/chrome_sie91vu8re.png)
+
+![4. Simply click confirm &amp; your pool tokens will start accruing rewards.](../../.gitbook/assets/chrome_rfuoy9hwuk.png)
+
+![5. View your current staked assets. Claim rewards / unstake anytime.](../../.gitbook/assets/chrome_f25fz7cdxi.png)
+
+![](../../.gitbook/assets/chrome_itroncqp9s.png)
+
+## Add liquidity to [sBTC pool on Curve ](https://www.zapper.fi/invest)+ stake your pool tokens to receive $BAL + $SNX + $REN + future $CRV rewards.
 {% endtab %}
 {% endtabs %}
 

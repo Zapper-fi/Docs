@@ -56,45 +56,6 @@ Avoid low liquidity pools. There is no reasonable expectation of profit starting
 Also use caution interacting with pools whose tokens are highly specialized. For example, deflationary token supply mechanisms may severely impact returns.
 {% endtab %}
 
-{% tab title="Incentives" %}
-### sETH Uniswap Pool provides extra incentives to those who further stake their LPs in Synthetix unipool contract which accrues proportional SNX rewards as a bonus from the project team itself. 
-
-{% embed url="https://twitter.com/zapper\_fi/status/1266299922975875074?s=20" %}
-{% endtab %}
-
-{% tab title="Add liquidity" %}
-{% embed url="https://www.youtube.com/watch?v=hUegWuLhWA8" %}
-
-### **A. Adding liquidity with 2 assets.**
-
-* **In order to mint pool tokens, you are required to deposit an equivalent value of ETH and ERC20 tokens.**
-* **So providing liquidity on an ETH/DAI pair could require you to trade half your ETH exposure for DAI in order to participate.**
-
-![](../../.gitbook/assets/unipool.png)
-
-### **B. Adding liquidity with 1 asset AKA 'Unipooling'.**
-
-* **Zapper enables liquidity provisioning with** _**a single asset \(ETH or ERC20 tokens\)**_**.**
-* **Ideal for those who don't have required underlying ERC20 tokens.**
-* **Save 3 or more on-chain transactions to mint Uniswap pool tokens.**
-
-{% hint style="warning" %}
-Note: slippage will increase with larger deposits because your input is being proportionally exchanged to obtain underlying assets required to join the pool with. In order to prevent unnecessary losses due to this price impact, _**currently the slippage limit is set to 5%. This means that if your exchange transaction experiences greater than 5% difference between the market and estimated price due to trade size, the transaction will revert.**_
-{% endhint %}
-
-**Walk-through:**
-
-1. _**Connect**_ your digital wallet. _No wallet?_ [_**Get one.**_](https://metamask.io/)_\*\*\*\*_
-2. Navigate to the [**Invest**](https://www.zapper.fi/#/invest) tab.
-3. Type in _**Uniswap**_ in the filter & click _**Add liquidity**_ next to the pool you would like to join.
-4. Enter how much liquidity you would like to add in _**ETH or ERC20s** \(fiat coming soon\). Token balances show up in the drop-down if you have them available. ****_
-5. Confirm the transaction & you will receive Uniswap V1 or V2 tokens which are ERC20 tokens that track your liquidity provided to the protocol.
-{% endtab %}
-
-{% tab title="Remove Liquidity" %}
-{% embed url="https://twitter.com/zapper\_fi/status/1262681589613498368?s=20" %}
-{% endtab %}
-
 {% tab title="Calculating ROI" %}
 | DAI Pool Analysis Example | Block _**\[Time\]**_ |
 | :--- | :--- |
@@ -144,6 +105,47 @@ _**minus**_
 **Additional Resources:**
 
 * This report is based on a cadCAD model of Uniswap by [Markus Buhatem Koch](https://community.cadcad.org/t/modeling-uniswap-in-cadcad/35)
+{% endtab %}
+
+{% tab title="Add liquidity" %}
+{% embed url="https://www.youtube.com/watch?v=hUegWuLhWA8" %}
+
+### **A. Adding liquidity with 2 assets.**
+
+* **In order to mint pool tokens, you are required to deposit an equivalent value of ETH and ERC20 tokens.**
+* **So providing liquidity on an ETH/DAI pair could require you to trade half your ETH exposure for DAI in order to participate.**
+
+![](../../.gitbook/assets/unipool.png)
+
+### **B. Adding liquidity with 1 asset AKA 'Unipooling'.**
+
+* **Zapper enables liquidity provisioning with** _**a single asset \(ETH or ERC20 tokens\)**_**.**
+* **Ideal for those who don't have required underlying ERC20 tokens.**
+* **Save 3 or more on-chain transactions to mint Uniswap pool tokens.**
+
+{% hint style="warning" %}
+Note: slippage will increase with larger deposits because your input is being proportionally exchanged to obtain underlying assets required to join the pool with. In order to prevent unnecessary losses due to this price impact, _**currently the slippage limit is set to 5%. This means that if your exchange transaction experiences greater than 5% difference between the market and estimated price due to trade size, the transaction will revert.**_
+{% endhint %}
+
+**Walk-through:**
+
+1. _**Connect**_ your digital wallet. _No wallet?_ [_**Get one.**_](https://metamask.io/)_\*\*\*\*_
+2. Navigate to the [**Invest**](https://www.zapper.fi/#/invest) tab.
+3. Type in _**Uniswap**_ in the filter & click _**Add liquidity**_ next to the pool you would like to join.
+4. Enter how much liquidity you would like to add in _**ETH or ERC20s** \(fiat coming soon\). Token balances show up in the drop-down if you have them available. ****_
+5. Confirm the transaction & you will receive Uniswap V1 or V2 tokens which are ERC20 tokens that track your liquidity provided to the protocol.
+{% endtab %}
+
+{% tab title="Remove Liquidity" %}
+{% embed url="https://twitter.com/zapper\_fi/status/1262681589613498368?s=20" %}
+{% endtab %}
+
+{% tab title="Incentives" %}
+## Add liquidity to [ETH/AMPL pool](https://www.zapper.fi/invest) + stake your pool tokens in the '[Geyser](https://www.ampleforth.org/dapps/#)' to receive extra AMPL rewards.
+
+![](../../.gitbook/assets/chrome_ekaqiolptp.png)
+
+## \[DISCONTINUED\] sETH Uniswap Pool provides extra incentives to those who further stake their LPs in Synthetix unipool contract which accrues proportional SNX rewards as a bonus from the project team itself. 
 {% endtab %}
 {% endtabs %}
 

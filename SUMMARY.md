@@ -28,6 +28,7 @@
 ## ADDITIONAL RESOURCES
 
 * [🥰Community Love](additional-resources/fan-love.md)
+* [FAQs](additional-resources/faqs.md)
 * [🤝Ecosystem Partners](additional-resources/our-partners.md)
 * [🎨Brand Assets](additional-resources/brand-assets.md)
 * [💬Join Our Community](https://discordapp.com/invite/h6CGbuN)
