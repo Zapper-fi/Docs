@@ -22,6 +22,10 @@
 | **Arbitrageurs** | maintain the price of assets within that portfolio in accordance with the market price in exchange for a profit. |
 {% endtab %}
 
+{% tab title="Balancer vs. Uniswap" %}
+{% embed url="https://docs.google.com/spreadsheets/d/1uDHwj57EsCBdKuPkE6dzr3ENjNDl2eOaxiS6DpJUd4I/edit?usp=sharing" caption="Comparison by Andrew Kang" %}
+{% endtab %}
+
 {% tab title="Adding liquidity" %}
 1. **Connect with your wallet.**
 2. **Choose which Balancer pool you would like to join.**
