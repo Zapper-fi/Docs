@@ -50,11 +50,27 @@ _**How to get involved.**_ ****Simply [**add liquidity to ANY liquidity pool on 
 
 ![Type in &apos;JRT&apos; to filter out available pools on the invest tab](../../.gitbook/assets/chrome_ydbqwowneb.png)
 
+## Add liquidity to _80% AUC - 20% ETH_ or _80% AUC - 20% USDC_ Balancer pools to start earning not only $BAL but also $AUC**.**
+
+* This incentive will run for 10 weeks, starting July 7.
+* Once you provide liquidity on Balancer, you’ll automatically start accumulating AUC rewards.
+* Each day a snapshot is taken to capture the liquidity contribution of each participant and rewards will be allocated proportionately to liquidity contribution. This is in addition to any BAL rewards or fees generated.
+* Rewards will be sent out on a weekly basis to all wallets with at least 300 AUC to be received.
+* After July 7, you will be able to track your rewards by accessing this same website.
+
+Learn more: [https://auctus.org/liquidity-mining/](https://auctus.org/liquidity-mining/)
+
 ## **\[DISCONTINUED\] Earn BAL + SNX tokens on top of pool returns by providing liquidity to the SNX/USDC pool.**
 
 {% embed url="https://www.youtube.com/watch?v=wyXuwiYJRzk" %}
 {% endtab %}
 {% endtabs %}
+
+
+
+
+
+
 
 
 
