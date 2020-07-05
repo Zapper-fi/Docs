@@ -14,13 +14,21 @@
 
 {% embed url="https://twitter.com/synthetix\_io/status/1268441601719713792?s=20" %}
 
+{% embed url="https://twitter.com/UniswapProtocol/status/1209217414740754434?s=20" %}
+
 {% embed url="https://twitter.com/DefiRate/status/1265057152520957952?s=20" %}
+
+{% embed url="https://twitter.com/mstable\_/status/1271611607705980928?s=20" %}
+
+{% embed url="https://twitter.com/dmihal/status/1272565400262324224?s=20" %}
+
+{% embed url="https://twitter.com/3xhuman/status/1274224188769927169?s=20" %}
 
 {% embed url="https://twitter.com/DeFi\_Dad/status/1257905192055353344?s=20" %}
 
-{% embed url="https://twitter.com/UniswapProtocol/status/1209217414740754434?s=20" %}
-
 {% embed url="https://twitter.com/sassal0x/status/1257399462353235969?s=20" %}
+
+{% embed url="https://twitter.com/idlefinance/status/1268954559176757250?s=20" %}
 
 {% embed url="https://twitter.com/DystopiaLabs/status/1256386082389635073?s=20" %}
 
@@ -69,4 +77,12 @@
 {% embed url="https://edgar.substack.com/p/one-click-access-to-decentralized" %}
 
 {% embed url="https://defitutorials.substack.com/p/gift-the-power-of-defi-this-holiday" %}
+
+{% embed url="https://twitter.com/cryptoplaza\_es/status/1273613313562329090?s=20" %}
+
+{% embed url="https://twitter.com/CxDefi/status/1272816436579373056?s=20" %}
+
+
+
+
 
