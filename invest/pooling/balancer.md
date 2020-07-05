@@ -44,11 +44,13 @@ Note: slippage will increase with larger deposits because your input is being pr
 
 On Monday, June 1st at 00:00 UTC \(i.e. at midnight from Sunday to Monday\), Balancer Labs will start considering liquidity held on Balancer protocol for the distribution of governance tokens. 
 
-_**How to get involved.**_ ****Simply [**add liquidity to ANY liquidity pool on Balancer**](https://www.zapper.fi/invest) and you will automatically start accruing BAL tokens to your wallet. Not all pools receive equal BAL rewards, [**you can see how these are allocated here**.](http://www.predictions.exchange/uniswap_markets/)
+_**How to get involved.**_ ****Simply [**add liquidity to ANY liquidity pool on Balancer**](https://www.zapper.fi/invest) and you will automatically start accruing BAL tokens to your wallet. Not all pools receive equal BAL rewards, [**you can see how these are allocated here**.](http://www.predictions.exchange/uniswap_markets/) 
 
 ## Add liquidity to [JRT based Balancer pools](https://www.zapper.fi/invest) to receive $BAL + $JRT rewards.
 
 ![Type in &apos;JRT&apos; to filter out available pools on the invest tab](../../.gitbook/assets/chrome_ydbqwowneb.png)
+
+{% embed url="https://twitter.com/Jarvis\_Network/status/1275509060121645056?s=20" %}
 
 ## Add liquidity to _80% AUC - 20% ETH_ or _80% AUC - 20% USDC_ Balancer pools to start earning not only $BAL but also $AUC**.**
 
@@ -65,6 +67,8 @@ Learn more: [https://auctus.org/liquidity-mining/](https://auctus.org/liquidity-
 {% embed url="https://www.youtube.com/watch?v=wyXuwiYJRzk" %}
 {% endtab %}
 {% endtabs %}
+
+
 
 
 

@@ -43,6 +43,8 @@ Generally bearish on crypto markets for the time being.
 4.  ****Enter how much liquidity you would like to add in _**ETH or ERC20s** \(fiat coming soon\). Token balances show up in the drop-down if you have them available. ****_
 5. Confirm the transaction & you will receive Curve Pool Tokens \(CRV\) which are ERC20 tokens that track your liquidity provided to the protocol.
 
+{% embed url="https://twitter.com/DeFi\_Dad/status/1275577623473618944?s=20" %}
+
 {% hint style="info" %}
 **Note:** Curve pooling options will be included in [**Multipooling** ](../multipooling.md)soon. For now, you are able to submit 2 separate transactions if you would like to add liquidity to both Curve and Uniswap pool.
 {% endhint %}

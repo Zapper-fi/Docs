@@ -1,5 +1,15 @@
 # 🥰Community Love
 
+{% embed url="https://twitter.com/VENTURE\_DAO/status/1279089228547108866?s=20" %}
+
+{% embed url="https://twitter.com/Yield\_Farmer/status/1279092191680479233?s=20" %}
+
+{% embed url="https://twitter.com/DeFi\_Dad/status/1278157292160946176?s=20" %}
+
+{% embed url="https://twitter.com/Interaxis8/status/1276519435235479555?s=20" %}
+
+{% embed url="https://twitter.com/Guz\_MassAdopt/status/1275908941642436611?s=20" %}
+
 {% embed url="https://twitter.com/UniswapProtocol/status/1268285485639708675?s=20\]" %}
 
 {% embed url="https://twitter.com/synthetix\_io/status/1268441601719713792?s=20" %}
@@ -20,7 +30,7 @@
 
 {% embed url="https://thedefiant.substack.com/p/we-need-to-democratize-access-to-afb" %}
 
-{% embed url="https://www.youtube.com/watch?v=6VWpSWhWEto" %}
+{% embed url="https://medium.com/nbt-thing-tank/4-sane-blockchain-use-cases-changing-the-world-83a0b0d8e5d2" %}
 
 {% embed url="https://defiprime.com/defizap" %}
 
