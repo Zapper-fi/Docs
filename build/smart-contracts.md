@@ -10,7 +10,7 @@
 | Uniswap V2 Add | Add liquidity to any liquidity pool on Uniswap V2 **using just ETH or ERC20s** | [0x775ee938186fddc13bd7c89d24820e1b0758f91d](https://etherscan.io/address/0x775ee938186fddc13bd7c89d24820e1b0758f91d) |  |
 | Uniswap V2 Remove | Add liquidity to any liquidity pool on Uniswap V2 **using just ETH or ERC20s** | [0x343e3a490c9251dc0eaa81da146ba6abe6c78b2d](https://etherscan.io/address/0x343e3a490c9251dc0eaa81da146ba6abe6c78b2d) |  |
 | Multi-Pool Uniswap V1 | Add Liquidity Multiple Uniswap V1 Pools **at the same time** | [0x7f1cd65679d73EB98fcEBe8b61C13d3D68605717](https://etherscan.io/address/0x7f1cd65679d73eb98fcebe8b61c13d3d68605717) |  |
-| Curve Add | Add liquidity to  Curve Pools using **just ETH or just ERC20s** | [0xadcd4fDe447c10DF243c01828a6298958E69A3f6](https://etherscan.io/address/0xadcd4fde447c10df243c01828a6298958e69a3f6) |  |
+| Curve Add | Add liquidity to  Curve Pools using **just ETH or just ERC20s** | [0x456974dF1042bA7A46FD49512A8778Ac3B840A21](https://etherscan.io/address/0x456974dF1042bA7A46FD49512A8778Ac3B840A21) |  |
 | Curve &lt;&gt; Curve Pool Pipe | Re-balance liquidity between liquidity pools on Curve | [0x83c32BF929F80e404ff30Ede7333271460b13cd9](https://etherscan.io/address/0x83c32BF929F80e404ff30Ede7333271460b13cd9) |  |
 | Uniswap V1 &lt;&gt; Curve Pool Pipe | Re-balance liquidity between Uniswap V1 & Curve liquidity pools | [0x66895417881B1d77Ca71bd9e5Ba1E729f3Aa44D3](https://etherscan.io/address/0x66895417881B1d77Ca71bd9e5Ba1E729f3Aa44D3) |  |
 | Uniswap V1 &lt;&gt; Uniswap V1 Pool Pipe | Re-balance liquidity between Uniswap V1 liquidity pools | [0xaecCd58001D52B4b931FD6FD5bF87D4F911100B7](https://etherscan.io/address/0xaecCd58001D52B4b931FD6FD5bF87D4F911100B7) |  |
