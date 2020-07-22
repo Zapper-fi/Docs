@@ -73,7 +73,17 @@ Generally bearish on crypto markets for the time being.
 
 ![](../../.gitbook/assets/chrome_itroncqp9s.png)
 
-## Add liquidity to [sBTC pool on Curve ](https://www.zapper.fi/invest)+ stake your pool tokens to receive $BAL + $SNX + $REN + future $CRV rewards.
+## Add liquidity to [sBTC pool on Curve ](https://www.zapper.fi/invest)+ stake your pool tokens to receive $BAL + $SNX + $REN + future $CRV rewards. 
+
+{% embed url="https://www.youtube.com/watch?v=zAh0f2pDMSU&t=3s" %}
+
+## Add liquidity to [YCurve pool ](https://www.zapper.fi/invest)+ stake your pool tokens to receive $YFI + future $CRV rewards.
+
+{% embed url="https://www.youtube.com/watch?v=IPcVXjL6ldo&t=112s" %}
 {% endtab %}
 {% endtabs %}
+
+
+
+
 
