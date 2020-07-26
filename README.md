@@ -1,6 +1,6 @@
 # ⚡️Introduction
 
-![](.gitbook/assets/group-704.png)
+![](.gitbook/assets/screen-shot-2020-07-25-at-6.42.22-pm.png)
 
 {% hint style="danger" %}
 **NOTE: These docs are still being worked on.**
