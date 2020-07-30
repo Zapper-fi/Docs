@@ -11,6 +11,8 @@ Lets say for example you join ETH/DAI pool with ~3000 when price of eth is $300.
 To sum up, your best bet is to come in and come out when prices are relatively the same. Because in this case you will get back relatively the same proportions you entered with + accrued fees from swaps that happened during your pooling period. With eth/dai pair its easy to track this, but keep in mind when you have pairs like eth/snx - the ratio is counted relative to each other. Meaning if during your pooling period both ETH + SNX go up in USD values at the same rate - you will still come out with the same ETH+SNX proportions
 
 
+## Are there any fees besides standard Ethereum network transaction fees for using Zapper?
 
+No, currently Zapper does not charge any fees.
 
 
