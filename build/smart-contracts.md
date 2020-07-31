@@ -22,7 +22,7 @@ description: >-
 | Uniswap V1 &lt;&gt; Curve Pool Pipe | Re-balance liquidity between Uniswap V1 & Curve liquidity pools | [0x66895417881B1d77Ca71bd9e5Ba1E729f3Aa44D3](https://etherscan.io/address/0x66895417881B1d77Ca71bd9e5Ba1E729f3Aa44D3) |
 | Uniswap V1 &lt;&gt; Uniswap V1 Pool Pipe | Re-balance liquidity between Uniswap V1 liquidity pools | [0xaecCd58001D52B4b931FD6FD5bF87D4F911100B7](https://etherscan.io/address/0xaecCd58001D52B4b931FD6FD5bF87D4F911100B7) |
 | Uniswap V1 &lt;&gt; Uniswap V2 Pool Pipe | Re-balance liquidity between Uniswap V1+V2  pools | [0x6d313883c6db5ea58bdd5546f403f1fe27e92690](https://etherscan.io/address/0x6d313883c6db5ea58bdd5546f403f1fe27e92690) |
-| Uniswap V2 &lt;&gt; Balancer Pool Pipe | Re-balance liquidity between Uniswap V2 and Balancer pools | [0xF890d5C1e09307D662Ae1861c7aE36D3F905c689](https://etherscan.io/address/0xF890d5C1e09307D662Ae1861c7aE36D3F905c689) |
+| Uniswap V2 &lt;&gt; Balancer Pool Pipe | Re-balance liquidity between Uniswap V2 and Balancer pools | [0xDB052F108C7E2a691ED702f54508192169Be9d3F](https://etherscan.io/address/0xDB052F108C7E2a691ED702f54508192169Be9d3F) |
 
 ## Deprecated
 
