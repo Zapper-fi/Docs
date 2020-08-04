@@ -138,6 +138,9 @@ Note: slippage will increase with larger deposits because your input is being pr
 
 {% tab title="Remove Liquidity" %}
 {% embed url="https://twitter.com/zapper\_fi/status/1262681589613498368?s=20" %}
+
+1. Make sure you are connected with the same wallet you used when you added liquidity.
+2. 
 {% endtab %}
 
 {% tab title="Incentives" %}

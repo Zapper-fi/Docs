@@ -1,6 +1,6 @@
 # 💦Pooling
 
-![Get started on Zapper.Fi](../../.gitbook/assets/slice-6.png)
+{% embed url="https://www.youtube.com/watch?v=VtXB-NJMjMc&feature=emb\_title" %}
 
 ## What does "Pooling" mean
 
