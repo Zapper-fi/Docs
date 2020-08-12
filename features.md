@@ -2,11 +2,11 @@
 
 ## 📊[**Enter wallet address & get an instant snapshot of all your DeFi holdings**](https://www.zapper.fi/)\*\*\*\*
 
-![](.gitbook/assets/chrome_u3a5ubn8tt.png)
+![](.gitbook/assets/sa.png)
 
 ## 💸[**The easiest way to discover and access new opportunities in DeFi** ](invest/pooling/)\*\*\*\*
 
-{% embed url="https://docs.zapper.fi/invest/pooling" %}
+{% embed url="https://youtu.be/VtXB-NJMjMc" %}
 
 ## ⛓️[**Integration with 19 DeFi platforms**](https://www.zapper.fi/supported)
 
