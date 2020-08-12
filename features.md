@@ -12,11 +12,13 @@
 
 ![](.gitbook/assets/chrome_nzuutqqmvs.png)
 
-## 🧱[**Ability to combine financial instruments to create your own strategies or even entirely new use-cases**](invest/multipooling.md)\*\*\*\*
+## 🧱[**Ability to combine financial instruments to create your own strategies or even entirely new use-cases**](invest/multipooling.md)
 
-![](.gitbook/assets/7cjaymdmqn%20%281%29.gif)
+![If you are a builder interested in getting early access, reach out to us on Discord!](.gitbook/assets/7cjaymdmqn%20%281%29.gif)
 
 ## 💳[**Supported wallets**](https://www.zapper.fi/) ****
 
-![Get Started on Zapper.Fi](.gitbook/assets/image%20%289%29.png)
+![Powered by Blocknative.](.gitbook/assets/supported-wallets.png.png)
+
+
 
