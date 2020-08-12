@@ -8,6 +8,8 @@ We are big fans of Synthetix and are always looking for ways to improve the expe
 
 For example, our [sETH Unipool Zap](https://defizap.com/zaps) helps users add liquidity to the sETH&lt;&gt;ETH Pool on Uniswap in one-transaction, using just one asset \(ETH or sETH or other ERC20s\). Inputs are split into appropriate proportions to enter the pool with. In return sETH LP tokens are minted which represent your claim on liquidity provided + accrued exchange fees. 
 
+{% embed url="https://youtu.be/7mHmiWFF\_pM" caption="More about Zaps" %}
+
 As soon as the new [Unipool contract for SNX rewards was announced](https://blog.synthetix.io/new-uniswap-seth-lp-reward-system/), we added a [visual interface](https://defizap.com/zaps/unipoolseth) to help users easily stake their sETH LPs in Unipool contract:
 
 ![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6a1d70b9-f179-4bc2-b11d-7f4e62b64085_912x1463.png)
