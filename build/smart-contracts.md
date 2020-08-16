@@ -23,7 +23,7 @@ description: >-
 | Uniswap V1 &lt;&gt; Uniswap V1 Pool Pipe | Re-balance liquidity between Uniswap V1 liquidity pools | [0xaecCd58001D52B4b931FD6FD5bF87D4F911100B7](https://etherscan.io/address/0xaecCd58001D52B4b931FD6FD5bF87D4F911100B7) |
 | Uniswap V1 &lt;&gt; Uniswap V2 Pool Pipe | Re-balance liquidity between Uniswap V1+V2  pools | [0x6d313883c6db5ea58bdd5546f403f1fe27e92690](https://etherscan.io/address/0x6d313883c6db5ea58bdd5546f403f1fe27e92690) |
 | Uniswap V2 &lt;&gt; Balancer Pool Pipe | Re-balance liquidity between Uniswap V2 and Balancer pools | [0xDB052F108C7E2a691ED702f54508192169Be9d3F](https://etherscan.io/address/0xDB052F108C7E2a691ED702f54508192169Be9d3F) |
-| yEarn Vault Add or Remove | Add or remove liquidity from yEarn Vaults | [0x577C0E7A6fa416632b66b76449d55264D57143f5](https://etherscan.io/address/0x577C0E7A6fa416632b66b76449d55264D57143f5) |
+| yEarn Vault Add or Remove | Add or remove liquidity from yEarn Vaults | [0x02e75fE4E8f8531421ee22f4560664685c3f07DE](https://etherscan.io/address/0x02e75fE4E8f8531421ee22f4560664685c3f07DE) |
 
 ## Deprecated
 
