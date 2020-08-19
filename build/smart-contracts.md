@@ -10,7 +10,7 @@ description: >-
 
 | Contract | Description | Address |
 | :--- | :--- | :--- |
-| Uniswap V2 Add | Add liquidity to any liquidity pool on Uniswap V2 **using just ETH or ERC20s** | [0x775ee938186fddc13bd7c89d24820e1b0758f91d](https://etherscan.io/address/0x775ee938186fddc13bd7c89d24820e1b0758f91d) |
+| Uniswap V2 Add | Add liquidity to any liquidity pool on Uniswap V2 **using just ETH or ERC20s** | [0x80c5e6908368cb9db503ba968d7ec5a565bfb389](https://etherscan.io/address/0x80c5e6908368cb9db503ba968d7ec5a565bfb389) |
 | Uniswap V2 Remove | Add liquidity to any liquidity pool on Uniswap V2 **using just ETH or ERC20s** | [0x343e3a490c9251dc0eaa81da146ba6abe6c78b2d](https://etherscan.io/address/0x343e3a490c9251dc0eaa81da146ba6abe6c78b2d) |
 | Uniswap V1 Remove | Remove liquidity from any  pool on Uniswap V1 **& receive just ETH or any ERC20** | [0x5e6531d99e9099cb3936c048daf6ba0b3f79b9e2](https://etherscan.io/address/0x5e6531d99e9099cb3936c048daf6ba0b3f79b9e2) |
 | Balancer Add | Add liquidity to any  pool on Balancer **using just ETH or ERC20s** | [0xa2AcfAaAa01C4999385104787C1f24a9cF95b725](https://etherscan.io/address/0xa2AcfAaAa01C4999385104787C1f24a9cF95b725) |
