@@ -10,6 +10,7 @@
   * [Uniswap](invest/pooling/uniswap.md)
   * [Balancer](invest/pooling/balancer.md)
   * [Curve](invest/pooling/curve.md)
+  * [Yearn Vaults](invest/pooling/yearn-vaults.md)
   * [FutureSwap](invest/pooling/futureswap-coming-soon.md)
   * [Shell](invest/pooling/shell-coming-soon.md)
   * [Opyn](invest/pooling/opyn.md)
