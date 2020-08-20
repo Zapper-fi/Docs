@@ -20,5 +20,5 @@
 
 ![Powered by Blocknative.](.gitbook/assets/supported-wallets.png.png)
 
-
+## 👉 [NEW FEATURE REQUESTS.](https://features.zapper.fi/)
 
