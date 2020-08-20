@@ -11,15 +11,15 @@ description: yearn.finance/vaults
 ![](../../.gitbook/assets/stable-vaults.png)
 {% endtab %}
 
-{% tab title="yyCRV" %}
+{% tab title="yCRV LP" %}
 ![](../../.gitbook/assets/ycrv-vault.png)
 {% endtab %}
 
-{% tab title="YFI" %}
+{% tab title="$YFI" %}
 ![](../../.gitbook/assets/yfi-vault%20%281%29.png)
 {% endtab %}
 
-{% tab title="LINK \(Delegated\)" %}
+{% tab title="$LINK \(Delegated\)" %}
 ![](../../.gitbook/assets/link-vault%20%283%29.png)
 {% endtab %}
 {% endtabs %}
