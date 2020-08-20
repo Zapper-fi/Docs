@@ -16,7 +16,7 @@ description: yearn.finance/vaults
 {% endtab %}
 
 {% tab title="YFI" %}
-![](../../.gitbook/assets/yfi-vault.png)
+![](../../.gitbook/assets/yfi-vault%20%281%29.png)
 {% endtab %}
 
 {% tab title="LINK \(Delegated\)" %}
