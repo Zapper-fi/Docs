@@ -4,7 +4,9 @@ description: yearn.finance/vaults
 
 # Yearn Vaults
 
-### ⚡️Easily enter any available Yearn Vault from [Zapper.fi](https://zapper.fi) ⚡️
+## ⚡️Easily enter any available Yearn Vault from [Zapper.fi](https://zapper.fi) ⚡️
+
+{% embed url="https://www.youtube.com/watch?v=jzlo5sl\_wA4" %}
 
 {% tabs %}
 {% tab title="Stable" %}
