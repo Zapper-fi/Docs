@@ -29,11 +29,12 @@
 
 ## ADDITIONAL RESOURCES
 
-* [🆕Feature Requests](https://features.zapper.fi/)
+* [▶️Video Guides](additional-resources/video-guides.md)
+* [▶️DeFiTutorials.com](https://defitutorials.substack.com/)
 * [❓FAQs](additional-resources/faqs.md)
 * [🤝Ecosystem Partners](additional-resources/our-partners.md)
 * [🥰Community Love](additional-resources/fan-love.md)
 * [🎨Brand Assets](additional-resources/brand-assets.md)
 * [💬Join Our Community](https://discordapp.com/invite/h6CGbuN)
-* [▶️DeFiTutorials.com](https://defitutorials.substack.com/)
+* [🆕Feature Requests](https://features.zapper.fi/)
 
