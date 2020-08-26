@@ -1,5 +1,29 @@
 # 🥰Community Love
 
+{% embed url="https://twitter.com/DeFi\_Dad/status/1296919647753834500?s=20" %}
+
+{% embed url="https://twitter.com/nanexcool/status/1293848711613874176?s=20" %}
+
+
+
+{% embed url="https://twitter.com/learn2yearn/status/1296489658650701827?s=20" %}
+
+{% embed url="https://twitter.com/safetyth1rd/status/1296657988069933059?s=20" %}
+
+{% embed url="https://twitter.com/sassal0x/status/1296655943879389184?s=20" %}
+
+{% embed url="https://twitter.com/DeFi\_Dad/status/1294128309974917120?s=20" %}
+
+{% embed url="https://twitter.com/ChainlinkP/status/1286943893691330562?s=20" %}
+
+{% embed url="https://twitter.com/rmgarciap/status/1293963839243988992?s=20" %}
+
+{% embed url="https://twitter.com/EveryBitHelps\_/status/1293271790962253826?s=20" %}
+
+{% embed url="https://twitter.com/tbr90/status/1289228139567017984?s=20" %}
+
+
+
 {% embed url="https://twitter.com/VENTURE\_DAO/status/1279089228547108866?s=20" %}
 
 {% embed url="https://twitter.com/Yield\_Farmer/status/1279092191680479233?s=20" %}
@@ -35,6 +59,8 @@
 {% embed url="https://twitter.com/AlexSaundersAU/status/1224453712996782080?s=20" %}
 
 {% embed url="https://twitter.com/EthereumDenver/status/1260208107696934912?s=20" %}
+
+{% embed url="https://thedefiant.substack.com/p/defizap-takes-financial-engineering" %}
 
 {% embed url="https://thedefiant.substack.com/p/we-need-to-democratize-access-to-afb" %}
 
