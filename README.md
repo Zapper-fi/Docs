@@ -1,9 +1,11 @@
 # ⚡️Introduction
 
-![](.gitbook/assets/logo_black_alt2x%20%282%29.png)
+![www.zapper.fi](.gitbook/assets/logo_black_alt2x%20%282%29.png)
 
 {% hint style="danger" %}
 **NOTE: These docs are still being worked on.**
+
+**THIS IS NOT INVESTMENT ADVICE. DYOR!**
 {% endhint %}
 
 {% tabs %}
