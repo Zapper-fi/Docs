@@ -4,7 +4,7 @@
 
 ![](.gitbook/assets/sa.png)
 
-## 💸[**The easiest way to discover and access new opportunities in DeFi** ](invest/pooling/)\*\*\*\*
+## 💸[**The easiest way to discover and access new farming opportunities in DeFi**](invest/pooling/)**.**
 
 {% embed url="https://youtu.be/VtXB-NJMjMc" %}
 
