@@ -1,8 +1,6 @@
 # 📊Stats
 
-### Total Liquidity Flows to [Uniswap](invest/pooling/uniswap.md), [Balancer ](invest/pooling/balancer.md)and [Curve](invest/pooling/curve.md), as of July, 2020.
-
-![](.gitbook/assets/june+july-zapper-stats.png)
+![As of August 31st, 2020](.gitbook/assets/screen-shot-2020-09-01-at-3.41.37-am.png)
 
 #### 
 
