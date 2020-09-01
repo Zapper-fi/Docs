@@ -1,7 +1,7 @@
 ---
 description: >-
   Zaps = Smart Contracts combining multiple on-chain actions to help you save
-  time & money.
+  time & gas.
 ---
 
 # 📄Smart Contracts
