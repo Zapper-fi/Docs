@@ -1,6 +1,6 @@
 # ⚡️Introduction
 
-![](.gitbook/assets/screen-shot-2020-07-25-at-6.42.22-pm.png)
+![](.gitbook/assets/logo_black_alt2x%20%282%29.png)
 
 {% hint style="danger" %}
 **NOTE: These docs are still being worked on.**
