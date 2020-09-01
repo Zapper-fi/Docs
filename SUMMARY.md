@@ -14,6 +14,7 @@
   * [FutureSwap](invest/pooling/futureswap-coming-soon.md)
   * [Shell](invest/pooling/shell-coming-soon.md)
   * [Opyn](invest/pooling/opyn.md)
+* [🚜Farming](invest/farming.md)
 * [🎛️Multipooling](invest/multipooling.md)
 * [🚰Piping](invest/piping.md)
 * [🤐Zips](invest/zuni-coming-soon.md)
