@@ -6,6 +6,7 @@ We've registered some popular pools with the [Ethereum Name Service](https://ens
 
 | ENS | Action | Gas requirement | Strategy |
 | :--- | :--- | :--- | :--- |
+| [yCurveVault.ZapIN.eth](https://etherscan.io/address/ycurvevault.zapin.eth) | Add liquidity to the yCurve Vault | 2,750,000 | ETH - sell to &gt; yCurve Pool-&gt;yCurve Vault |
 | [sETHUNIV1.ZapIN.eth](https://etherscan.io/address/0xd3eba712988df0f8a7e5073719a40ce4cbf60b33) | Add liquidity to ETH/sETH pool on Uniswap V1 | 800,000 | Keep ETH exposure while generating SNX rewards. |
 | [DAIUNIV1.ZapIN.eth](https://etherscan.io/address/daiuniv1.zapin.eth) | Add liquidity to ETH/DAI pool on Uniswap V1 | 400,000 | Expect ETH price to remain relatively the same for the duration of your liquidity provisioning. |
 | [MKRUNIV1.ZapIN.eth](https://etherscan.io/address/mkruniv1.zapin.eth) | Add liquidity to ETH/MKR pool on Uniswap V1 | 400,000 | MKR/ETH ratio will remain the same. Meaning both MKR & ETH will increase/decrease at around the same rate in USD terms.  |
