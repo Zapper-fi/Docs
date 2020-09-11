@@ -6,7 +6,9 @@ description: yearn.finance/vaults
 
 ## ⚡️Easily enter any available Yearn Vault from [Zapper.fi](https://zapper.fi) ⚡️
 
-{% embed url="https://www.youtube.com/watch?v=jzlo5sl\_wA4" %}
+{% embed url="https://www.youtube.com/watch?v=jzlo5sl\_wA4" caption="" %}
+
+#### View more info [https://www.learnyearn.finance/vaults/yapper](https://www.learnyearn.finance/vaults/yapper)
 
 {% tabs %}
 {% tab title="Stable" %}
