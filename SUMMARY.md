@@ -5,8 +5,10 @@
 * [📊Stats](stats.md)
 * [▶️DeFi Tutorials](video-guides/README.md)
   * [⚡️How to Zap into DeFi](video-guides/zap.md)
+  * [⛽️How does Zapper save gas?](video-guides/how-does-zapper-save-gas.md)
   * [📈How to keep track of your deposits in DeFi](video-guides/snap.md)
   * [🔏How to create a new Gnosis Safe Multisig](video-guides/gnosis.md)
+  * [⚡️🔏How to Zap directly from your Gnosis Safe](video-guides/how-to-zap-directly-from-your-gnosis-safe.md)
 
 ## INVEST
 
