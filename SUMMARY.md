@@ -3,6 +3,10 @@
 * [⚡️Introduction](README.md)
 * [⚙️Features](features.md)
 * [📊Stats](stats.md)
+* [▶️DeFi Tutorials](video-guides/README.md)
+  * [⚡️How to Zap into DeFi](video-guides/zap.md)
+  * [📈How to keep track of your deposits in DeFi](video-guides/snap.md)
+  * [🔏How to create a new Gnosis Safe Multisig](video-guides/gnosis.md)
 
 ## INVEST
 
@@ -28,8 +32,6 @@
 
 ## ADDITIONAL RESOURCES
 
-* [▶️Video Guides](additional-resources/video-guides.md)
-* [▶️DeFiTutorials.com](https://defitutorials.substack.com/)
 * [❓FAQs](additional-resources/faqs.md)
 * [🤝Ecosystem Partners](additional-resources/our-partners.md)
 * [🥰Community Love](additional-resources/fan-love.md)

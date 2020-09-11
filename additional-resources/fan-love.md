@@ -2,9 +2,9 @@
 
 {% embed url="https://twitter.com/DeFi\_Dad/status/1296919647753834500?s=20" %}
 
+{% embed url="https://youtu.be/venoiaiVZ-U" %}
+
 {% embed url="https://twitter.com/nanexcool/status/1293848711613874176?s=20" %}
-
-
 
 {% embed url="https://twitter.com/learn2yearn/status/1296489658650701827?s=20" %}
 

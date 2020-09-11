@@ -58,6 +58,10 @@ To move some of your liquidity from Uniswap sETH Pool into Curve’s sUSD Pool, 
 ![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7dac56b-53d0-4d1e-a07d-1f434ff93a68_1557x633.png)
 {% endtab %}
 
+{% tab title="Video" %}
+{% embed url="https://www.youtube.com/watch?v=2iGoTyR9kAI" %}
+{% endtab %}
+
 {% tab title="Available Pipes" %}
 ![](../.gitbook/assets/curve-curve-pool-pipe.png)
 
