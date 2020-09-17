@@ -24,6 +24,7 @@ description: >-
 | Uniswap V1 &lt;&gt; Uniswap V2 Pool Pipe | Re-balance liquidity between Uniswap V1+V2  pools | [0x6d313883c6db5ea58bdd5546f403f1fe27e92690](https://etherscan.io/address/0x6d313883c6db5ea58bdd5546f403f1fe27e92690) |
 | Uniswap V2 &lt;&gt; Balancer Pool Pipe | Re-balance liquidity between Uniswap V2 and Balancer pools | [0xA3149708cb9D9BD31CB5c8F5c107D94395B7bA64](https://etherscan.io/address/0xA3149708cb9D9BD31CB5c8F5c107D94395B7bA64) |
 | yEarn Vault Add or Remove | Add or remove liquidity from yEarn Vaults | [0x9c57618bfCDfaE4cE8e49226Ca22A7837DE64A2d](https://etherscan.io/address/0x9c57618bfCDfaE4cE8e49226Ca22A7837DE64A2d) |
+| Zapper Swap | Multi-Exchange asset swap with ETH or ERC20s | [0x2346722DAa00ebbd0fc452C0E7aB7976bDAFeae8](https://etherscan.io/address/0x2346722DAa00ebbd0fc452C0E7aB7976bDAFeae8) |
 
 ## Deprecated
 
@@ -40,7 +41,8 @@ description: >-
 | Balancer Add 2.0 | Add liquidity to Balancer pools using just ETH or just ERC20s | [0x03E86D24C462fa6aD88568053361186E4A5aF68e](https://etherscan.io/address/0x03E86D24C462fa6aD88568053361186E4A5aF68e) |
 | Balancer Remove 1.0 | Add liquidity to Balancer pools using just ETH or just ERC20s | [0x35B9Ae15EEb12eA934942a36754192A9Bb219742](https://etherscan.io/address/0x35b9ae15eeb12ea934942a36754192a9bb219742) |
 | Curve Add 1.0 | Add liquidity to  Curve Pools using **just ETH or just ERC20s** | [0x924Cc11Fd506fcE3dAB461AA71a6bb823669EcE3](https://etherscan.io/address/0x924cc11fd506fce3dab461aa71a6bb823669ece3) |
-| Curve Remove 1.0 | Remove liquidity from any Curve pool & receive just ETH or any ERC20 | [0x983dd5dc5a99ec27bb850b865ca99407b38722bf](https://etherscan.io/address/0x983dd5dc5a99ec27bb850b865ca99407b38722bf) |
+| Curve Remove 1.0 | Remove liquidity from any Curve pool & receive just ETH or any ERC20 | [0x983dd5dc5a99ec27bb850b865ca99407b38722bf](https://etherscan.io/address/0x2346722DAa00ebbd0fc452C0E7aB7976bDAFeae8) |
+| Zapper Swap 1.0 | Multi-exchange asset swap for ETH or ERC20s | [0x2346722DAa00ebbd0fc452C0E7aB7976bDAFeae8](https://etherscan.io/address/0x2346722DAa00ebbd0fc452C0E7aB7976bDAFeae8) |
 
 ## Usage example \(Curve&lt;&gt;Curve Pool Pipe\)
 
