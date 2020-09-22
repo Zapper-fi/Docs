@@ -43,6 +43,7 @@ description: >-
 | Balancer Remove 1.1 | Remove liquidity from Balancer pools & get back just ETH or just any ERC20 | [0x5CCb8c39bF68612C7997Cbc498ae55908D32d223](https://etherscan.io/address/0x5ccb8c39bf68612c7997cbc498ae55908d32d223#code) |
 | Curve Add 1.0 | Add liquidity to  Curve Pools using **just ETH or just ERC20s** | [0x924Cc11Fd506fcE3dAB461AA71a6bb823669EcE3](https://etherscan.io/address/0x924cc11fd506fce3dab461aa71a6bb823669ece3) |
 | Curve Remove 1.0 | Remove liquidity from any Curve pool & receive just ETH or any ERC20 | [0x983dd5dc5a99ec27bb850b865ca99407b38722bf](https://etherscan.io/address/0x2346722DAa00ebbd0fc452C0E7aB7976bDAFeae8) |
+| yVault Zap In+Out | Add or remove liquidity from any Yearn Vault. | [0x02e75fE4E8f8531421ee22f4560664685c3f07DE](https://etherscan.io/address/0x02e75fe4e8f8531421ee22f4560664685c3f07de#code) |
 
 ## Usage example \(Curve&lt;&gt;Curve Pool Pipe\)
 
