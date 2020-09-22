@@ -42,7 +42,6 @@ description: >-
 | Balancer Remove 1.0 | Add liquidity to Balancer pools using just ETH or just ERC20s | [0x35B9Ae15EEb12eA934942a36754192A9Bb219742](https://etherscan.io/address/0x35b9ae15eeb12ea934942a36754192a9bb219742) |
 | Curve Add 1.0 | Add liquidity to  Curve Pools using **just ETH or just ERC20s** | [0x924Cc11Fd506fcE3dAB461AA71a6bb823669EcE3](https://etherscan.io/address/0x924cc11fd506fce3dab461aa71a6bb823669ece3) |
 | Curve Remove 1.0 | Remove liquidity from any Curve pool & receive just ETH or any ERC20 | [0x983dd5dc5a99ec27bb850b865ca99407b38722bf](https://etherscan.io/address/0x2346722DAa00ebbd0fc452C0E7aB7976bDAFeae8) |
-| Zapper Swap 1.0 | Multi-exchange asset swap for ETH or ERC20s | [0x2346722DAa00ebbd0fc452C0E7aB7976bDAFeae8](https://etherscan.io/address/0x2346722DAa00ebbd0fc452C0E7aB7976bDAFeae8) |
 
 ## Usage example \(Curve&lt;&gt;Curve Pool Pipe\)
 
