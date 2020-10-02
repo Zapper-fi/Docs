@@ -10,6 +10,7 @@
   * [🔏How to create a new Gnosis Safe Multisig](video-guides/gnosis.md)
   * [⚡️🔏How to Zap directly from your Gnosis Safe](video-guides/how-to-zap-directly-from-your-gnosis-safe.md)
   * [🔷 Using Zaps from Etherscan](video-guides/using-zaps-from-etherscan.md)
+* [📢Community Calls](community-calls.md)
 
 ## INVEST
 
