@@ -10,6 +10,10 @@
 
 {% page-ref page="gnosis.md" %}
 
+{% page-ref page="how-to-zap-directly-from-your-gnosis-safe.md" %}
+
+{% page-ref page="using-zaps-from-etherscan.md" %}
+
 {% page-ref page="../invest/pooling/" %}
 
 {% page-ref page="../invest/farming.md" %}
