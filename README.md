@@ -1,6 +1,6 @@
 # ⚡️Introduction
 
-![www.zapper.fi](.gitbook/assets/logo_black_alt2x%20%282%29.png)
+![www.zapper.fi](.gitbook/assets/image%20%2826%29.png)
 
 {% hint style="danger" %}
 **NOTE: These docs are still being worked on.**

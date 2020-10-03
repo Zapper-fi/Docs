@@ -40,6 +40,7 @@
 * [🤝Ecosystem Partners](additional-resources/our-partners.md)
 * [🥰Community Love](additional-resources/fan-love.md)
 * [🎨Brand Assets](additional-resources/brand-assets.md)
-* [💬Join Our Community](https://discordapp.com/invite/h6CGbuN)
 * [🆕Feature Requests](https://features.zapper.fi/)
+* [📝 Blog](https://medium.com/zapper-protocol)
+* [💬Join Our Community](https://discordapp.com/invite/h6CGbuN)
 
