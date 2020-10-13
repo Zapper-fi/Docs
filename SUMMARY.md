@@ -10,7 +10,11 @@
   * [🔏How to create a new Gnosis Safe Multisig](video-guides/gnosis.md)
   * [⚡️🔏How to Zap directly from your Gnosis Safe](video-guides/how-to-zap-directly-from-your-gnosis-safe.md)
   * [🔷 Using Zaps from Etherscan](video-guides/using-zaps-from-etherscan.md)
-* [📢Community Calls](community-calls.md)
+* [❓FAQs](FAQs/README.md)
+  * [What is Zapper?](FAQs/what-is-zapper.md)
+  * [Using Zaps](FAQs/using-zaps.md)
+  * [Troubleshooting](FAQs/troubleshooting.md)
+  * [DeFi Knowledge](FAQs/defi-knowledge.md)
 
 ## INVEST
 
@@ -36,8 +40,8 @@
 
 ## ADDITIONAL RESOURCES
 
-* [❓FAQs](additional-resources/faqs.md)
 * [🤝Ecosystem Partners](additional-resources/our-partners.md)
+* [📢Weekly Community Calls](community-calls.md)
 * [🥰Community Love](additional-resources/fan-love.md)
 * [🎨Brand Assets](additional-resources/brand-assets.md)
 * [🆕Feature Requests](https://features.zapper.fi/)

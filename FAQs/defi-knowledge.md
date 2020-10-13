@@ -1,11 +1,3 @@
-# ❓FAQs
-
-## Are there any fees besides standard Ethereum network transaction fees for using Zapper?
-
-No, currently Zapper does not charge any fees besides the gas required to process your transaction on-chain. Zapper helps you save gas fees by bundling multiple DeFi actions into one transaction. 
-
-{% embed url="https://twitter.com/NodarJ/status/1296869754540621826?s=20" %}
-
 ## What is the difference between 'Net ROI \(1mo\)' and '$ ROI \(1mo\)'?
 
 $ ROI \(1mo\) shows your returns measured in USD. This simply looks at $ difference over 1 month period.
@@ -15,4 +7,3 @@ Net ROI \(1mo\) is the impermanent gain or loss you would have experienced if yo
 Lets say for example you join ETH/DAI pool with ~3000 when price of eth is $300. Your pooled assets would = 5 ETH + 1500 DAI. Now lets say 1 week later price of eth doubles to $600 \(depending on volume\) you could have something like 3.7 ETH + 2220 DAI which means your $ ROI is $4440 - $3000 = $1,440 but if you held original assets in your wallet you would have $4500 - 3000 = $1,500 so $60 is that imp loss portion. This increases as your exit price gets farther and farther away from your entry price.
 
 To sum up, your best bet is to come in and come out when prices are relatively the same. Because in this case you will get back relatively the same proportions you entered with + accrued fees from swaps that happened during your pooling period. With eth/dai pair its easy to track this, but keep in mind when you have pairs like eth/snx - the ratio is counted relative to each other. Meaning if during your pooling period both ETH + SNX go up in USD values at the same rate - you will still come out with the same ETH+SNX proportions
-
