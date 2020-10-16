@@ -15,7 +15,7 @@ description: >-
 | Uniswap V1 Remove | Remove liquidity from any  pool on Uniswap V1 **& receive just ETH or any ERC20** | [0x5e6531d99e9099cb3936c048daf6ba0b3f79b9e2](https://etherscan.io/address/0x5e6531d99e9099cb3936c048daf6ba0b3f79b9e2) |
 | Balancer Add | Add liquidity to any  pool on Balancer **using just ETH or ERC20s** | [0xA3128cC400E2878571368ae0a83F588Eb838552b](https://etherscan.io/address/0xA3128cC400E2878571368ae0a83F588Eb838552b) |
 | Balancer Remove | Remove liquidity from any  pool on Balancer **& receive just ETH or any ERC20** | [0x00d0f137b51692D0AC708bdE7b367a373865cFfe](https://etherscan.io/address/0x00d0f137b51692D0AC708bdE7b367a373865cFfe) |
-| Curve Add | Add liquidity to  Curve Pools using **just ETH or just ERC20s** | [0x598089cf2a190dff39eb66e7b529f06aad93931b](https://etherscan.io/address/0x598089cf2a190dff39eb66e7b529f06aad93931b) |
+| Curve Add | Add liquidity to  Curve Pools using **just ETH or just ERC20s** | [0xcCdd1f20Fd50DD63849A87994bdD11806e4363De](https://etherscan.io/address/0xcCdd1f20Fd50DD63849A87994bdD11806e4363De) |
 | Curve Remove | Remove liquidity from any pool on Curve **& receive just ETH or any ERC20** | [0x4bf331aa2bfb0869315fb81a350d109f4839f81b](https://etherscan.io/address/0x4bf331aa2bfb0869315fb81a350d109f4839f81b) |
 | Uniswap V2 &lt;&gt; Balancer Pool Pipe | Re-balance liquidity between Uniswap V2 and Balancer pools | [0xA3149708cb9D9BD31CB5c8F5c107D94395B7bA64](https://etherscan.io/address/0xA3149708cb9D9BD31CB5c8F5c107D94395B7bA64) |
 | yEarn Vault Add or Remove | Add or remove liquidity from yEarn Vaults | [0x9c57618bfCDfaE4cE8e49226Ca22A7837DE64A2d](https://etherscan.io/address/0x9c57618bfCDfaE4cE8e49226Ca22A7837DE64A2d) |
