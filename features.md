@@ -1,10 +1,10 @@
 # ⚙️Features
 
-## 📊[**Enter wallet address & get an instant snapshot of all your DeFi holdings**](https://www.zapper.fi/)\*\*\*\*
+## 📊[**Enter wallet address & get an instant snapshot of all your DeFi holdings**](https://www.zapper.fi/)
 
 ![](.gitbook/assets/sa.png)
 
-## 💸[**Discover and access new farming opportunities in DeFi with lower gas costs**](invest/pooling/)**.**
+## 💸[**Discover and access new farming opportunities in DeFi with lower gas costs**](invest/pooling/)
 
 {% embed url="https://youtu.be/VtXB-NJMjMc" %}
 
@@ -16,9 +16,9 @@
 
 ![If you are a builder interested in getting early access, reach out to us on Discord!](.gitbook/assets/7cjaymdmqn%20%281%29.gif)
 
-## 💳[**Supported wallets**](https://www.zapper.fi/) ****
+## 💳[**Supported wallets**](https://www.zapper.fi/)
 
 ![Powered by Blocknative.](.gitbook/assets/supported-wallets.png.png)
 
-## 👉 [NEW FEATURE REQUESTS.](https://features.zapper.fi/)
+## 👉 [**Request new features here**](https://features.zapper.fi/)
 
