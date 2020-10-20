@@ -2,12 +2,6 @@
 
 ![](.gitbook/assets/image%20%2826%29.png)
 
-[//]: # {% hint style="danger" %}
-[//]: # **NOTE: These docs are still being worked on.**
-[//]: # **THIS IS NOT INVESTMENT ADVICE. DYOR!**
-[//]: # {% endhint %}
-
-
 ### [Zapper.fi](https://www.zapper.fi/dashboard) is the ultimate hub for Decentralized Finance aka DeFi. We offer three main features.
 
 1. [**Monitor**](https://www.zapper.fi/#/dashboard).
