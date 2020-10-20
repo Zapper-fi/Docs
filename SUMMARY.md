@@ -25,11 +25,7 @@
   * [Yearn Vaults](invest/pooling/yearn-vaults.md)
   * [FutureSwap](invest/pooling/futureswap-coming-soon.md)
 * [🚜Farming](invest/farming.md)
-* [🎛️Multipooling](invest/multipooling.md)
 * [🚰Piping](invest/piping.md)
-* [🤐Zips](invest/zuni-coming-soon.md)
-* [🚀Leveraged Pooling](invest/leveraged-pooling-coming-soon.md)
-* [☯️Hedged Pooling](invest/hedged-pooling-coming-soon.md)
 
 ## BUILD
 
