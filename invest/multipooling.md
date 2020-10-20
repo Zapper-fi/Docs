@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/multipooling.png)
 
-## What does "Multiooling" mean?
+## What does "Multipooling" mean?
 
 > **Diversifying liquidity provisioning across multiple liquidity pools.**
 
