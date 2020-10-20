@@ -23,7 +23,6 @@
   * [Balancer](invest/pooling/balancer.md)
   * [Curve](invest/pooling/curve.md)
   * [Yearn Vaults](invest/pooling/yearn-vaults.md)
-  * [FutureSwap](invest/pooling/futureswap-coming-soon.md)
 * [🚜Farming](invest/farming.md)
 * [🚰Piping](invest/piping.md)
 
