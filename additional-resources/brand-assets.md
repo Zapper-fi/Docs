@@ -8,5 +8,3 @@
 
 ![](../.gitbook/assets/logo_black_alt2x%20%281%29.png)
 
-![](../.gitbook/assets/group-697%20%281%29.png)
-
