@@ -3,18 +3,7 @@
 * [⚡️Introduction](README.md)
 * [⚙️Features](features.md)
 * [📊Stats](stats.md)
-* [▶️DeFi Tutorials](video-guides/README.md)
-  * [⚡️How to Zap into DeFi](video-guides/zap.md)
-  * [⛽️How does Zapper save gas?](video-guides/how-does-zapper-save-gas.md)
-  * [📈How to keep track of your deposits in DeFi](video-guides/snap.md)
-  * [🔏How to create a new Gnosis Safe Multisig](video-guides/gnosis.md)
-  * [⚡️🔏How to Zap directly from your Gnosis Safe](video-guides/how-to-zap-directly-from-your-gnosis-safe.md)
-  * [🔷 Using Zaps from Etherscan](video-guides/using-zaps-from-etherscan.md)
-* [❓FAQs](FAQs/README.md)
-  * [What is Zapper?](FAQs/what-is-zapper.md)
-  * [Using Zaps](FAQs/using-zaps.md)
-  * [Troubleshooting](FAQs/troubleshooting.md)
-  * [DeFi Knowledge](FAQs/defi-knowledge.md)
+* [❓Tutorials & FAQs](FAQs/README.md)
 
 ## INVEST
 
