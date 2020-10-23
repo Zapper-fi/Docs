@@ -3,7 +3,7 @@
 * [⚡️Introduction](README.md)
 * [⚙️Features](features.md)
 * [📊Stats](stats.md)
-* [❓Tutorials & FAQs](FAQs/README.md)
+* [❓Tutorials & FAQs](https://zapper.crunch.help/)
 
 ## INVEST
 

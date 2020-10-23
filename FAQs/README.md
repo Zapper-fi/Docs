@@ -2,7 +2,7 @@
 
 Navigate to the below links to see the FAQs.
 
-{% page-ref page="https://zapper.crunch.help/" %}
+{% page-ref page="what-is-zapper.md" %}
 
 {% page-ref page="troubleshooting.md" %}
 
