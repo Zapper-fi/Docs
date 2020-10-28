@@ -46,7 +46,7 @@ Generally bearish on crypto markets for the time being.
 {% embed url="https://twitter.com/DeFi\_Dad/status/1275577623473618944?s=20" %}
 
 {% hint style="info" %}
-**Note:** Curve pooling options will be included in [**Multipooling** ](../multipooling.md)soon. For now, you are able to submit 2 separate transactions if you would like to add liquidity to both Curve and Uniswap pool.
+**Note:** Curve pooling options will be included in [**Multipooling** ]()soon. For now, you are able to submit 2 separate transactions if you would like to add liquidity to both Curve and Uniswap pool.
 {% endhint %}
 {% endtab %}
 

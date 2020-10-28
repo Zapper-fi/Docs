@@ -51,8 +51,6 @@ description: >-
 | yVault Zap In+Out 1.2 |  | 0xcAde5569Bd2946db60F23624956d209ae903De4D |
 | yVault Zap In+Out 1.3 |  | 0xf8C8D0C5547bD213b1DD281a4F61be9a9feED87B |
 
-{% page-ref page="../video-guides/using-zaps-from-etherscan.md" %}
-
 ## Usage example \(Curve&lt;&gt;Curve Pool Pipe\)
 
 ### Swap 5 CRV tokens \(sUSD\) for y Curve tokens

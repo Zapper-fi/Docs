@@ -25,7 +25,7 @@
 ## ADDITIONAL RESOURCES
 
 * [🤝Ecosystem Partners](additional-resources/our-partners.md)
-* [📢Weekly Community Calls](community-calls.md)
+* [📢Weekly Community Calls](additional-resources/weekly-community-calls.md)
 * [🥰Community Love](additional-resources/fan-love.md)
 * [🎨Brand Assets](additional-resources/brand-assets.md)
 * [🆕Feature Requests](https://features.zapper.fi/)
