@@ -8,19 +8,19 @@ description: >-
 
 ## Mainnet
 
-| Contract | Description | Address |
-| :--- | :--- | :--- |
-| Uniswap V2 Add | Add liquidity to any liquidity pool on Uniswap V2 **using just ETH or ERC20s** | [0xE83554B397BdA8ECAE7FEE5aeE532e83Ee9eB29D](https://etherscan.io/address/0xE83554B397BdA8ECAE7FEE5aeE532e83Ee9eB29D) |
-| Uniswap V2 Remove | Remove liquidity from any pool on Uniswap V2 and recieve **ETH or ERC20s** | [0x79B6C6F8634ea477ED725eC23b7b6Fcb41F00E58](https://etherscan.io/address/0x79B6C6F8634ea477ED725eC23b7b6Fcb41F00E58) |
-| Uniswap V2 Pool Pipe | Re-balance liquidity between Uniswap V2 pools | [0xBdcd4Dcc79bA2C4088323ca94F443a05A23cA372](https://etherscan.io/address/0xBdcd4Dcc79bA2C4088323ca94F443a05A23cA372) |
-| Uniswap V1 Remove | Remove liquidity from any  pool on Uniswap V1 **& receive just ETH or any ERC20** | [0x5e6531d99e9099cb3936c048daf6ba0b3f79b9e2](https://etherscan.io/address/0x5e6531d99e9099cb3936c048daf6ba0b3f79b9e2) |
-| Balancer Add | Add liquidity to any  pool on Balancer **using just ETH or ERC20s** | [0xA3128cC400E2878571368ae0a83F588Eb838552b](https://etherscan.io/address/0xA3128cC400E2878571368ae0a83F588Eb838552b) |
-| Balancer Remove | Remove liquidity from any  pool on Balancer **& receive just ETH or any ERC20** | [0x00d0f137b51692D0AC708bdE7b367a373865cFfe](https://etherscan.io/address/0x00d0f137b51692D0AC708bdE7b367a373865cFfe) |
-| Curve Add | Add liquidity to  Curve Pools using **just ETH or just ERC20s** | [0xcCdd1f20Fd50DD63849A87994bdD11806e4363De](https://etherscan.io/address/0xcCdd1f20Fd50DD63849A87994bdD11806e4363De) |
-| Curve Remove | Remove liquidity from any pool on Curve **& receive just ETH or any ERC20** | [0x4bf331aa2bfb0869315fb81a350d109f4839f81b](https://etherscan.io/address/0x4bf331aa2bfb0869315fb81a350d109f4839f81b) |
-| Uniswap V2 &lt;&gt; Balancer Pool Pipe | Re-balance liquidity between Uniswap V2 and Balancer pools | [0xA3149708cb9D9BD31CB5c8F5c107D94395B7bA64](https://etherscan.io/address/0xA3149708cb9D9BD31CB5c8F5c107D94395B7bA64) |
-| yEarn Vault Add or Remove | Add or remove liquidity from yEarn Vaults | [0x9c57618bfCDfaE4cE8e49226Ca22A7837DE64A2d](https://etherscan.io/address/0x9c57618bfCDfaE4cE8e49226Ca22A7837DE64A2d) |
-| Zapper Swap | Multi-Exchange asset swap with ETH or ERC20s | [0xacDF47C844Eff0Ecb218D8945e28A9A484aF8D07](https://etherscan.io/address/0xacDF47C844Eff0Ecb218D8945e28A9A484aF8D07) |
+| Contract | Description | Address | Version
+| :--- | :--- | :--- | :--- |
+| Uniswap V2 Add | Add liquidity to any liquidity pool on Uniswap V2 **using just ETH or ERC20s** | [0xE83554B397BdA8ECAE7FEE5aeE532e83Ee9eB29D](https://etherscan.io/address/0xE83554B397BdA8ECAE7FEE5aeE532e83Ee9eB29D) | 2.4.2
+| Uniswap V2 Remove | Remove liquidity from any pool on Uniswap V2 and recieve **ETH or ERC20s** | [0x79B6C6F8634ea477ED725eC23b7b6Fcb41F00E58](https://etherscan.io/address/0x79B6C6F8634ea477ED725eC23b7b6Fcb41F00E58) | 2.1
+| Uniswap V2 Pool Pipe | Re-balance liquidity between Uniswap V2 pools | [0xBdcd4Dcc79bA2C4088323ca94F443a05A23cA372](https://etherscan.io/address/0xBdcd4Dcc79bA2C4088323ca94F443a05A23cA372) | 1.1
+| Uniswap V1 Remove | Remove liquidity from any  pool on Uniswap V1 **& receive just ETH or any ERC20** | [0x5e6531d99e9099cb3936c048daf6ba0b3f79b9e2](https://etherscan.io/address/0x5e6531d99e9099cb3936c048daf6ba0b3f79b9e2) | 2.0
+| Balancer Add | Add liquidity to any  pool on Balancer **using just ETH or ERC20s** | [0xA3128cC400E2878571368ae0a83F588Eb838552b](https://etherscan.io/address/0xA3128cC400E2878571368ae0a83F588Eb838552b) | 2.6
+| Balancer Remove | Remove liquidity from any  pool on Balancer **& receive just ETH or any ERC20** | [0x00d0f137b51692D0AC708bdE7b367a373865cFfe](https://etherscan.io/address/0x00d0f137b51692D0AC708bdE7b367a373865cFfe) | 2.2
+| Curve Add | Add liquidity to  Curve Pools using **just ETH or just ERC20s** | [0xcCdd1f20Fd50DD63849A87994bdD11806e4363De](https://etherscan.io/address/0xcCdd1f20Fd50DD63849A87994bdD11806e4363De) | 1.9
+| Curve Remove | Remove liquidity from any pool on Curve **& receive just ETH or any ERC20** | [0x4bf331aa2bfb0869315fb81a350d109f4839f81b](https://etherscan.io/address/0x4bf331aa2bfb0869315fb81a350d109f4839f81b) | 2.0
+| Uniswap V2 &lt;&gt; Balancer Pool Pipe | Re-balance liquidity between Uniswap V2 and Balancer pools | [0xA3149708cb9D9BD31CB5c8F5c107D94395B7bA64](https://etherscan.io/address/0xA3149708cb9D9BD31CB5c8F5c107D94395B7bA64) | 1.4
+| yEarn Vault Add or Remove | Add or remove liquidity from yEarn Vaults | [0x9c57618bfCDfaE4cE8e49226Ca22A7837DE64A2d](https://etherscan.io/address/0x9c57618bfCDfaE4cE8e49226Ca22A7837DE64A2d) | 1.4
+| Zapper Swap | Multi-Exchange asset swap with ETH or ERC20s | [0xacDF47C844Eff0Ecb218D8945e28A9A484aF8D07](https://etherscan.io/address/0xacDF47C844Eff0Ecb218D8945e28A9A484aF8D07) | 1.3
 
 ## Deprecated
 
