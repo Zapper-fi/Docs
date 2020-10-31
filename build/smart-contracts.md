@@ -19,7 +19,7 @@ description: >-
 | Curve Add | Add liquidity to  Curve Pools using **just ETH or just ERC20s** | [0xcCdd1f20Fd50DD63849A87994bdD11806e4363De](https://etherscan.io/address/0xcCdd1f20Fd50DD63849A87994bdD11806e4363De) | 1.9
 | Curve Remove | Remove liquidity from any pool on Curve **& receive just ETH or any ERC20** | [0x4bf331aa2bfb0869315fb81a350d109f4839f81b](https://etherscan.io/address/0x4bf331aa2bfb0869315fb81a350d109f4839f81b) | 2.0
 | Uniswap V2 &lt;&gt; Balancer Pool Pipe | Re-balance liquidity between Uniswap V2 and Balancer pools | [0xA3149708cb9D9BD31CB5c8F5c107D94395B7bA64](https://etherscan.io/address/0xA3149708cb9D9BD31CB5c8F5c107D94395B7bA64) | 1.4
-| yEarn Vault Add or Remove | Add or remove liquidity from yEarn Vaults | [0x9c57618bfCDfaE4cE8e49226Ca22A7837DE64A2d](https://etherscan.io/address/0x9c57618bfCDfaE4cE8e49226Ca22A7837DE64A2d) | 1.4
+| yEarn Vault Add or Remove | Add or remove liquidity from yEarn Vaults | [0x39fe62a9915fAf4Ca974A4D3D568B4E01EE9Df40](https://etherscan.io/address/0x39fe62a9915fAf4Ca974A4D3D568B4E01EE9Df40) | 1.4.1
 | Zapper Swap | Multi-Exchange asset swap with ETH or ERC20s | [0xacDF47C844Eff0Ecb218D8945e28A9A484aF8D07](https://etherscan.io/address/0xacDF47C844Eff0Ecb218D8945e28A9A484aF8D07) | 1.3
 
 ## Deprecated
