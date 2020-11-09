@@ -22,6 +22,7 @@ description: >-
 | yEarn Vault Add or Remove | Add or remove liquidity from yEarn Vaults | [0x39fe62a9915fAf4Ca974A4D3D568B4E01EE9Df40](https://etherscan.io/address/0x39fe62a9915fAf4Ca974A4D3D568B4E01EE9Df40) | 1.4.1
 | Zapper Swap | Multi-Exchange asset swap with ETH or ERC20s | [0xacDF47C844Eff0Ecb218D8945e28A9A484aF8D07](https://etherscan.io/address/0xacDF47C844Eff0Ecb218D8945e28A9A484aF8D07) | 1.3
 | Sushiswap Add | Add liquidity to any liquidity pool on Sushiswap **using just ETH or ERC20s** | [0xd77B7A446F8477DD22606C2017e7B2A4feE3dF2F](https://etherscan.io/address/0xd77B7A446F8477DD22606C2017e7B2A4feE3dF2F) | 1.0
+| Sushiswap Remove | Remove liquidity from any liquidity pool on Sushiswap and recieve **ETH or ERC20s** | [0xf12CAB7Acaa14Eed3bEa82199ea2f5c2C2194B81](https://etherscan.io/address/0xf12CAB7Acaa14Eed3bEa82199ea2f5c2C2194B81) | 1.0
 
 ## Deprecated
 
