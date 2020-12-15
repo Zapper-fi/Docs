@@ -24,7 +24,7 @@ description: >-
 | Zapper Swap | Multi-Exchange asset swap with ETH or ERC20s | [0xacDF47C844Eff0Ecb218D8945e28A9A484aF8D07](https://etherscan.io/address/0xacDF47C844Eff0Ecb218D8945e28A9A484aF8D07) | 1.3
 | Sushiswap Add | Add liquidity to any liquidity pool on Sushiswap **using just ETH or ERC20s** | [0xfF350eDc2242Ca4d7252A64746aec4A5487a852B](https://etherscan.io/address/0xfF350eDc2242Ca4d7252A64746aec4A5487a852B) | 2.0
 | Sushiswap Remove | Remove liquidity from any liquidity pool on Sushiswap and recieve **ETH or ERC20s** | [0xf12CAB7Acaa14Eed3bEa82199ea2f5c2C2194B81](https://etherscan.io/address/0xf12CAB7Acaa14Eed3bEa82199ea2f5c2C2194B81) | 1.0
-| Bancor Add | Add sigle sided liquidity and protect from impermanent loss **using just ETH or ERC20s** | [0xeB84F924Ed6D0ccB62D8eE9B7447CFfD65F999d4](https://etherscan.io/address/0xeB84F924Ed6D0ccB62D8eE9B7447CFfD65F999d4) | 1.1
+| Bancor Add | Add sigle sided liquidity and protect from impermanent loss **using just ETH or ERC20s** | [0xa14EEefa753a166a5651bce7B84094f614Df0D05](https://etherscan.io/address/0xa14EEefa753a166a5651bce7B84094f614Df0D05) | 2.1
 
 ## Deprecated
 
