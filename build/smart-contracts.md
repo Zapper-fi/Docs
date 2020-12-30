@@ -21,7 +21,7 @@ description: >-
 | Curve Pipe | Rebalance liquidity between any two pools on Curve | [0xB54dCe7f4Bd17DFebe4CB9742AE2D7d2886134d8](https://etherscan.io/address/0xB54dCe7f4Bd17DFebe4CB9742AE2D7d2886134d8) | 1.0
 | Uniswap V2 &lt;&gt; Balancer Pool Pipe | Re-balance liquidity between Uniswap V2 and Balancer pools | [0xA3149708cb9D9BD31CB5c8F5c107D94395B7bA64](https://etherscan.io/address/0xA3149708cb9D9BD31CB5c8F5c107D94395B7bA64) | 1.4
 | yEarn Vault Add or Remove | Add or remove liquidity from yEarn Vaults | [0xB0880df8420974ef1b040111e5e0e95f05F8fee1](https://etherscan.io/address/0xB0880df8420974ef1b040111e5e0e95f05F8fee1) | 1.5
-| Sushiswap Add | Add liquidity to any liquidity pool on Sushiswap **using just ETH or ERC20s** | [0xfF350eDc2242Ca4d7252A64746aec4A5487a852B](https://etherscan.io/address/0xfF350eDc2242Ca4d7252A64746aec4A5487a852B) | 2.0
+| Sushiswap Add | Add liquidity to any liquidity pool on Sushiswap **using just ETH or ERC20s** | [0x91baf383abc0c332a69a73041c866f6761a90b3c](https://etherscan.io/address/0x91baf383abc0c332a69a73041c866f6761a90b3c) | 2.0.1
 | Sushiswap Remove | Remove liquidity from any liquidity pool on Sushiswap and recieve **ETH or ERC20s** | [0xf12CAB7Acaa14Eed3bEa82199ea2f5c2C2194B81](https://etherscan.io/address/0xf12CAB7Acaa14Eed3bEa82199ea2f5c2C2194B81) | 1.0
 | Bancor Add | Add sigle sided liquidity and protect from impermanent loss **using just ETH or ERC20s** | [0xa14EEefa753a166a5651bce7B84094f614Df0D05](https://etherscan.io/address/0xa14EEefa753a166a5651bce7B84094f614Df0D05) | 2.1
 
