@@ -29,8 +29,8 @@ description: >-
 
 ## Deprecated
 
-| Contract | Description | Address |
-| :--- | :--- | :--- |
+| Contract | Description | Address | Version
+| :--- | :--- | :--- | :--- |
 | Zapper Swap | Multi-Exchange asset swap with ETH or ERC20s | [0xacDF47C844Eff0Ecb218D8945e28A9A484aF8D07](https://etherscan.io/address/0xacDF47C844Eff0Ecb218D8945e28A9A484aF8D07) | 1.3
 | Curve Add | Add liquidity to  Curve Pools using **just ETH or just ERC20s** | [0x79c88866247a3626D45011662eFA093535554B34](https://etherscan.io/address/0x79c88866247a3626D45011662eFA093535554B34) | 2.0.1
 
