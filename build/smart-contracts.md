@@ -1,7 +1,6 @@
 ---
 description: >-
-  Zaps = Smart Contracts combining multiple on-chain actions to help you save
-  time & gas.
+  Zaps = Smart Contracts combining multiple on-chain actions to make DeFi easy to use and accessible to all.
 ---
 
 # 📄Smart Contracts
