@@ -2,7 +2,6 @@
 
 * [⚡️Introduction](README.md)
 * [⚙️Features](features.md)
-* [📊Stats](stats.md)
 * [❓Tutorials & FAQs](https://zapper.crunch.help/)
 
 ## INVEST
@@ -18,9 +17,7 @@
 ## BUILD
 
 * [🛠️Why build with Zapper?](build/why-build-with-zapper.md)
-* [👨‍🌾Built with Zaps](build/built-with-zaps.md)
 * [📄Smart Contracts](build/smart-contracts.md)
-* [🔌ENS Connectors](build/ens-connectors.md)
 
 ## ADDITIONAL RESOURCES
 
