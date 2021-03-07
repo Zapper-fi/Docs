@@ -8,6 +8,10 @@ description: >-
 
 ## Mainnet
 
+{% tabs %}
+{% tab title="Production" %}
+
+
 | Contract | Description | Address | Version |
 | :--- | :--- | :--- | :--- |
 | Uniswap V2 Add | Add liquidity to any liquidity pool on Uniswap V2 **using just ETH or ERC20s** | [0x5ACedBA6C402e2682D312a7b4982eda0Ccf2d2E3](https://etherscan.io/address/0x5ACedBA6C402e2682D312a7b4982eda0Ccf2d2E3) | 4.0 |
@@ -27,8 +31,10 @@ description: >-
 | Bancor Add | Add sigle sided liquidity and protect from impermanent loss **using just ETH or ERC20s** | [0xa14EEefa753a166a5651bce7B84094f614Df0D05](https://etherscan.io/address/0xa14EEefa753a166a5651bce7B84094f614Df0D05) | 2.1 |
 | Harvest Add | Add liquidity to Harvest vaults **using just ETH or ERC20s** | [0xab297faf67D486c8d03fBcD8F026feD0D71254B9](https://etherscan.io/address/0xab297faf67D486c8d03fBcD8F026feD0D71254B9) | 1.0 |
 | PoolTogether Add | Add liquidity to PoolTogether prize pools **using just ETH or ERC20s** | [0x2e61170a7dCab6438e403AA7A8A7143d39ED0A65](https://etherscan.io/address/0x2e61170a7dCab6438e403AA7A8A7143d39ED0A65) | 1.0 |
+{% endtab %}
 
-## Deprecated
+{% tab title="Deprecated" %}
+
 
 | Contract | Description | Address | Version |
 | :--- | :--- | :--- | :--- |
@@ -39,6 +45,8 @@ description: >-
 | Sushiswap Add | Add liquidity to any liquidity pool on Sushiswap **using just ETH or ERC20s** | [0x91baf383abc0c332a69a73041c866f6761a90b3c](https://etherscan.io/address/0x91baf383abc0c332a69a73041c866f6761a90b3c) | 2.0.1 |
 | Sushiswap Remove | Remove liquidity from any liquidity pool on Sushiswap and recieve **ETH or ERC20s** | [0xa4E4BeAA9d27EabB6a5E010565A21D93a723c7e1](https://etherscan.io/address/0xa4E4BeAA9d27EabB6a5E010565A21D93a723c7e1) | 1.1 |
 | Uniswap V2 Remove | Remove liquidity from any pool on Uniswap V2 and recieve **ETH or ERC20s** | [0x05448acd708B78791d007Bc1e037EA6FE78283A6](https://etherscan.io/address/0x05448acd708B78791d007Bc1e037EA6FE78283A6) | 3.0 |
+{% endtab %}
+{% endtabs %}
 
 
 

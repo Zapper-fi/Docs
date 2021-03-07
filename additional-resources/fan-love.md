@@ -1,5 +1,7 @@
 # 🥰Community Love
 
+{% embed url="https://twitter.com/godofeth/status/1364873768330493953?s=21" %}
+
 {% embed url="https://twitter.com/DeFi\_Dad/status/1296919647753834500?s=20" %}
 
 {% embed url="https://twitter.com/nanexcool/status/1293848711613874176?s=20" %}
