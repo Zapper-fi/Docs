@@ -1,6 +1,6 @@
 # 💦Pooling
 
-{% embed url="https://www.youtube.com/watch?v=VtXB-NJMjMc&feature=emb\_title" %}
+{% embed url="https://youtu.be/SUoaaqQCs6g" %}
 
 ## What does "Pooling" mean
 
