@@ -10,7 +10,7 @@ description: >-
 
 Ensure you have read the [Zapper API ](../zapper-api.md)section for a brief overview of the API types and to acquire an API key. This guide uses the Zapper Transactions API.
 
-The yearn Zap In adds liquidity to V1 and V2 Vaults. The latest currently deployed yearn Zap In can be found [here](../smart-contracts.md). The Zap accepts ETH or any Arbitrary ERC20 token and converts it into the appropriate input type for the Vault. Any token swaps that are required are done so in a manner such that the output is maximized with as little slippage as possible. This is done via intelligent pathing to ensure that the exchange is routed optimally, leveraging PMMs if necessary. In addition, if the input type for the vault is an LP token \(e.g. a Curve LP\), the Zap will also acquire the required LPs via an underlying Zap before adding liquidity into the Vault and returning the proceeds to the sender.
+The yVault Zap In adds liquidity to V1 and V2 Vaults. The latest currently deployed yVault Zap In can be found [here](../smart-contracts.md). The Zap accepts ETH or any Arbitrary ERC20 token and converts it into the appropriate input type for the Vault. Any token swaps that are required are done so in a manner such that the output is maximized with as little slippage as possible. This is done via intelligent pathing to ensure that the exchange is routed optimally, leveraging PMMs if necessary. In addition, if the input type for the vault is an LP token \(e.g. a Curve LP\), the Zap will also acquire the required LPs via an underlying Zap before adding liquidity into the Vault and returning the proceeds to the sender.
 
 ## Check Zap Allowance
 
@@ -81,7 +81,7 @@ error: "Bad Request"
 
 ## Set Allowance if Needed
 
-If `isApprove` is false and the `sellToken` is not ETH, this endpoint can be used to assemble an approval transaction to submit to the Ethereum network. This transaction will grant the yearn Zap In contract \(i.e. the `spenderAddress` from the previous step\) an allowance, enabling it to transfer tokens from the `ownerAddress` to the Zap contract. This step is required in order for the Zap to proceed if it does not yet have an allowance.
+If `isApprove` is false and the `sellToken` is not ETH, this endpoint can be used to assemble an approval transaction to submit to the Ethereum network. This transaction will grant the yVault Zap In contract \(i.e. the `spenderAddress` from the previous step\) an allowance, enabling it to transfer tokens from the `ownerAddress` to the Zap contract. This step is required in order for the Zap to proceed if it does not yet have an allowance.
 
 {% api-method method="get" host="https://api.zapper.fi/v1/zap-in/yearn/approval-transaction?api\_key=" path="API\_KEY" %}
 {% api-method-summary %}
@@ -150,7 +150,7 @@ error: "Bad Request"
 
 ## Zap In
 
-After the approval step has been completed \(or if the Zap has already been granted an allowance or ETH is the input\). This endpoint can be used to create a transaction for the Zap In. This is the value transaction, which if signed and broadcasted, will transfer funds from the `ownerAddress` to the Zap contract \(the `to` property in the response\). Subsequently, the proceeds from the Zap In will be sent to the ownerAddress \(e.g yearn vault tokens\). If the transaction reverts, the sender will pay for the gas consumed, however, the tokens **will not** be deducted from the `ownerAddress`. 
+After the approval step has been completed \(or if the Zap has already been granted an allowance or ETH is the input\). This endpoint can be used to create a transaction for the Zap In. This is the value transaction, which if signed and broadcasted, will transfer funds from the `ownerAddress` to the Zap contract \(the `to` property in the response\). Subsequently, the proceeds from the Zap In will be sent to the ownerAddress \(e.g Yearn vault tokens\). If the transaction reverts, the sender will pay for the gas consumed, however, the tokens **will not** be deducted from the `ownerAddress`. 
 
 The `slippagePercentage` encapsulates the entire atomic transaction and will cause the transaction to revert if it is exceeded. For example, if the slippagePercentage is 3% \(0.03\) and the Zap requires multiple swaps \(exchanges\), the transaction will revert if cumulative slippage exceeds 3%. This represents the _maximum_ acceptable slippage and does not imply that the Zap will actually _experience_ this much slippage upon execution.
 
@@ -252,7 +252,7 @@ To consume the transaction object in your smart contract, it must have a balance
 A function in a smart contract that consumes a Zap In transaction might resemble this:
 
 ```text
-// Zaps into a yEarn Vault with ETH or ERC20 Tokens using a Zapper Transaction Object
+// Zaps into a Yearn yVault with ETH or ERC20 Tokens using a Zapper Transaction Object
 function ZapIn(
     // The `sellToken` field from the API response.
     address sellToken,

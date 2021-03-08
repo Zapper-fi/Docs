@@ -24,7 +24,7 @@ description: yearn.finance/vaults
 {% endtab %}
 
 {% tab title="$LINK \(Delegated\)" %}
-![](../../.gitbook/assets/link-vault%20%283%29%20%282%29.png)
+![](../../.gitbook/assets/link-vault%20%283%29%20%282%29%20%282%29.png)
 {% endtab %}
 {% endtabs %}
 
