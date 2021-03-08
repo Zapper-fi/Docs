@@ -15,7 +15,7 @@ These contracts are currently deployed on various EVM Mainnets and are used by [
 | Contract | Description | Address | Version | Chain |
 | :--- | :--- | :--- | :--- | :--- |
 | Uniswap V2 Add | Add liquidity to any liquidity pool on Uniswap V2 **using just ETH or ERC20s** | [0x5ACedBA6C402e2682D312a7b4982eda0Ccf2d2E3](https://etherscan.io/address/0x5ACedBA6C402e2682D312a7b4982eda0Ccf2d2E3) | 4.0 | Ethereum |
-| Uniswap V2 Remove | Remove liquidity from any pool on Uniswap V2 and recieve **ETH or ERC20s** | [0x79B6C6F8634ea477ED725eC23b7b6Fcb41F00E58](https://etherscan.io/address/0x79B6C6F8634ea477ED725eC23b7b6Fcb41F00E58) | 2.1 | Ethereum |
+| Uniswap V2 Remove | Remove liquidity from any pool on Uniswap V2 and receive **ETH or ERC20s**  | [0x69090d6968B12b79CD403Ee33E871284dC7E92F6](https://etherscan.io/address/0x69090d6968b12b79cd403ee33e871284dc7e92f6) | 3.0.1 | Ethereum |
 | Uniswap V2 Pool Pipe | Re-balance liquidity between Uniswap V2 pools | [0xBdcd4Dcc79bA2C4088323ca94F443a05A23cA372](https://etherscan.io/address/0xBdcd4Dcc79bA2C4088323ca94F443a05A23cA372) | 1.1 | Ethereum |
 | Uniswap V1 Remove | Remove liquidity from any  pool on Uniswap V1 **& receive just ETH or any ERC20** | [0x5e6531d99e9099cb3936c048daf6ba0b3f79b9e2](https://etherscan.io/address/0x5e6531d99e9099cb3936c048daf6ba0b3f79b9e2) | 2.0 | Ethereum |
 | Balancer Add | Add liquidity to any  pool on Balancer **using just ETH or ERC20s** | [0x7F249DBD212158e1ac449f0A37CA956C8186ac80](https://etherscan.io/address/0x7F249DBD212158e1ac449f0A37CA956C8186ac80) | 3.0 | Ethereum |
@@ -45,8 +45,11 @@ Deprecated contracts are no longer in use by Zapper but are still available for 
 | Sushiswap Add | Add liquidity to any liquidity pool on Sushiswap **using just ETH or ERC20s** | [0x91baf383abc0c332a69a73041c866f6761a90b3c](https://etherscan.io/address/0x91baf383abc0c332a69a73041c866f6761a90b3c) | 2.0.1 | Ethereum |
 | Sushiswap Remove | Remove liquidity from any liquidity pool on Sushiswap and recieve **ETH or ERC20s** | [0xa4E4BeAA9d27EabB6a5E010565A21D93a723c7e1](https://etherscan.io/address/0xa4E4BeAA9d27EabB6a5E010565A21D93a723c7e1) | 1.1 | Ethereum |
 | Uniswap V2 Remove | Remove liquidity from any pool on Uniswap V2 and recieve **ETH or ERC20s** | [0x05448acd708B78791d007Bc1e037EA6FE78283A6](https://etherscan.io/address/0x05448acd708B78791d007Bc1e037EA6FE78283A6) | 3.0 | Ethereum |
+| Uniswap V2 Remove | Remove liquidity from any pool on Uniswap V2 and receive **ETH or ERC20s** | [0x79B6C6F8634ea477ED725eC23b7b6Fcb41F00E58](https://etherscan.io/address/0x79B6C6F8634ea477ED725eC23b7b6Fcb41F00E58) | 2.1 | Ethereumg |
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
