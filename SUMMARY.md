@@ -21,8 +21,8 @@
 * [Guides](build/guides/README.md)
   * [Curve User Balances](build/guides/curve-user-balances.md)
   * [Sushiswap Pool Stats](build/guides/sushiswap-pool-stats.md)
-  * [Yearn Zap In](build/guides/yearn-zap-in.md)
   * [Yearn Vault Stats](build/guides/yearn-vault-stats.md)
+  * [Yearn Zap In](build/guides/yearn-zap-in.md)
 
 ## ADDITIONAL RESOURCES
 
