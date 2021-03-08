@@ -172,6 +172,10 @@ If Ether is being sent, the sellTokenAddress should be the zero address \(i.e. `
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-query-parameters %}
+{% api-method-parameter name="affiliateAddress" type="string" required=false %}
+Affiliate address for volume tracking
+{% endapi-method-parameter %}
+
 {% api-method-parameter name="slippagePercentage" type="string" required=true %}
 Slippage percentage as a decimal value
 {% endapi-method-parameter %}
