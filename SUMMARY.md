@@ -6,7 +6,7 @@
 
 ## INVEST
 
-* [💦Pooling](invest/pooling/README.md)
+* [💧Pooling](invest/pooling/README.md)
   * [Uniswap](invest/pooling/uniswap.md)
   * [Balancer](invest/pooling/balancer.md)
   * [Curve](invest/pooling/curve.md)
@@ -16,8 +16,13 @@
 
 ## BUILD
 
-* [🛠️Why build with Zapper?](build/why-build-with-zapper.md)
 * [📄Smart Contracts](build/smart-contracts.md)
+* [📡Zapper API](build/zapper-api.md)
+* [Guides](build/guides/README.md)
+  * [Curve User Balances](build/guides/curve-user-balances.md)
+  * [Sushiswap Pool Stats](build/guides/sushiswap-pool-stats.md)
+  * [Yearn Zap In](build/guides/yearn-zap-in.md)
+  * [Yearn Vault Stats](build/guides/yearn-vault-stats.md)
 
 ## ADDITIONAL RESOURCES
 
