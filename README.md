@@ -4,15 +4,19 @@
 
 We offer three main features:
 
-1. [**Monitor**](https://www.zapper.fi/#/dashboard).
+1. [**Dashboard**](https://zapper.fi/dashboard)
 
    Get a snapshot of all your DeFi assets & liabilities.
 
-2. [**Invest/Zap**](https://www.zapper.fi/invest/).
+2. \*\*\*\*[**Exchange**](https://zapper.fi/exchange)
 
-   Invest in unique opportunities available across the always expanding list of available DeFi platforms. Saves on time and gas.
+   Swap assets with our exchange aggregator 
 
-3. [**Manage**](https://www.zapper.fi/invest).
+3. [**Pool**](invest/pooling/)
 
-   Easily re-balance between DeFi platforms or create your own opportunities.
+   Invest in unique opportunities available across the always expanding list of available [DeFi platforms](https://zapper.fi/protocols)
+
+4. [**Farm**](invest/farming.md) ****Generate yield with your assets ****
+
+\*\*\*\*
 
