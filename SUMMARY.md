@@ -15,6 +15,7 @@
 ## INVEST
 
 * [Dashboard](invest/dashboard.md)
+* [Exchange](invest/exchange.md)
 * [Pools](invest/pooling/README.md)
   * [Uniswap](invest/pooling/uniswap.md)
   * [Balancer](invest/pooling/balancer.md)
