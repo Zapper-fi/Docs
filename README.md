@@ -16,7 +16,8 @@ Our features:
 
    Invest in unique opportunities available across the always expanding list of available [DeFi platforms](https://zapper.fi/protocols)
 
-4. [**Farm**](invest/farming.md) ****Generate yield with your assets ****
+4. [**Farm**](invest/farming.md) ****Generate yield with your assets
+5. \*\*\*\*[**Zapper API**](build/zapper-api.md) ****DeFi Data and Transactions builder ****
 
 \*\*\*\*
 
