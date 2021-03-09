@@ -1,13 +1,11 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Features](features.md)
-* [Tutorials & FAQs](https://zapper.crunch.help/)
 
 ## BUILD
 
-* [Smart Contracts](build/smart-contracts.md)
 * [Zapper API](build/zapper-api.md)
+* [Smart Contracts](build/smart-contracts.md)
 * [Guides](build/guides/README.md)
   * [Curve User Balances](build/guides/curve-user-balances.md)
   * [Sushiswap Pool Stats](build/guides/sushiswap-pool-stats.md)
@@ -16,6 +14,7 @@
 
 ## INVEST
 
+* [Dashboard](invest/dashboard.md)
 * [Pools](invest/pooling/README.md)
   * [Uniswap](invest/pooling/uniswap.md)
   * [Balancer](invest/pooling/balancer.md)
@@ -27,6 +26,7 @@
 
 * [Ecosystem Partners](additional-resources/our-partners.md)
 * [Brand Assets](additional-resources/brand-assets.md)
+* [Tutorials & FAQs](https://zapper.crunch.help/)
 * [Feature Requests](https://features.zapper.fi/)
 * [Blog](https://medium.com/zapper-protocol)
 * [Join Our Community](https://discordapp.com/invite/h6CGbuN)
