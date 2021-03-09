@@ -2,7 +2,7 @@
 
 ![](.gitbook/assets/image%20%2826%29.png)
 
-## [Zapper.fi](https://www.zapper.fi/dashboard) is the ultimate hub for Decentralized Finance aka DeFi. Our mission is to increase the GDP of DeFi by abstracting the complexities of accessing unique opportunities faced by retail investors, fund managers and builders around the world.
+## [Zapper.fi](https://www.zapper.fi/dashboard) is the ultimate hub for Decentralized Finance. Our mission is to make DeFi accessible and easy to use.
 
 We offer three main features:
 
