@@ -2,7 +2,7 @@
 description: API Reference
 ---
 
-# 📡Zapper API
+# Zapper API
 
 ## Zapper API
 

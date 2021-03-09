@@ -1,4 +1,4 @@
-# 🚜Farming
+# Farms
 
 ## **What does 'Yield Farming' mean?**
 

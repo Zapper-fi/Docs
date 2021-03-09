@@ -1,4 +1,4 @@
-# 🤝Ecosystem Partners
+# Ecosystem Partners
 
 {% embed url="https://www.sendwyre.com/" %}
 

@@ -4,7 +4,7 @@ description: >-
   to use and accessible to all.
 ---
 
-# 📄Smart Contracts
+# Smart Contracts
 
 ## Mainnet
 

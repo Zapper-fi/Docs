@@ -1,4 +1,4 @@
-# ⚙️Features
+# Features
 
 ## 📊[**Enter wallet address & get an instant snapshot of all your DeFi holdings**](https://www.zapper.fi/)
 
