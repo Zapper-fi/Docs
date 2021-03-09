@@ -10,7 +10,7 @@ Zapper is a [decentralized exchange](https://zapper.fi/exchange) that does not r
 
 In order to source and execute the best available swaps in DeFi, the exchange sources deep liquidity among all of the top exchanges at once, intelligently routing and executing swaps for any of the hundreds of tokens supported by Zapper.
 
-### Zapper Exchange
+### [Zapper Exchange](https://zapper.fi/exchange)
 
 * Search over 18 exchanges at once, selecting the best swap to minimize slippage and gas fees.
 * Intelligently route your swap, splitting the input among multiple exchanges and tapping into PMMs if necessary in order to optimize the trade.
