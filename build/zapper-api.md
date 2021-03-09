@@ -14,7 +14,7 @@ If your project consumes the Zapper API, a link back to [https://zapper.fi](http
 
 ### Data API
 
-The Zapper Developer APIs provide the Ethereum community with accessible and consistent DeFi data for an ever increasing number of protocols. For a full list of supported protocols, see [https://zapper.fi/protocols](https://zapper.fi/protocols). 
+The Zapper Developer APIs provide the Ethereum community with accessible and consistent DeFi data for an ever increasing number of protocols. For a full list of supported protocols, see [https://zapper.fi/protocols](https://zapper.fi/protocols). Check out the [guides](guides/#data-api) section to see how to query account balances, pool stats, and more.
 
 ### Transactions API
 
