@@ -2,7 +2,7 @@
 
 ## [Zapper.fi](https://www.zapper.fi/dashboard) is the ultimate hub for Decentralized Finance. Our mission is to make DeFi accessible and easy to use.
 
-We offer three main features:
+Our features:
 
 1. [**Dashboard**](https://zapper.fi/dashboard)
 
