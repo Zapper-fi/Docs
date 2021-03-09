@@ -8,7 +8,7 @@
 
    Get a snapshot of all your DeFi assets & liabilities.
 
-2. \*\*\*\*[**Exchange**](https://zapper.fi/exchange)
+2. \*\*\*\*[**Exchange**](invest/exchange.md)\*\*\*\*
 
    Swap assets with our exchange aggregator 
 
