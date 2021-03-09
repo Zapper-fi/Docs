@@ -214,12 +214,15 @@ Successful response from transaction endpoint
 
 ```
 {
-to: "0xb832cc0e8ed40ae42eddc63d9d07ebaf022994e8",
-from: "0x2a4d...",
-data: "0xc76072e80000...",
-value: "0x16345785d8a0000",
-gasPrice: "97000000000",
-gas: "665947"
+    "to": "0x7f249dbd212158e1ac449f0a37ca956c8186ac80",
+    "from": "0x2a4d...",
+    "data": "0x8286e89a00000000000000000000000000000000000000000000000000000000000000000000000000000000000000001eff8af5d577060ba4ac8a29a13525bb0ee2a3d5000000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc200000000000000000000000000000000000000000000000005b99b82a033ddb7000000000000000000000000000000000000000000000000001174de88ce4023000000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc2000000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc200000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000048d0e30db0869584cd000000000000000000000000f4e386b070a18419b5d3af56699f8a438dd18e890000000000000000000000000000000000000000000000428bc846156046fe35000000000000000000000000000000000000000000000000",
+    "value": "0x5b99b82a033ddb7",
+    "sellTokenAddress": "0x0000000000000000000000000000000000000000",
+    "sellTokenAmount": "412531826216918455",
+    "buyTokenAddress": "0x1eff8af5d577060ba4ac8a29a13525bb0ee2a3d5",
+    "gasPrice": "153800000000",
+    "gas": "259079"
 }
 ```
 {% endapi-method-response-example %}
@@ -258,9 +261,9 @@ A function in a smart contract that consumes a Zap In transaction might resemble
 ```text
 // Zaps into a Yearn yVault with ETH or ERC20 Tokens using a Zapper Transaction Object
 function ZapIn(
-    // The `sellToken` field from the API response.
+    // The `sellTokenAddress` field from the API response.
     address sellToken,
-    // The `buyToken` field from the API response.
+    // The `buyTokenAddress` field from the API response.
     address buyToken,
     // The `to` field from the API response.
     address payable ZapContract,
