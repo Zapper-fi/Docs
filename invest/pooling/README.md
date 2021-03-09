@@ -1,6 +1,6 @@
 # 💧Pooling
 
-{% embed url="https://youtu.be/SUoaaqQCs6g" %}
+{% embed url="https://youtu.be/kbGhu1dxRhM" caption="How to Become a Liquidity Provider" %}
 
 ## What does "Pooling" mean
 
