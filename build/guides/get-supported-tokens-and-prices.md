@@ -16,7 +16,7 @@ Get Zapper Prices
 {% endapi-method-summary %}
 
 {% api-method-description %}
-Returns balance data for Curve pools
+Returns Zapper's supported tokens
 {% endapi-method-description %}
 
 {% api-method-spec %}
