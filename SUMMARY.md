@@ -7,6 +7,7 @@
 * [Zapper API](build/zapper-api.md)
 * [Smart Contracts](build/smart-contracts.md)
 * [Guides](build/guides/README.md)
+  * [Yearn User Balances](build/guides/yearn-user-balances.md)
   * [Curve User Balances](build/guides/curve-user-balances.md)
   * [Sushiswap Pool Stats](build/guides/sushiswap-pool-stats.md)
   * [Yearn Vault Stats](build/guides/yearn-vault-stats.md)
