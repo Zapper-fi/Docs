@@ -18,7 +18,7 @@ The same patterns shown here can be used for any of Zapper's [supported platform
 
 * The Yearn [Vault Stats guide](yearn-vault-stats.md) shows you how to pull data from the Zapper Data API. Vault stats includes platforms whose deposits are used for automated farming strategies \(e.g. Yearn, Harvest, Pickle, etc.\)
 * The [Sushiswap Pool Stats guide ](sushiswap-pool-stats.md)shows you how to get pool data from the Zapper Data API. Pool stats includes platforms whose deposits are pooled as liquidity for exchanges \(e.g. Sushiswap, Uniswap, Balancer, etc.\)
-* Fetching user balances for Zapper's supported platforms is also possible. Check out the [Curve User Balances Guide](curve-user-balances.md) for an example.
+* Fetching user balances for Zapper's supported platforms is also possible. Check out the [Curve User Balances Guide](curve-user-balances.md) or the [Yearn User Balances](yearn-user-balances.md) guide for an examples
 
 
 
