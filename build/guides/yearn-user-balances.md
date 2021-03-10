@@ -1,3 +1,7 @@
+---
+description: Get an accounts Yearn Vault Balances
+---
+
 # Yearn User Balances
 
 ## Overview
