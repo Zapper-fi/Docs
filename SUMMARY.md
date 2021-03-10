@@ -7,11 +7,12 @@
 * [Zapper API](build/zapper-api.md)
 * [Smart Contracts](build/smart-contracts.md)
 * [Guides](build/guides/README.md)
-  * [Curve User Balances](build/guides/curve-user-balances.md)
-  * [Yearn User Balances](build/guides/yearn-user-balances.md)
-  * [Sushiswap Pool Stats](build/guides/sushiswap-pool-stats.md)
-  * [Yearn Vault Stats](build/guides/yearn-vault-stats.md)
-  * [Yearn Zap In](build/guides/yearn-zap-in.md)
+  * [Get Supported Tokens and Prices](build/guides/get-supported-tokens-and-prices.md)
+  * [Get Curve User Balances](build/guides/curve-user-balances.md)
+  * [Get Yearn User Balances](build/guides/yearn-user-balances.md)
+  * [Get Sushiswap Pool Stats](build/guides/sushiswap-pool-stats.md)
+  * [Get Yearn Vault Stats](build/guides/yearn-vault-stats.md)
+  * [Create Yearn Zap In](build/guides/yearn-zap-in.md)
 
 ## INVEST
 

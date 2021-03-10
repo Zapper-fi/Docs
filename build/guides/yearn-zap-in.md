@@ -4,7 +4,7 @@ description: >-
   API
 ---
 
-# Yearn Zap In
+# Create Yearn Zap In
 
 ## Overview
 

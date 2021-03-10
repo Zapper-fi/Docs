@@ -2,7 +2,7 @@
 description: Retrieve yearn vault data from the Data API
 ---
 
-# Yearn Vault Stats
+# Get Yearn Vault Stats
 
 ## Overview
 

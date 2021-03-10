@@ -2,7 +2,7 @@
 description: Get an account's Curve balances
 ---
 
-# Curve User Balances
+# Get Curve User Balances
 
 ## Overview
 

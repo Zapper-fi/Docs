@@ -2,7 +2,7 @@
 description: Get Pool data for all of Zapper's supported Sushiswap Pools
 ---
 
-# Sushiswap Pool Stats
+# Get Sushiswap Pool Stats
 
 ## Overview
 
