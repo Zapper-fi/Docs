@@ -1,5 +1,5 @@
 ---
-description: Retrieve yearn vault data from the Data API
+description: Get Vault data for all of Zapper's supported Yearn Vaults
 ---
 
 # Get Yearn Vault Stats
