@@ -84,9 +84,6 @@ Successful response from vault-stats endpoint
     "hideFromExplore": false,
     "yearlyROI": 0.04846516435983676
   },
-  {
-    Subsequent pools...,
-  },
 ]
 ```
 {% endapi-method-response-example %}

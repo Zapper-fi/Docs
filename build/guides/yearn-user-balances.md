@@ -59,6 +59,7 @@ Authentication token
       "canDeposit": true,
       "version": "v1"
     },
+  ]
 }
 ```
 {% endapi-method-response-example %}
@@ -72,7 +73,7 @@ Authentication token
 {
 statusCode: 400,
 message: [
-"A helpful error message."
+"A helpful error message"
 ],
 error: "Bad Request"
 }
