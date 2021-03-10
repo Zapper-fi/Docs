@@ -18,12 +18,12 @@ These contracts are currently deployed on various EVM Mainnets and are used by [
 | Uniswap V2 Remove | [0x69090d6968B12b79CD403Ee33E871284dC7E92F6](https://etherscan.io/address/0x69090d6968b12b79cd403ee33e871284dc7e92f6) | 3.0.1 | Ethereum |
 | Uniswap V2 Pool Pipe | [0xBdcd4Dcc79bA2C4088323ca94F443a05A23cA372](https://etherscan.io/address/0xBdcd4Dcc79bA2C4088323ca94F443a05A23cA372) | 1.1 | Ethereum |
 | Uniswap V1 Remove | [0x5e6531d99e9099cb3936c048daf6ba0b3f79b9e2](https://etherscan.io/address/0x5e6531d99e9099cb3936c048daf6ba0b3f79b9e2) | 2.0 | Ethereum |
-| Uniswap V2 &lt;&gt; Balancer Pool Pipe | [0xA3149708cb9D9BD31CB5c8F5c107D94395B7bA64](https://etherscan.io/address/0xA3149708cb9D9BD31CB5c8F5c107D94395B7bA64) | 1.4 | Ethereum |
+| Uniswap V2 to Balancer Pool Pipe | [0xA3149708cb9D9BD31CB5c8F5c107D94395B7bA64](https://etherscan.io/address/0xA3149708cb9D9BD31CB5c8F5c107D94395B7bA64) | 1.4 | Ethereum |
 | Balancer Add | [0x7F249DBD212158e1ac449f0A37CA956C8186ac80](https://etherscan.io/address/0x7F249DBD212158e1ac449f0A37CA956C8186ac80) | 3.0 | Ethereum |
 | Balancer Remove | [0x00d0f137b51692D0AC708bdE7b367a373865cFfe](https://etherscan.io/address/0x00d0f137b51692D0AC708bdE7b367a373865cFfe) | 2.2 | Ethereum |
 | Curve Add | [0x75987EB3cB933E355474c5ffC4905ECB6061796b](https://etherscan.io/address/0x75987EB3cB933E355474c5ffC4905ECB6061796b) | 3.0 | Ethereum |
 | Curve Remove | [0xA3061Cf6aC1423c6F40917AD49602cBA187181Dc](https://etherscan.io/address/0xA3061Cf6aC1423c6F40917AD49602cBA187181Dc) | 2.1 | Ethereum |
-| Curve &lt;&gt; Curve Pipe | [0xB54dCe7f4Bd17DFebe4CB9742AE2D7d2886134d8](https://etherscan.io/address/0xB54dCe7f4Bd17DFebe4CB9742AE2D7d2886134d8) | 1.0 | Ethereum |
+| Curve to Curve Pool Pipe | [0xB54dCe7f4Bd17DFebe4CB9742AE2D7d2886134d8](https://etherscan.io/address/0xB54dCe7f4Bd17DFebe4CB9742AE2D7d2886134d8) | 1.0 | Ethereum |
 | Yearn yVault Add or Remove | [0xB0880df8420974ef1b040111e5e0e95f05F8fee1](https://etherscan.io/address/0xB0880df8420974ef1b040111e5e0e95f05F8fee1) | 1.5 | Ethereum |
 | Yearn yVault Add | [0xb832Cc0E8Ed40Ae42edDC63D9d07EbAF022994E8](https://etherscan.io/address/0xb832Cc0E8Ed40Ae42edDC63D9d07EbAF022994E8) | 2.0 | Ethereum |
 | Sushiswap Add | [0xcff6eF0B9916682B37D80c19cFF8949bc1886bC2](https://etherscan.io/address/0xcff6eF0B9916682B37D80c19cFF8949bc1886bC2) | 3.0 | Ethereum |
