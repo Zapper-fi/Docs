@@ -8,7 +8,7 @@ description: Get a list of Zapper's supported tokens
 
 Ensure you have read the [Zapper API ](../zapper-api.md)section for a brief overview of the API types and to acquire an API key. This guide uses the Zapper Data API.
 
-The prices endpoint returns an array of Zapper's supported tokens and their associated USD prices, decimals, address and symbol.
+The prices endpoint returns an array of Zapper's supported tokens and their associated USD price, decimals, address and symbol.
 
 {% api-method method="get" host="https://api.zapper.fi/v1/prices?api\_key=" path="api\_key" %}
 {% api-method-summary %}
