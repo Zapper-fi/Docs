@@ -156,6 +156,8 @@ The `slippagePercentage` encapsulates the entire atomic transaction and will cau
 
 The `poolAddress` represents the yVault to enter. This address can be obtained from Zapper's Data API as shown [here](yearn-vault-stats.md#overview)
 
+The `gasPrice` recommended by Zapper is returned from [Zapper's Gas Price API](get-gas-price.md). Alternatively, you can choose to use any gas price you'd like. The `gasPrice` should be in `WEI`
+
 {% api-method method="get" host="https://api.zapper.fi/v1/zap-in/yearn/transaction?api\_key=" path="API\_KEY" %}
 {% api-method-summary %}
 Get Zap In Transaction
