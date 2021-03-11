@@ -7,6 +7,7 @@
 * [Zapper API](build/zapper-api.md)
 * [Smart Contracts](build/smart-contracts.md)
 * [Guides](build/guides/README.md)
+  * [Get Gas Price](build/guides/get-gas-price.md)
   * [Get Supported Tokens and Prices](build/guides/get-supported-tokens-and-prices.md)
   * [Get Curve User Balances](build/guides/curve-user-balances.md)
   * [Get Yearn User Balances](build/guides/yearn-user-balances.md)
