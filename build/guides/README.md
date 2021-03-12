@@ -16,8 +16,6 @@ The same patterns shown in these guides can be applied to all of the [Zaps](../s
 
 ## Data API
 
-
-
 ### Pool/Vault Stats and Account Balances
 
 The same patterns shown here can be used for any of Zapper's [supported platforms](https://zapper.fi/protocols).
