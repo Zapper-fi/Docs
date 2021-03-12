@@ -284,16 +284,12 @@ function ZapIn(
     // allowance to 0 before being able to update it.
     require(sellToken.approve(ZapContract, uint256(-1)));
     // Check this contract's initial balance
-    uint256 initialBalance = buyToken == address(0)
-        ? address(this).balance
-        : IERC20(buyToken).balanceOf(address(this));
+    uint256 initialBalance = IERC20(buyToken).balanceOf(address(this));
     // Call the encoded Zap function call on the contract at `ZapContract`,
     // passing along any ETH attached to this function call for the Zap.
     (bool success,) = ZapContract.call{value: msg.value}(zapCallData);
     require(success, 'Zap In Failed');
-    yVaultTokensRec = buyToken == address(0)
-        ? (address(this).balance).sub(initialBalance)
-        : IERC20(buyToken).balanceOf(address(this)).sub(initialBalance);
+    yVaultTokensRec = IERC20(buyToken).balanceOf(address(this)).sub(initialBalance);
     // ...
 }
 ```
