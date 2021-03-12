@@ -1,12 +1,12 @@
 ---
-description: Get Zapper's current network gas prices
+description: Get Zapper's current gas prices
 ---
 
 # Get Gas Price
 
 ## Overview
 
-The prices endpoint returns Zapper's current Ethereum network gas prices
+The prices endpoint returns Zapper's current Ethereum, BSC, and Polygon/Matic network gas prices
 
 {% api-method method="get" host="http://api.zapper.fi/v1/gas-price" path=" " %}
 {% api-method-summary %}
