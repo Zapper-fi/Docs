@@ -6,7 +6,7 @@ description: Zapper DEX Aggregator
 
 ## The best swaps in DeFi.
 
-Zapper is a [decentralized exchange](https://zapper.fi/exchange) that does not require you to deposit tokens like centralized exchanges \(e.g. Coinbase, Binance\). Signups are not required to use the exchange and all trades are executed trustlessly in a peer-to-peer manner. 
+Zapper is a [decentralized exchange](https://zapper.fi/exchange) that does not require you to deposit tokens like centralized exchanges \(e.g. Coinbase\). Signups are not required to use the exchange and all trades are executed trustlessly in a peer-to-peer manner. 
 
 In order to source and execute the best available swaps in DeFi, the exchange sources deep liquidity among all of the top exchanges at once, intelligently routing and executing swaps for any of the hundreds of tokens supported by Zapper.
 
