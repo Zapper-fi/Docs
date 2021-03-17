@@ -31,7 +31,7 @@ These contracts are currently deployed on various EVM Mainnets and are used by [
 | Bancor Add | [0xa14EEefa753a166a5651bce7B84094f614Df0D05](https://etherscan.io/address/0xa14EEefa753a166a5651bce7B84094f614Df0D05) | 2.1 | Ethereum |
 | Harvest Add | [0xab297faf67D486c8d03fBcD8F026feD0D71254B9](https://etherscan.io/address/0xab297faf67D486c8d03fBcD8F026feD0D71254B9) | 1.0 | Ethereum |
 | PoolTogether Add | [0x2e61170a7dCab6438e403AA7A8A7143d39ED0A65](https://etherscan.io/address/0x2e61170a7dCab6438e403AA7A8A7143d39ED0A65) | 1.0 | Ethereum |
-| Ethereum to Polygon Bridge | [0x712216d3E4eF49D3D796D57A773BcA7174276c73](https://etherscan.io/address/0x712216d3E4eF49D3D796D57A773BcA7174276c73#code) | 1.1 | Ethereum |
+| Ethereum to Polygon Bridge | [0x1f0d1927498FBD4f9E8558704Ce5B658929527Ec](https://etherscan.io/address/0x1f0d1927498fbd4f9e8558704ce5b658929527ec) | 1.2 | Ethereum |
 | QuickSwap Add | [0x5CCb8c39bF68612C7997Cbc498ae55908D32d223](https://explorer-mainnet.maticvigil.com/address/0x5CCb8c39bF68612C7997Cbc498ae55908D32d223/contracts) | 1.0 | Polygon\* |
 | PancakeSwap Add | [0x775EE938186FddC13bD7C89D24820E1b0758F91D](https://bscscan.com/address/0x775ee938186fddc13bd7c89d24820e1b0758f91d#code) | 1.0 | BSC\*\* |
 | 1Inch Add | [0x5531b2eAA05D8b6fb855E15F1d21e6a3A3794B4d](https://etherscan.io/address/0x5531b2eAA05D8b6fb855E15F1d21e6a3A3794B4d#code) | 1.0 | Ethereum |
