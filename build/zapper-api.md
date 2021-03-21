@@ -6,9 +6,9 @@ description: API Reference
 
 ## Zapper API
 
-The Data and Transactions APIs are free for the community using a shared public use API key. 
+The Data and Transactions APIs are free for the community using a shared public use [API key](zapper-api.md#authentication). 
 
-To obtain your own private API key for specific use or Transactions API applications, please reach out to the team on [Twitter](https://twitter.com/zapper_fi) or [Discord](https://discordapp.com/invite/h6CGbuN).
+For any API related inquiries, please reach out to the team on [Twitter](https://twitter.com/zapper_fi) or [Discord](https://discordapp.com/invite/h6CGbuN).
 
 If your project consumes the Zapper API, a link back to [https://zapper.fi](https://zapper.fi/dashboard) or a mention that your app is "**Powered by Zapper.fi APIs**" would be appreciated!
 
