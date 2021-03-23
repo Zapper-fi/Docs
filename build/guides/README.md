@@ -10,7 +10,7 @@ If you'd like to contribute a guide, please reach out to us on [Discord](https:/
 
 Assembling a Zap transaction is simple to do with the Transactions API. Provide basic details like the token to sell, pool or vault to interact with, and token quantities to send and the API will assemble and return an easy to consume Zap transaction for you to use in apps or smart contracts. 
 
-The same patterns shown in these guides can be applied to all of the [Zaps](../smart-contracts.md) offered by Zapper
+The same patterns shown in these guides can be applied to all of the [zaps](../smart-contracts.md) offered by Zapper
 
 * The [Yearn Zap In guide](yearn-zap-in.md) demonstrates how to create an easy to consume transaction object for interacting with Zaps with web3 or in your smart contracts directly.
 

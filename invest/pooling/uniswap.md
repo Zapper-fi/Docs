@@ -107,6 +107,10 @@ _**minus**_
 * This report is based on a cadCAD model of Uniswap by [Markus Buhatem Koch](https://community.cadcad.org/t/modeling-uniswap-in-cadcad/35)
 {% endtab %}
 
+{% tab title="" %}
+
+{% endtab %}
+
 {% tab title="Add liquidity" %}
 {% embed url="https://www.youtube.com/watch?v=hUegWuLhWA8" %}
 

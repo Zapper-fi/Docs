@@ -1,6 +1,6 @@
 # Introduction
 
-## [Zapper.fi](https://www.zapper.fi/dashboard) is the ultimate hub for Decentralized Finance. Our mission is to make DeFi accessible and easy to use.
+## [Zapper](https://www.zapper.fi/dashboard) is the ultimate hub for DeFi. Our mission is to make DeFi accessible and easy to use.
 
 ## **Features**
 
@@ -18,10 +18,6 @@
 
 4. [**Farm**](invest/farming.md) ****Generate yield with your assets
 5. \*\*\*\*[**Zapper API**](build/zapper-api.md) ****DeFi Data and Transactions builder
-
-## Video Walkthrough
-
-{% embed url="https://youtu.be/VtXB-NJMjMc" %}
 
 
 

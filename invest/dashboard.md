@@ -8,7 +8,7 @@ description: An overview of your DeFi assets and liabilities
 
 At Zapper, the team is always working on adding on new protocols. Check out our updated list of [supported platforms](https://zapper.fi/protocols) to see the latest additions. If you would like to suggest an addition, or you are building a protocol and would like to see it on Zapper, you can make [requests here](https://features.zapper.fi/).
 
-**Enter an address or connect a wallet to see your own dashboard at** [**Zapper.fi**](https://zapper.fi)\*\*\*\*
+**Enter an address or connect a wallet to see your own dashboard at** [**Zapper**](https://zapper.fi)\*\*\*\*
 
 ![Account Dashboard](../.gitbook/assets/image%20%2815%29.png)
 
