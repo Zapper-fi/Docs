@@ -18,8 +18,11 @@
 
 4. [**Farm**](invest/farming.md) ****Generate yield with your assets
 5. \*\*\*\*[**Zapper API**](build/zapper-api.md) ****DeFi Data and Transactions builder
+6. [**Bridge**](invest/bridge.md)\*\*\*\*
 
+   Migrate funds from Ethereum to different L2s and sidechains
 
+\*\*\*\*
 
   
 ****

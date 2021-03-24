@@ -26,6 +26,7 @@
   * [Curve](invest/pooling/curve.md)
   * [Yearn Vaults](invest/pooling/yearn-vaults.md)
 * [Farms](invest/farming.md)
+* [Bridge](invest/bridge.md)
 
 ## ADDITIONAL RESOURCES
 
