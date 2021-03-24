@@ -18,13 +18,13 @@ Returns the standard, fast, and instant gas price in GWEI.
   
 To convert to WEI multiply response values by 10 \*\* 9  
   
-`chainType` can be one of `ethereum`,`binance-smart-chain`, `polygon`. Returns `ethereum` network gas prices if left blank.
+`network` can be one of `ethereum`,`binance-smart-chain`, `polygon`. Returns `ethereum` network gas prices if left blank.
 {% endapi-method-description %}
 
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-query-parameters %}
-{% api-method-parameter name="chainType" type="string" required=false %}
+{% api-method-parameter name="network" type="string" required=false %}
 Network to get gas prices for
 {% endapi-method-parameter %}
 {% endapi-method-query-parameters %}
