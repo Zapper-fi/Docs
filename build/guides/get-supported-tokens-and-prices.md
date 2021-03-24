@@ -16,7 +16,7 @@ Get Zapper Prices
 {% endapi-method-summary %}
 
 {% api-method-description %}
-Returns Zapper's supported tokens
+Returns Zapper's supported tokens with their prices in USD
 {% endapi-method-description %}
 
 {% api-method-spec %}

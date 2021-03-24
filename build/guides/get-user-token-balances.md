@@ -10,9 +10,9 @@ Ensure you have read the [Zapper API ](../zapper-api.md)section for a brief over
 
 The token balances endpoint returns an an account's token balances, including contextual information about each token for which the account has a balance.
 
-{% api-method method="get" host="https://api.zapper.fi/v1/balances/tokens?api\_key=" path="api\_key" %}
+{% api-method method="get" host="https://api.zapper.fi/v1/balances/tokens?addresses\[\]=address&api\_key=" path="api\_key" %}
 {% api-method-summary %}
-Get Zapper Prices
+Get User Token Balances
 {% endapi-method-summary %}
 
 {% api-method-description %}
@@ -22,7 +22,7 @@ Returns Zapper's supported tokens
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-query-parameters %}
-{% api-method-parameter name="addresses\[\]" type="string" required=false %}
+{% api-method-parameter name="addresses\[\]" type="array" required=true %}
 Array of addresses to query for balance
 {% endapi-method-parameter %}
 
