@@ -32,3 +32,9 @@ Then enter in the information below to create a custom RPC for Polygon \(Matic\)
 
 **Block Explorer URL**: [https://explorer.matic.network/](https://explorer.matic.network/)
 
+
+
+## Chainlist 
+
+A list of different chain information can be found [here](https://chainlist.org/). 
+
