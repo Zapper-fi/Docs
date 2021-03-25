@@ -1,4 +1,4 @@
-# Farms
+# Farm
 
 ## **What does 'Yield Farming' mean?**
 

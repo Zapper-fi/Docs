@@ -1,4 +1,4 @@
-# Pools
+# Pool
 
 {% embed url="https://youtu.be/kbGhu1dxRhM" caption="How to Become a Liquidity Provider" %}
 

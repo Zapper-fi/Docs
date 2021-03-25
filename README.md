@@ -17,10 +17,11 @@
    Invest in unique opportunities available across the always expanding list of available [DeFi platforms](https://zapper.fi/protocols)
 
 4. [**Farm**](invest/farming.md) ****Generate yield with your assets
-5. \*\*\*\*[**Zapper API**](build/zapper-api.md) ****DeFi Data and Transactions builder
-6. [**Bridge**](invest/bridge.md)\*\*\*\*
+5. [**Bridge**](invest/bridge.md)\*\*\*\*
 
-   Migrate funds from Ethereum to different L2s and sidechains
+   Migrate funds from Ethereum to L2s and sidechains
+
+6. \*\*\*\*[**Zapper API**](build/zapper-api.md) ****DeFi Data and Transactions builder
 
 \*\*\*\*
 

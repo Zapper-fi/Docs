@@ -20,13 +20,13 @@
 
 * [Dashboard](invest/dashboard.md)
 * [Exchange](invest/exchange.md)
-* [Pools](invest/pooling/README.md)
+* [Pool](invest/pooling/README.md)
   * [Uniswap](invest/pooling/uniswap.md)
   * [Balancer](invest/pooling/balancer.md)
   * [Curve](invest/pooling/curve.md)
   * [Yearn Vaults](invest/pooling/yearn-vaults.md)
-* [Farms](invest/farming.md)
 * [Bridge](invest/bridge.md)
+* [Farm](invest/farming.md)
 
 ## ADDITIONAL RESOURCES
 
