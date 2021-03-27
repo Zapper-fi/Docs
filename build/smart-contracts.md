@@ -33,7 +33,7 @@ These contracts are currently deployed on various EVM Mainnets and are used by [
 | PoolTogether Add | [0x2e61170a7dCab6438e403AA7A8A7143d39ED0A65](https://etherscan.io/address/0x2e61170a7dCab6438e403AA7A8A7143d39ED0A65) | 1.0 | Ethereum |
 | Ethereum to Polygon Bridge | [0x1f0d1927498FBD4f9E8558704Ce5B658929527Ec](https://etherscan.io/address/0x1f0d1927498fbd4f9e8558704ce5b658929527ec) | 1.2 | Ethereum |
 | QuickSwap Add | [0x5CCb8c39bF68612C7997Cbc498ae55908D32d223](https://explorer-mainnet.maticvigil.com/address/0x5CCb8c39bF68612C7997Cbc498ae55908D32d223/contracts) | 1.0 | Polygon\* |
-| PancakeSwap Add | [0x775EE938186FddC13bD7C89D24820E1b0758F91D](https://bscscan.com/address/0x775ee938186fddc13bd7c89d24820e1b0758f91d#code) | 1.0 | BSC\*\* |
+| PancakeSwap Add | [0xbA62b2E64A91623293a78B5244b3950fC0398deE](https://bscscan.com/address/0xbA62b2E64A91623293a78B5244b3950fC0398deE) | 2.0 | BSC\*\* |
 | 1Inch Add | [0x5531b2eAA05D8b6fb855E15F1d21e6a3A3794B4d](https://etherscan.io/address/0x5531b2eAA05D8b6fb855E15F1d21e6a3A3794B4d#code) | 1.0 | Ethereum |
 {% endtab %}
 
@@ -52,6 +52,7 @@ Deprecated contracts are no longer in use by Zapper but are still available for 
 | Uniswap V2 Remove | [0x79B6C6F8634ea477ED725eC23b7b6Fcb41F00E58](https://etherscan.io/address/0x79B6C6F8634ea477ED725eC23b7b6Fcb41F00E58) | 2.1 | Ethereum |
 | Curve Add | [0x75987EB3cB933E355474c5ffC4905ECB6061796b](https://etherscan.io/address/0x75987EB3cB933E355474c5ffC4905ECB6061796b) | 3.0 | Ethereum |
 | Yearn Vault Add | [0xb832Cc0E8Ed40Ae42edDC63D9d07EbAF022994E8](https://etherscan.io/address/0xb832Cc0E8Ed40Ae42edDC63D9d07EbAF022994E8) | 2.0 | Ethereum |
+| Pancakeswap Add | [0x775EE938186FddC13bD7C89D24820E1b0758F91D](https://bscscan.com/address/0x775ee938186fddc13bd7c89d24820e1b0758f91d#code) | 1.0 | BSC\*\* |
 {% endtab %}
 {% endtabs %}
 
