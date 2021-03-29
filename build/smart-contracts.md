@@ -34,6 +34,7 @@ These contracts are currently deployed on various EVM Mainnets and are used by [
 | Ethereum to Polygon Bridge | [0x1f0d1927498FBD4f9E8558704Ce5B658929527Ec](https://etherscan.io/address/0x1f0d1927498fbd4f9e8558704ce5b658929527ec) | 1.2 | Ethereum |
 | QuickSwap Add | [0x5CCb8c39bF68612C7997Cbc498ae55908D32d223](https://explorer-mainnet.maticvigil.com/address/0x5CCb8c39bF68612C7997Cbc498ae55908D32d223/contracts) | 1.0 | Polygon\* |
 | PancakeSwap Add | [0xbA62b2E64A91623293a78B5244b3950fC0398deE](https://bscscan.com/address/0xbA62b2E64A91623293a78B5244b3950fC0398deE) | 2.0 | BSC\*\* |
+| PancakeSwap Remove | [0x343E3a490c9251dC0eaA81Da146ba6ABe6C78b2d](https://bscscan.com/address/0x343e3a490c9251dc0eaa81da146ba6abe6c78b2d) | 1.0 | BSC\*\* |
 | 1Inch Add | [0x5531b2eAA05D8b6fb855E15F1d21e6a3A3794B4d](https://etherscan.io/address/0x5531b2eAA05D8b6fb855E15F1d21e6a3A3794B4d#code) | 1.0 | Ethereum |
 {% endtab %}
 
