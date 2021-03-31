@@ -32,6 +32,7 @@ These contracts are currently deployed on various EVM Mainnets and are used by [
 | Harvest Add | [0xab297faf67D486c8d03fBcD8F026feD0D71254B9](https://etherscan.io/address/0xab297faf67D486c8d03fBcD8F026feD0D71254B9) | 1.0 | Ethereum |
 | PoolTogether Add | [0x2e61170a7dCab6438e403AA7A8A7143d39ED0A65](https://etherscan.io/address/0x2e61170a7dCab6438e403AA7A8A7143d39ED0A65) | 1.0 | Ethereum |
 | Ethereum to Polygon Bridge | [0x1f0d1927498FBD4f9E8558704Ce5B658929527Ec](https://etherscan.io/address/0x1f0d1927498fbd4f9e8558704ce5b658929527ec) | 1.2 | Ethereum |
+| Polygon to Ethereum Bridge | [0x5848E3A0eC02cEd206292ae6504E03c4aD97BF76](https://explorer-mainnet.maticvigil.com/address/0x5848E3A0eC02cEd206292ae6504E03c4aD97BF76/transactions) | 1.0 | Polygon\* |
 | QuickSwap Add | [0x5CCb8c39bF68612C7997Cbc498ae55908D32d223](https://explorer-mainnet.maticvigil.com/address/0x5CCb8c39bF68612C7997Cbc498ae55908D32d223/contracts) | 1.0 | Polygon\* |
 | PancakeSwap Add | [0xbA62b2E64A91623293a78B5244b3950fC0398deE](https://bscscan.com/address/0xbA62b2E64A91623293a78B5244b3950fC0398deE) | 2.0 | BSC\*\* |
 | PancakeSwap Remove | [0x343E3a490c9251dC0eaA81Da146ba6ABe6C78b2d](https://bscscan.com/address/0x343e3a490c9251dc0eaa81da146ba6abe6c78b2d) | 1.0 | BSC\*\* |
