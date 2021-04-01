@@ -14,8 +14,6 @@ The Sushiswap Zap Out removes liquidity from Sushiswap pools. The latest current
 This guide is also applicable to Uniswap V2. Simply substitute references of`sushiswap` with`uniswap.`For example, in the [Get Zap Allowance](create-uniswapv2-zap-out.md#check-zap-allowance) request, `.../zap-out/sushiswap/approval-state/...` can be replaced with `.../zap-out/uniswap/approval-state/...`
 
 \*For the [Get Zap Out Transaction](create-uniswapv2-zap-out.md#get-zap-out-transaction) query, replace`sushiswap`with`uniswap-v2`
-
-\`\`
 {% endhint %}
 
 ## Check Zap Allowance
