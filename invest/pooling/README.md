@@ -26,11 +26,11 @@ In the example below a user is supplying ETH and DAI to a Uniswap pool. After ad
 
 ## Zapper allows for access to the best pooling opportunities with a single click
 
-Zapper allows for any user to add liquidity in a single transaction. For example, if a user only has ETH, but would like to to supply to the ETH-DAI Uniswap pair with Zapper they don't have to worry about manually converting half the ETH into DAI and then submit another transaction to add the liquidity. 
+Zapper allows you to add liquidity in a single transaction. For example, if you only has ETH, but would like to to supply to the ETH-DAI Uniswap pair with Zapper you don't have to worry about manually converting half the ETH into DAI and then submit another transaction to add the liquidity. 
 
 ![Part 1: Zapper contract swaps half of supplied for the needed asset](../../.gitbook/assets/zap1.png)
 
-Instead the Zapper contracts will handle this under the hood and will swap to exactly half the amount of ETH into DAI and will then add both assets to the Uniswap pool. Lastly, the contract will pass the liquidity provider tokens back to the user's address at the end of the transaction, both steps done in one transactions.
+Instead the Zapper contracts will handle this under the hood and will swap to exactly half the amount of ETH into DAI and will then add both assets to the Uniswap pool. Lastly, the contract will pass the liquidity provider tokens back to your address at the end of the transaction, both steps done in one transactions.
 
 ![Part 2: Both assets are supplied and the LP tokens are forwarded to the user&apos;s address](../../.gitbook/assets/zap2.png)
 
@@ -40,7 +40,7 @@ Impermanent loss sounds like a scary term, but can be broken down into a simple 
 
 ![Uniswap LP Tokens are like a 50/50 weighted index](../../.gitbook/assets/50-50.png)
 
-In simple terms, when supplying liquidity it is easiest to think that when entering a pool that the liquidity provider tokens are a weighted index of the pool you are in. So when a user zaps in their ETH into the ETH-DAI Uniswap pool they now hold an LP token that is somewhat like a 50/50 weighted index between ETH and DAI. This pool tends to earn lots of fees due to people frequently trading between the assets. However, as a liquidity provider, the user no longer has full price exposure to ETH.
+In simple terms, when supplying liquidity it is easiest to think that when entering a pool that the liquidity provider tokens are a weighted index of the pool you are in. So when you zaps in your ETH into the ETH-DAI Uniswap pool they now hold an LP token that is somewhat like a 50/50 weighted index between ETH and DAI. This pool tends to earn lots of fees due to people frequently trading between the assets. However, as a liquidity provider, you no longer has full price exposure to ETH.
 
 ## Explore Different Pooling Opportunities
 

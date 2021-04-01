@@ -18,11 +18,11 @@ In this example, a way for the Bleep Token \(BLP\) creators to get liquidity on 
 
 ## Farming on Zapper 
 
-Users can add assets to different liquidity pools under the pool tab. In the example below, a user can invest into the WBTC/ETH pool on Sushiswap. 
+You can add assets to different liquidity pools under the pool tab. The example below shows how you can invest into the WBTC/ETH pool on Sushiswap. 
 
 ![Pool Tab](../.gitbook/assets/pools.png)
 
-Once the user has invested into a pool, they can then take use their liquidity provider tokens and lock them into a rewards contract. In this example, the SUSHI liquidity provider tokens can be locked into the reward contracts to earn SUSHI as a reward for providing liquidity to Sushiswap. 
+Once you has invested into a pool, you can then take your liquidity provider tokens and lock them into a rewards contract. In this example, the SUSHI liquidity provider tokens can be locked into the reward contracts to earn SUSHI as a reward for providing liquidity to Sushiswap. 
 
 ![Farm Tab](../.gitbook/assets/farms.png)
 
