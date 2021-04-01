@@ -10,7 +10,7 @@
 
 ## Download
 
-Dowland the assets as svgs below. 
+Download the assets as svgs below. 
 
 {% file src="../.gitbook/assets/zapper\_brand\_assets.zip" caption="Brand Assets" %}
 
