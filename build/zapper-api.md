@@ -34,7 +34,7 @@ The API key must be provided as a query string by the client when making API cal
 
 The Swagger UI contains an overview of the available endpoints. Be creative and feel free to reach out to us with suggestions or to show us what you've built.
 
-{% embed url="http://api.zapper.fi/api/static/index.html" %}
+{% embed url="https://api.zapper.fi/api/static/index.html" %}
 
 ## 
 
