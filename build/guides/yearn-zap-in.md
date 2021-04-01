@@ -4,7 +4,7 @@ description: >-
   API
 ---
 
-# Create Yearn Zap In
+# Create a Zap In \(Yearn\)
 
 ## Overview
 

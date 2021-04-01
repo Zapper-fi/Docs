@@ -14,7 +14,8 @@
   * [Get Yearn User Balances](build/guides/yearn-user-balances.md)
   * [Get Sushiswap Pool Stats](build/guides/sushiswap-pool-stats.md)
   * [Get Yearn Vault Stats](build/guides/yearn-vault-stats.md)
-  * [Create Yearn Zap In](build/guides/yearn-zap-in.md)
+  * [Create a Zap In \(Yearn\)](build/guides/yearn-zap-in.md)
+  * [Create a Zap Out \(Sushiswap\)](build/guides/create-uniswapv2-zap-out.md)
 
 ## INVEST
 
