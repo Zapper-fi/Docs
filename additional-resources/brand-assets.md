@@ -2,17 +2,15 @@
 
 ![Zapper Official Logo](../.gitbook/assets/group-24-5-.png)
 
-![API integration logo - Black](../.gitbook/assets/built-on-black.png)
+![API integration logo - Gray](../.gitbook/assets/power-zap-gray.svg)
 
-![API integration logo - Gray](../.gitbook/assets/built-on-gray.png)
+![API integration logo - Purple](../.gitbook/assets/power-zap-purple.svg)
 
-![API integration logo - Purple](../.gitbook/assets/built-on-purple.png)
+![API integration logo - Black](../.gitbook/assets/power-zap-black.svg)
 
 ## Download
 
-Download the assets as svgs below. 
+Get the all of the Zapper assets as svgs at the download below. 
 
-{% file src="../.gitbook/assets/zapper\_brand\_assets.zip" caption="Brand Assets" %}
-
-
+{% file src="../.gitbook/assets/zapper\_brand\_assets \(1\).zip" caption="Zapper Brand Assets" %}
 
