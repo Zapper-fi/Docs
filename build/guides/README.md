@@ -13,6 +13,7 @@ Assembling a Zap transaction is simple to do with the Transactions API. Provide 
 The same patterns shown in these guides can be applied to all of the [zaps](../smart-contracts.md) offered by Zapper
 
 * The [Yearn Zap In guide](yearn-zap-in.md) demonstrates how to create an easy to consume transaction object for interacting with Zaps with web3 or in your smart contracts directly.
+* The [Sushiswap Zap Out guide](create-uniswapv2-zap-out.md) goes over how to create and consume a transaction object to enable one click Zap Outs from Sushiswap into ETH or any arbitrary token
 
 ## Data API
 
