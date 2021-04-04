@@ -22,7 +22,7 @@ These contracts are currently deployed on various EVM Mainnets and are used by [
 | Balancer Add | [0x7F249DBD212158e1ac449f0A37CA956C8186ac80](https://etherscan.io/address/0x7F249DBD212158e1ac449f0A37CA956C8186ac80) | 3.0 | Ethereum |
 | Balancer Remove | [0x00d0f137b51692D0AC708bdE7b367a373865cFfe](https://etherscan.io/address/0x00d0f137b51692D0AC708bdE7b367a373865cFfe) | 2.2 | Ethereum |
 | Curve Add | [0x77eD360E62cA6f2D1582F00da8B0b8489cA1e2E2](https://etherscan.io/address/0x77ed360e62ca6f2d1582f00da8b0b8489ca1e2e2) | 3.1 | Ethereum |
-| Curve Remove | [0xA3061Cf6aC1423c6F40917AD49602cBA187181Dc](https://etherscan.io/address/0xA3061Cf6aC1423c6F40917AD49602cBA187181Dc) | 2.1 | Ethereum |
+| Curve Remove | [0x47c964e8d93843ab0c185bdeab5cbf57b9ec613a](https://etherscan.io/address/0x47c964e8d93843ab0c185bdeab5cbf57b9ec613a) | 3.0.1 | Ethereum |
 | Curve to Curve Pool Pipe | [0xB54dCe7f4Bd17DFebe4CB9742AE2D7d2886134d8](https://etherscan.io/address/0xB54dCe7f4Bd17DFebe4CB9742AE2D7d2886134d8) | 1.0 | Ethereum |
 | Yearn yVault Add or Remove | [0xB0880df8420974ef1b040111e5e0e95f05F8fee1](https://etherscan.io/address/0xB0880df8420974ef1b040111e5e0e95f05F8fee1) | 1.5 | Ethereum |
 | Yearn yVault Add | [0x462991D18666c578F787e9eC0A74Cd18D2971E5F](https://etherscan.io/address/0x462991d18666c578f787e9ec0a74cd18d2971e5f) | 2.0.1 | Ethereum |
@@ -46,6 +46,7 @@ Deprecated contracts are no longer in use by Zapper but are still available for 
 | :--- | :--- | :--- | :--- |
 | Zapper Swap | [0xacDF47C844Eff0Ecb218D8945e28A9A484aF8D07](https://etherscan.io/address/0xacDF47C844Eff0Ecb218D8945e28A9A484aF8D07) | 1.3 | Ethereum |
 | Curve Add | [0x79c88866247a3626D45011662eFA093535554B34](https://etherscan.io/address/0x79c88866247a3626D45011662eFA093535554B34) | 2.0.1 | Ethereum |
+| Curve Remove | [0xA3061Cf6aC1423c6F40917AD49602cBA187181Dc](https://etherscan.io/address/0xA3061Cf6aC1423c6F40917AD49602cBA187181Dc) | 2.1 | Ethereum |
 | Uniswap V2 Add | [0xD3cF4e98e1e432B3d6Ae42AE406A78F2AC8293D0](https://etherscan.io/address/0xD3cF4e98e1e432B3d6Ae42AE406A78F2AC8293D0) | 3.0.1 | Ethereum |
 | Uniswap V2 Remove | [0x79B6C6F8634ea477ED725eC23b7b6Fcb41F00E58](https://etherscan.io/address/0x79B6C6F8634ea477ED725eC23b7b6Fcb41F00E58) | 2.1 | Ethereum |
 | Sushiswap Add | [0x91baf383abc0c332a69a73041c866f6761a90b3c](https://etherscan.io/address/0x91baf383abc0c332a69a73041c866f6761a90b3c) | 2.0.1 | Ethereum |
