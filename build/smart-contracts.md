@@ -37,6 +37,7 @@ These contracts are currently deployed on various EVM Mainnets and are used by [
 | PancakeSwap Add | [0xbA62b2E64A91623293a78B5244b3950fC0398deE](https://bscscan.com/address/0xbA62b2E64A91623293a78B5244b3950fC0398deE) | 2.0 | BSC\*\* |
 | PancakeSwap Remove | [0x343E3a490c9251dC0eaA81Da146ba6ABe6C78b2d](https://bscscan.com/address/0x343e3a490c9251dc0eaa81da146ba6abe6c78b2d) | 1.0 | BSC\*\* |
 | 1Inch Add | [0x5531b2eAA05D8b6fb855E15F1d21e6a3A3794B4d](https://etherscan.io/address/0x5531b2eAA05D8b6fb855E15F1d21e6a3A3794B4d#code) | 1.0 | Ethereum |
+| Pickle Add | [0xc695f73c1862e050059367B2E64489E66c525983](https://etherscan.io/address/0xc695f73c1862e050059367b2e64489e66c525983) | 1.0 | Ethereum |
 {% endtab %}
 
 {% tab title="Deprecated" %}
