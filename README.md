@@ -1,32 +1,33 @@
 # Introduction
 
-## [Zapper](https://www.zapper.fi/dashboard) is the ultimate hub for DeFi. Our mission is to make DeFi accessible and easy to use.
+![](.gitbook/assets/making_defi_easy.png)
 
 ## **Features**
 
-1. \*\*\*\*[**Dashboard**](invest/dashboard.md)\*\*\*\*
+1. \*\*\*\*[**Zapper API**](zapper-api/api-getting-started.md) ****DeFi Data and Transactions builder
+2. \*\*\*\*[**Smart Contracts**](zapper-smart-contracts/smart-contracts.md) ****View a list of all the Zapper smart contracts
+3. **Learn Zapper**
 
-   Get a snapshot of all your DeFi assets & liabilities.
+   Find out how to use the Zapper user interface to its fullest
 
-2. \*\*\*\*[**Exchange**](invest/exchange.md)\*\*\*\*
+   * [**Dashboard**](learn-zapper/dashboard.md)\*\*\*\*
 
-   Swap assets with our exchange aggregator 
+           Get a snapshot of all your DeFi assets & liabilities.
 
-3. [**Pool**](invest/pooling/)
+   * [**Exchange**](learn-zapper/exchange.md)\*\*\*\*
 
-   Invest in unique opportunities available across the always expanding list of available [DeFi platforms](https://zapper.fi/protocols)
+           Swap assets with our exchange aggregator 
 
-4. [**Farm**](invest/farming.md) ****Generate yield with your assets
-5. [**Bridge**](invest/bridge.md)\*\*\*\*
+   * \*\*\*\*[**Pool** ](learn-zapper/pooling/)\*\*\*\*
 
-   Migrate funds from Ethereum to L2s and sidechains
+           Invest in unique opportunities available across the expanding list of available [DeFi    platforms](https://zapper.fi/protocols)
 
-6. \*\*\*\*[**Zapper API**](build/zapper-api.md) ****DeFi Data and Transactions builder
+   * [**Farm**](learn-zapper/farming.md) ****Generate yield with your assets
+   * [**Bridge**](learn-zapper/bridge.md)\*\*\*\*
 
-\*\*\*\*
+           Migrate funds from Ethereum to L2s and sidechains
 
-  
-****
 
-\*\*\*\*
+
+If you have questions or would like to learn more to about Zapper feel free to join our [Discord](https://discord.com/invite/5C4wxPr)
 

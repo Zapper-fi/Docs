@@ -2,39 +2,40 @@
 
 * [Introduction](README.md)
 
-## BUILD
+## Zapper API
 
-* [Zapper API](build/zapper-api.md)
-* [Smart Contracts](build/smart-contracts.md)
-* [Guides](build/guides/README.md)
-  * [Get User Token Balances](build/guides/get-user-token-balances.md)
-  * [Get Supported Tokens and Prices](build/guides/get-supported-tokens-and-prices.md)
-  * [Get Gas Price](build/guides/get-gas-price.md)
-  * [Get Curve User Balances](build/guides/curve-user-balances.md)
-  * [Get Yearn User Balances](build/guides/yearn-user-balances.md)
-  * [Get Sushiswap Pool Stats](build/guides/sushiswap-pool-stats.md)
-  * [Get Yearn Vault Stats](build/guides/yearn-vault-stats.md)
-  * [Create a Zap In \(Yearn\)](build/guides/yearn-zap-in.md)
-  * [Create a Zap Out \(Sushiswap\)](build/guides/create-uniswapv2-zap-out.md)
+* [Getting Started](zapper-api/api-getting-started.md)
+* [Endpoints](zapper-api/endpoints.md)
+* [API Guides](zapper-api/api-guides/README.md)
+  * [Token Balances](zapper-api/api-guides/token-balances.md)
+  * [Supported Tokens and Prices](zapper-api/api-guides/supported-tokens-and-prices.md)
+  * [Gas Price](zapper-api/api-guides/gas-price.md)
+  * [Protocol Balances](zapper-api/api-guides/curve-balances.md)
+  * [Pool Stats](zapper-api/api-guides/pool-stats.md)
+  * [Vault Stats](zapper-api/api-guides/vault-stats.md)
+  * [Zap In](zapper-api/api-guides/zap-in.md)
+  * [Zap Out](zapper-api/api-guides/zap-out.md)
 
-## INVEST
+## Zapper Smart Contracts
 
-* [Dashboard](invest/dashboard.md)
-* [Exchange](invest/exchange.md)
-* [Pool](invest/pooling/README.md)
-  * [Uniswap](invest/pooling/uniswap.md)
-  * [Balancer](invest/pooling/balancer.md)
-  * [Curve](invest/pooling/curve.md)
-  * [Yearn Vaults](invest/pooling/yearn-vaults.md)
-* [Bridge](invest/bridge.md)
-* [Farm](invest/farming.md)
+* [Smart Contracts](zapper-smart-contracts/smart-contracts.md)
+
+## Learn Zapper
+
+* [Dashboard](learn-zapper/dashboard.md)
+* [Exchange](learn-zapper/exchange.md)
+* [Pool](learn-zapper/pooling/README.md)
+  * [Uniswap](learn-zapper/pooling/uniswap.md)
+  * [Balancer](learn-zapper/pooling/balancer.md)
+  * [Curve](learn-zapper/pooling/curve.md)
+  * [Yearn Vaults](learn-zapper/pooling/yearn-vaults.md)
+* [Bridge](learn-zapper/bridge.md)
+* [Farm](learn-zapper/farming.md)
 
 ## ADDITIONAL RESOURCES
 
-* [Ecosystem Partners](additional-resources/our-partners.md)
 * [Brand Assets](additional-resources/brand-assets.md)
+* [Join Our Discord](https://discordapp.com/invite/h6CGbuN)
 * [Tutorials & FAQs](https://zapper.crunch.help/)
 * [Feature Requests](https://features.zapper.fi/)
-* [Blog](https://medium.com/zapper-protocol)
-* [Join Our Community](https://discordapp.com/invite/h6CGbuN)
 
