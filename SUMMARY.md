@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 
-## Zapper API
+## API <a id="zapper-api"></a>
 
 * [Getting Started](zapper-api/api-getting-started.md)
 * [Endpoints](zapper-api/endpoints.md)
@@ -16,11 +16,11 @@
   * [Zap In](zapper-api/api-guides/zap-in.md)
   * [Zap Out](zapper-api/api-guides/zap-out.md)
 
-## Zapper Smart Contracts
+## Smart Contracts <a id="zapper-smart-contracts"></a>
 
 * [Smart Contracts](zapper-smart-contracts/smart-contracts.md)
 
-## Learn Zapper
+## Learn <a id="learn-zapper"></a>
 
 * [Dashboard](learn-zapper/dashboard.md)
 * [Exchange](learn-zapper/exchange.md)
