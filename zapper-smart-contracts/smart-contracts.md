@@ -10,7 +10,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Production" %}
-These contracts are currently deployed on various EVM Mainnets and are used by [Zapper.fi](https://zapper.fi/) and other DeFi projects.
+These contracts are currently deployed on various EVM Mainnets and are used by [Zapper.fi](https://zapper.fi/) and other DeFi projects. The recommended way to interact with these contracts is via the [Transactions API](../zapper-api/api-guides/#transactions-api).
 
 | Contract | Address | Version | Chain |
 | :--- | :--- | :--- | :--- |
