@@ -42,91 +42,49 @@ Successful response from vault-stats endpoint
 
 ```
 {
-  "0x0f3d8...": [
-    {
-      "label": "Y",
-      "value": "Y",
-      "protocol": "curve",
-      "protocolDisplay": "Curve",
-      "protocolSymbol": "Curve",
-      "decimals": 18,
-      "address": "0x45f783cce6b7ff23b2ab2d70e416cdb7d6055f51",
-      "tokenAddress": "0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8",
-      "exchangeAddress": "0xbBC81d23Ea2c3ec7e56D39296F0cbB648873a5d3",
-      "contractAddress": "0xbBC81d23Ea2c3ec7e56D39296F0cbB648873a5d3",
-      "depositAddress": "0xbBC81d23Ea2c3ec7e56D39296F0cbB648873a5d3",
-      "liquidity": 109173781.18907443,
-      "pricePerToken": 1.0870200143431872,
-      "volume": 11876799.256408438,
-      "feeVolume": 4750.719702563376,
-      "fee": 0.0004,
-      "volliq": 0.10878801784688034,
-      "isBlocked": false,
-      "isBtc": false,
-      "tokens": [
-        {
-          "symbol": "DAI",
-          "underlyingSymbol": "DAI",
-          "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
-          "underlyingAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
-          "decimals": 18,
-          "price": 1,
-          "reserve": 18742274.19950344,
-          "reserveUSD": 18742274.19950344,
-          "balance": 25.422828781434415,
-          "balanceUSD": 25.422828781434415
-        },
-        {
-          "symbol": "USDC",
-          "underlyingSymbol": "USDC",
-          "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-          "underlyingAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-          "decimals": 6,
-          "price": 1,
-          "reserve": 23075557.40143123,
-          "reserveUSD": 23075557.40143123,
-          "balance": 31.300680942352795,
-          "balanceUSD": 31.300680942352795
-        },
-        {
-          "symbol": "USDT",
-          "underlyingSymbol": "USDT",
-          "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
-          "underlyingAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
-          "decimals": 6,
-          "price": 1,
-          "reserve": 28059478.218709864,
-          "reserveUSD": 28059478.218709864,
-          "balance": 38.06108601642104,
-          "balanceUSD": 38.06108601642104
-        },
-        {
-          "symbol": "TUSD",
-          "underlyingSymbol": "TUSD",
-          "address": "0x0000000000085d4780b73119b644ae5ecd22b376",
-          "underlyingAddress": "0x0000000000085d4780b73119b644ae5ecd22b376",
-          "decimals": 18,
-          "price": 1,
-          "reserve": 39309247.53250009,
-          "reserveUSD": 39309247.53250009,
-          "balance": 53.32075813789182,
-          "balanceUSD": 53.32075813789182
-        }
-      ],
-      "supply": 100434012.02234603,
-      "dailyROI": 0.00004351520713875214,
-      "weeklyROI": 0.00030460644997126496,
-      "yearlyROI": 0.01583953539850578,
-      "symbol": "Y",
-      "name": "Y",
-      "gaugeAddress": "0xfa712ee4788c042e2b7bb55e6cb8ec569c4530c1",
-      "proxyAddress": "0xbBC81d23Ea2c3ec7e56D39296F0cbB648873a5d3",
-      "share": 0.0000013564431141503612,
-      "balance": 136.23302403420587,
-      "balanceRaw": "136233024034205869544",
-      "balanceUSD": 148.10535387810006
+  "0x0f3d8...": 
+   data: [
+     {
+       type: "pool",
+       address: "0xeb16ae0052ed37f479f7fe63849198df1765a733",
+       tokenAddress: "0x02d341ccb60faaf662bc0554d13778015d1b285c",
+       decimals: 18,
+       label: "sAAVE",
+       symbol: "sAAVE",
+       share: 0.000012077379020945607,
+       supply: 15208456.306812523,
+       tokens: [
+         {
+           decimals: 18,
+           address: "0x6b175474e89094c44da98b954eedeac495271d0f",
+           symbol: "DAI",
+           balance: 126.3168534770324,
+           balanceUSD: 126.3168534770324,
+           reserve: 10458962.433650801,
+           price: 1
+         },
+         {
+           decimals: 18,
+           address: "0x57ab1ec28d129707052df4df418d58a2d46d5f51",
+           symbol: "sUSD",
+           balance: 61.68571949330141,
+           balanceUSD: 62.91943388316744,
+           reserve: 5107541.908415795,
+           price: 1.02
+         }
+       ],
+       protocol: "curve",
+       protocolSymbol: "Curve",
+       protocolDisplay: "Curve",
+       price: 1.033085387226444,
+       balance: 183.67829114086547,
+       balanceRaw: "183678291140865471191",
+       balanceUSD: 189.23628736019984
+     },
+    ]
+    meta: {
+    totalUSD: 894.0880577705768
     }
-  ]
 } 
 
 ```
@@ -186,30 +144,42 @@ Authentication token
 
 ```
 {
-  "0x3b2c...": [
+  "0x3b2c...": {
+  data: [
     {
-      "address": "0xe1237aa7f535b0cc33fd973d66cbf830354d16c7",
-      "decimals": 18,
-      "tokenAddress": "0xe1237aa7f535b0cc33fd973d66cbf830354d16c7",
-      "contractAddress": "0xe1237aa7f535b0cc33fd973d66cbf830354d16c7",
-      "symbol": "WETH Vault",
-      "label": "WETH Vault",
-      "img": "WETH-icon.png",
-      "protocolDisplay": "Yearn",
-      "protocolSymbol": "YFI",
-      "protocolImg": "YFI-icon.png",
-      "protocol": "yearn",
-      "balance": 4.940696916986185,
-      "balanceRaw": "4940696916986184768",
-      "balanceUSD": 9029.47776013852,
-      "pricePerShare": 1.0139375178377805,
-      "pricePerToken": 1827.5716790267077,
-      "isVault": true,
-      "isBlocked": false,
-      "canDeposit": true,
-      "version": "v1"
-    },
-  ]
+      type: "vault",
+      address: "0xba2e7fed597fd0e3e70f5130bcdbbfe06bb94fe1",
+      decimals: 18,
+      tokenAddress: "0xba2e7fed597fd0e3e70f5130bcdbbfe06bb94fe1",
+      contractAddress: "0xba2e7fed597fd0e3e70f5130bcdbbfe06bb94fe1",
+      symbol: "YFI Vault",
+      label: "YFI Vault",
+      img: "YFI-icon.png",
+      protocolDisplay: "Yearn",
+      protocolSymbol: "YFI",
+      protocolImg: "YFI-icon.png",
+      protocol: "yearn",
+      balance: 1.3044743275618431,
+      balanceRaw: "1304474327561843174",
+      balanceUSD: 60908.844755453116,
+      price: 46692.252556089894,
+      pricePerShare: 1.0151372414142512,
+      canDeposit: true,
+      tokens: [
+        {
+          address: "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+          symbol: "YFI",
+          decimals: 18,
+          img: "YFI-icon.png",
+          balance: 1.3242204703768397,
+          balanceUSD: 60908.844755453116
+        }
+      ]
+    }
+  ],
+  meta: {
+  totalUSD: 60908.844755453116
+  }
 }
 ```
 {% endapi-method-response-example %}
