@@ -12,7 +12,7 @@ Ensure you have read the [Zapper API Overview ](../api-getting-started.md)sectio
 
 The Curve balances endpoint returns an account's balance data for all of Zapper's supported Curve pools. The returned data includes raw, USD, and underlying token balances of an account, in addition to contextual information about each pool for which the account has a balance. This endpoint is useful to query account balances for pools in Curve's ecosystem.
 
-{% api-method method="get" host="https://api.zapper.fi/v1/balances/curve?api\_key=" path="api\_key" %}
+{% api-method method="get" host="https://api.zapper.fi" path="/v1/curve/balances?api\_key=api\_key" %}
 {% api-method-summary %}
 Get Curve Balances
 {% endapi-method-summary %}
@@ -24,7 +24,7 @@ Returns balance data for Curve pools
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-query-parameters %}
-{% api-method-parameter name="addresses\[\]" type="string" required=false %}
+{% api-method-parameter name="addresses\[\]" type="string" required=true %}
 Array of addresses to query for balance
 {% endapi-method-parameter %}
 
@@ -156,7 +156,7 @@ Error response from vault-stats endpoint
 
 The Yearn balances endpoint returns an account's balance data for all of Zapper's supported Yearn vaults. The returned data includes raw, USD, and underlying token balances of an account, in addition to contextual information about each vault for which the account has a balance. This endpoint is useful to query account balances for pools in Yearns ecosystem.
 
-{% api-method method="get" host="https://api.zapper.fi" path="/v1/balances/yearn?api\_key=api\_key" %}
+{% api-method method="get" host="https://api.zapper.fi" path="/v1/yearn/balances?api\_key=api\_key" %}
 {% api-method-summary %}
 Get Yearn Balances
 {% endapi-method-summary %}
@@ -168,12 +168,12 @@ Returns balance data for specific addresses for Yearn vaults
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-query-parameters %}
-{% api-method-parameter name="" type="string" required=true %}
-Authentication token
-{% endapi-method-parameter %}
-
 {% api-method-parameter name="addresses\[\]" type="string" required=true %}
 Array of addresses to query for balance
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="api\_key" type="string" required=true %}
+Authentication token
 {% endapi-method-parameter %}
 {% endapi-method-query-parameters %}
 {% endapi-method-request %}
