@@ -10,20 +10,20 @@
 
    Find out how to use the Zapper user interface to its fullest
 
-   * [**Dashboard**](learn-zapper/dashboard.md)\*\*\*\*
+   * [**Dashboard**]()\*\*\*\*
 
            Get a snapshot of all your DeFi assets & liabilities.
 
-   * [**Exchange**](learn-zapper/exchange.md)\*\*\*\*
+   * [**Exchange**]()\*\*\*\*
 
            Swap assets with our exchange aggregator 
 
-   * \*\*\*\*[**Pool** ](learn-zapper/pooling/)\*\*\*\*
+   * \*\*\*\*[**Pool** ]()\*\*\*\*
 
            Invest in unique opportunities available across the expanding list of available [DeFi    platforms](https://zapper.fi/protocols)
 
-   * [**Farm**](learn-zapper/farming.md) ****Generate yield with your assets
-   * [**Bridge**](learn-zapper/bridge.md)\*\*\*\*
+   * [**Farm**]() ****Generate yield with your assets
+   * [**Bridge**]()\*\*\*\*
 
            Migrate funds from Ethereum to L2s and sidechains
 

@@ -20,18 +20,6 @@
 
 * [Smart Contracts](zapper-smart-contracts/smart-contracts.md)
 
-## Learn <a id="learn-zapper"></a>
-
-* [Dashboard](learn-zapper/dashboard.md)
-* [Exchange](learn-zapper/exchange.md)
-* [Pool](learn-zapper/pooling/README.md)
-  * [Uniswap](learn-zapper/pooling/uniswap.md)
-  * [Balancer](learn-zapper/pooling/balancer.md)
-  * [Curve](learn-zapper/pooling/curve.md)
-  * [Yearn Vaults](learn-zapper/pooling/yearn-vaults.md)
-* [Bridge](learn-zapper/bridge.md)
-* [Farm](learn-zapper/farming.md)
-
 ## ADDITIONAL RESOURCES
 
 * [Brand Assets](additional-resources/brand-assets.md)
