@@ -14,7 +14,11 @@ The API key must be provided as a query string by the client when making API cal
 
 The Swagger UI ****linked below contains an overview of all of the available endpoints. Be creative and feel free to reach out to us with suggestions or to show us what you've built. 
 
-{% embed url="https://api.zapper.fi/api/static/index.html" %}
+{% embed url="https://api.zapper.fi/api/static/index.html" caption="View all of the Zapper API endpoints" %}
+
+If you enter in the **public API key into the Authorize section in Swagger** you will be able to directly test the endpoints in the Swagger UI. 
+
+![Enter API key into the authorize section](../.gitbook/assets/swagger-auth.png)
 
 For any API related inquiries, please reach out in the `build-on-zapper` channel in our [Discord](https://discord.com/invite/5C4wxPr).
 
