@@ -4,19 +4,19 @@
 
 
 
-The Zapper API provides some of the most robust Defi related data, everything from liquidity and prices on different AMMs to complex Defi protocol balances all in one convenient place. In addition, the API also supports bridging between different networks as well as formatted Zap transaction endpoints.
+The Zapper API provides some of the most robust DeFi related data, everything from liquidity and prices on different AMMs to complex DeFi protocol balances all in one convenient place. In addition, the API also supports bridging between different networks as well as formatted Zap transaction endpoints.
 
 If your project consumes the Zapper API, a mention that your app is **"Powered by Zapper"** with a backlink to [https://zapper.fi](https://zapper.fi) would be appreciated!
 
-### Data API
+### Data Endpoints
 
 The Zapper Developer APIs provides the Ethereum community with accessible and consistent DeFi data for an ever increasing number of protocols. For a full list of supported protocols, see [**here**](https://zapper.fi/protocols). Check out the [guides](api-guides/#data-api) section to see how to query account balances, pool stats, and more.
 
 ![](../.gitbook/assets/data_api.png)
 
-### Transactions API
+### Transactions Endpoints
 
-The Zapper Transactions API is the easiest way for builders to interact directly with a wide range of DeFi protocols through Zapper. Get an easy to consume transaction for approving, adding, removing, and rebalancing liquidity through any of our [zaps](../zapper-smart-contracts/smart-contracts.md). Making it a breeze to submit a Defi related transaction.
+The Zapper API Transaction endpoints makes it easy for builders to interact directly with a wide range of DeFi protocols. Get an easy to consume transaction for approving, adding, removing, and rebalancing liquidity through any of our [zaps](../zapper-smart-contracts/smart-contracts.md). Making it a breeze to submit a DeFi related transaction.
 
 ![API returns transaction components](../.gitbook/assets/transaction-data.png)
 

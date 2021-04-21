@@ -4,9 +4,9 @@ description: This section contains helpful guides for interacting with Zapper AP
 
 # API Guides
 
-## Transactions API
+## Transaction Endpoints
 
-Assembling a Zap transaction is simple to do with the Transactions API. Provide basic details like the token to sell, pool or vault to interact with, and token quantities to send and the API will assemble and return an easy to consume Zap transaction for you to use in apps or smart contracts. 
+Assembling a Zap transaction is simple to do with the Transaction endpoints. Provide basic details like the token to sell, pool or vault to interact with, and token quantities to send and the API will assemble and return an easy to consume Zap transaction for you to use in apps or smart contracts. 
 
 The same patterns shown in these guides can be applied to all of the [zaps](../../zapper-smart-contracts/smart-contracts.md) offered by Zapper
 
@@ -15,13 +15,13 @@ The same patterns shown in these guides can be applied to all of the [zaps](../.
 
 ![](../../.gitbook/assets/transaction-data.png)
 
-## Data API
+## Data Endpoints
 
 ### Pool/Vault Stats and Account Balances
 
 The same patterns shown here can be used for any of Zapper's [supported platforms](https://zapper.fi/protocols).
 
-* The Yearn [Vault Stats guide](vault-stats.md) shows you how to pull data from the Zapper Data API. Vault stats includes platforms whose deposits are used for automated farming strategies \(e.g. Yearn, Harvest, Pickle, etc.\)
+* The Yearn [Vault Stats guide](vault-stats.md) shows you how to pull data from the Zapper Data Endpoints. Vault stats includes platforms whose deposits are used for automated farming strategies \(e.g. Yearn, Harvest, Pickle, etc.\)
 * The [Sushiswap Pool Stats guide ](pool-stats.md)shows you how to get pool data from the Zapper Data API. Pool stats includes platforms whose deposits are pooled as liquidity for exchanges \(e.g. Sushiswap, Uniswap, Balancer, etc.\)
 * Fetching user balances for Zapper's supported platforms is also possible. Check out the [Protocol Balances guide](curve-balances.md) for examples.
 
