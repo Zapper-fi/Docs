@@ -16,6 +16,12 @@ The Swagger UI ****linked below contains an overview of all of the available end
 
 {% embed url="https://api.zapper.fi/api/static/index.html" caption="View all of the Zapper API endpoints" %}
 
+#### Endpoint Overview
+
+{% embed url="https://www.youtube.com/watch?v=7Jv\_NxW0YQA" %}
+
+#### Using the Public API key in Swagger
+
 If you enter in the **public API key into the Authorize section in Swagger** you will be able to directly test the endpoints in the Swagger UI. 
 
 ![Enter API key into the authorize section](../.gitbook/assets/swagger-auth.png)
