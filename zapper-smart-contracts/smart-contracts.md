@@ -29,7 +29,7 @@ These contracts are currently deployed on various EVM Mainnets and are used by [
 | Sushiswap Add | [0xcff6eF0B9916682B37D80c19cFF8949bc1886bC2](https://etherscan.io/address/0xcff6eF0B9916682B37D80c19cFF8949bc1886bC2) | 3.0 | Ethereum |
 | Sushiswap Remove | [0x3351be9654188571a3e32388DA582947928111Ce](https://etherscan.io/address/0x3351be9654188571a3e32388da582947928111ce) | 2.0 | Ethereum |
 | Bancor Add | [0xa14EEefa753a166a5651bce7B84094f614Df0D05](https://etherscan.io/address/0xa14EEefa753a166a5651bce7B84094f614Df0D05) | 2.1 | Ethereum |
-| Harvest Add | [0xab297faf67D486c8d03fBcD8F026feD0D71254B9](https://etherscan.io/address/0xab297faf67D486c8d03fBcD8F026feD0D71254B9) | 1.0 | Ethereum |
+| Harvest Add | [0x004Aa7B26fB255711E923D9e6faFb5322c2C23f2](https://etherscan.io/address/0x004aa7b26fb255711e923d9e6fafb5322c2c23f2) | 2.0.1 | Ethereum |
 | PoolTogether Add | [0x2e61170a7dCab6438e403AA7A8A7143d39ED0A65](https://etherscan.io/address/0x2e61170a7dCab6438e403AA7A8A7143d39ED0A65) | 1.0 | Ethereum |
 | Ethereum to Polygon Bridge | [0x1f0d1927498FBD4f9E8558704Ce5B658929527Ec](https://etherscan.io/address/0x1f0d1927498fbd4f9e8558704ce5b658929527ec) | 1.2 | Ethereum |
 | Polygon to Ethereum Bridge | [0x5848E3A0eC02cEd206292ae6504E03c4aD97BF76](https://explorer-mainnet.maticvigil.com/address/0x5848E3A0eC02cEd206292ae6504E03c4aD97BF76/transactions) | 1.0 | Polygon\* |
