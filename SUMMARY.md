@@ -15,6 +15,7 @@
   * [Vault Stats](zapper-api/api-guides/vault-stats.md)
   * [Zap In](zapper-api/api-guides/zap-in.md)
   * [Zap Out](zapper-api/api-guides/zap-out.md)
+  * [Exchange Assets](zapper-api/api-guides/exchange-assets.md)
 
 ## Smart Contracts <a id="zapper-smart-contracts"></a>
 

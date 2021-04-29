@@ -1,14 +1,16 @@
 ---
-description: >-
-  Construct a Zap In Transaction (yEarn Vault V1 or V2) with the Transactions
-  API
+description: Construct a Zap In Transaction (yEarn Vaults V1 or V2)
 ---
 
 # Zap In
 
-## Overview
+## Video Summary
+
+
 
 Ensure you have read the [Zapper API ](../api-getting-started.md)section for a brief overview of the API types and to acquire an API key. This guide uses the Zapper Transactions API. While this guide shows Zapping In for a Yearn vault, the process for Zapping In for other sources is very similar.
+
+## Yearn Zap In Overview
 
 The yVault Zap In adds liquidity to V1 and V2 Vaults. The latest currently deployed yVault Zap In can be found [here](../../zapper-smart-contracts/smart-contracts.md). The Zap accepts ETH or any Arbitrary ERC20 token and converts it into the appropriate input type for the Vault. Any token swaps that are required are done so in a manner such that the output is maximized with as little slippage as possible. This is done via intelligent pathing to ensure that the exchange is routed optimally, leveraging PMMs if necessary. In addition, if the input type for the vault is an LP token \(e.g. a Curve LP\), the Zap will also acquire the required LPs via an underlying Zap before adding liquidity into the Vault and returning the proceeds to the sender.
 
@@ -81,7 +83,7 @@ error: "Bad Request"
 
 ## Set Allowance if Needed
 
-If `isApprove` is false and the `sellToken` is not ETH, this endpoint can be used to assemble an approval transaction to submit to the Ethereum network. This transaction will grant the yVault Zap In contract \(i.e. the `spenderAddress` from the previous step\) an allowance, enabling it to transfer tokens from the `ownerAddress` to the Zap contract. This step is required in order for the Zap to proceed if it does not yet have an allowance.
+If `isApprove` is false and the `sellToken` is not ETH, this endpoint can be used to assemble an approval transaction. This transaction will grant the yVault Zap In contract \(i.e. the `spenderAddress` from the previous step\) an allowance, enabling it to transfer tokens from the `ownerAddress` to the Zap contract. This step is required in order for the Zap to proceed if it does not yet have an allowance.
 
 {% api-method method="get" host="https://api.zapper.fi/v1/zap-in/yearn/approval-transaction?api\_key=" path="API\_KEY" %}
 {% api-method-summary %}
