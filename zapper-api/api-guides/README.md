@@ -31,5 +31,9 @@ The same patterns shown here can be used for any of Zapper's [supported platform
 * The [Prices API](supported-tokens-and-prices.md) returns an easy to consume list of Zapper's supported tokens and their USD prices.
 * The [Gas Price API](gas-price.md) returns Zapper's current gas prices.
 
-If you have questions about the API or would like to contribute to a guide please reach out in the `build-on-zapper` channel in our [Discord](https://discord.com/invite/5C4wxPr)
+## API Support 
+
+{% hint style="info" %}
+For any API related inquiries, please reach out in the **`build-on-zapper`** channel in our [Discord](https://discord.com/invite/5C4wxPr).
+{% endhint %}
 

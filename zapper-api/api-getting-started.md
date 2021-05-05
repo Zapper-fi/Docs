@@ -24,6 +24,8 @@ The Zapper API Transaction endpoints makes it easy for builders to interact dire
 
 This API returns a transaction object which includes all of the contextual data needed to be consumed by [Web3](https://web3js.readthedocs.io/en/v1.2.0/web3-eth.html#sendtransaction), Ethers or other Smart Contracts. This enables anyone to assemble and execute a complex Zap including multi exchange hops and interacting with several DeFi protocols in a single atomic transaction. To learn more, check out the [guides](api-guides/) section.
 
+## API Support
+
 {% hint style="info" %}
 For any API related inquiries, please reach out in the **`build-on-zapper`** channel in our [Discord](https://discord.com/invite/5C4wxPr).
 {% endhint %}

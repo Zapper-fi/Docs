@@ -28,6 +28,8 @@ If you enter in the **public API key into the Authorize section in Swagger** you
 
 ![Enter API key into the authorize section](../.gitbook/assets/swagger-auth.png)
 
+## API Support
+
 {% hint style="info" %}
 For any API related inquiries, please reach out in the **`build-on-zapper`** channel in our [Discord](https://discord.com/invite/5C4wxPr).
 {% endhint %}
