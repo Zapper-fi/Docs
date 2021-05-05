@@ -6,7 +6,7 @@ description: Construct a Zap In Transaction (yEarn Vaults V1 or V2)
 
 ## Video Summary
 
-
+{% embed url="https://www.youtube.com/watch?v=VkyD17Benx8" %}
 
 Ensure you have read the [Zapper API ](../api-getting-started.md)section for a brief overview of the API types and to acquire an API key. This guide uses the Zapper Transactions API. While this guide shows Zapping In for a Yearn vault, the process for Zapping In for other sources is very similar.
 
