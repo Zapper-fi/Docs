@@ -28,6 +28,8 @@ These contracts are currently deployed on various EVM Mainnets and are used by [
 | Yearn yVault Add | [0x42D4e90Ff4068Abe7BC4EaB838c7dE1D2F5998A3](https://etherscan.io/address/0x42d4e90ff4068abe7bc4eab838c7de1d2f5998a3) | 3.0 | Ethereum |
 | Sushiswap Add | [0xcff6eF0B9916682B37D80c19cFF8949bc1886bC2](https://etherscan.io/address/0xcff6eF0B9916682B37D80c19cFF8949bc1886bC2) | 3.0 | Ethereum |
 | Sushiswap Remove | [0x3351be9654188571a3e32388DA582947928111Ce](https://etherscan.io/address/0x3351be9654188571a3e32388da582947928111ce) | 2.0 | Ethereum |
+| Sushiswap Add | [0x456974dF1042bA7A46FD49512A8778Ac3B840A21](https://explorer-mainnet.maticvigil.com/address/0x456974dF1042bA7A46FD49512A8778Ac3B840A21/transactions) | 2.0 | Polygon\* |
+| Sushiswap Remove | [0x7755E64374925939e39d989fdc8746134CBF71C7](https://explorer-mainnet.maticvigil.com/address/0x7755E64374925939e39d989fdc8746134CBF71C7/transactions) | 1.0 | Polygon\* |
 | Bancor Add | [0xa14EEefa753a166a5651bce7B84094f614Df0D05](https://etherscan.io/address/0xa14EEefa753a166a5651bce7B84094f614Df0D05) | 2.1 | Ethereum |
 | Harvest Add | [0x004Aa7B26fB255711E923D9e6faFb5322c2C23f2](https://etherscan.io/address/0x004aa7b26fb255711e923d9e6fafb5322c2c23f2) | 2.0.1 | Ethereum |
 | PoolTogether Add | [0x2e61170a7dCab6438e403AA7A8A7143d39ED0A65](https://etherscan.io/address/0x2e61170a7dCab6438e403AA7A8A7143d39ED0A65) | 1.0 | Ethereum |
@@ -38,6 +40,7 @@ These contracts are currently deployed on various EVM Mainnets and are used by [
 | PancakeSwap Remove | [0x343E3a490c9251dC0eaA81Da146ba6ABe6C78b2d](https://bscscan.com/address/0x343e3a490c9251dc0eaa81da146ba6abe6c78b2d) | 1.0 | BSC\*\* |
 | 1Inch Add | [0x5531b2eAA05D8b6fb855E15F1d21e6a3A3794B4d](https://etherscan.io/address/0x5531b2eAA05D8b6fb855E15F1d21e6a3A3794B4d#code) | 1.0 | Ethereum |
 | Pickle Add | [0xc695f73c1862e050059367B2E64489E66c525983](https://etherscan.io/address/0xc695f73c1862e050059367b2e64489e66c525983) | 1.0 | Ethereum |
+|  |  |  |  |
 {% endtab %}
 
 {% tab title="Deprecated" %}
