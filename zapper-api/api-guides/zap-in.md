@@ -10,6 +10,10 @@ description: Construct a Zap In Transaction (yEarn Vaults V1 or V2)
 
 Ensure you have read the [Zapper API ](../api-getting-started.md)section for a brief overview of the API types and to acquire an API key. This guide uses the Zapper Transactions API. While this guide shows Zapping In for a Yearn vault, the process for Zapping In for other sources is very similar.
 
+{% hint style="info" %}
+You can learn what a Zap is at the resource ****[**here**](https://learn.zapper.fi/articles/what-is-a-zap).
+{% endhint %}
+
 ## Yearn Zap In Overview
 
 The yVault Zap In adds liquidity to V1 and V2 Vaults. The latest currently deployed yVault Zap In can be found [here](../../zapper-smart-contracts/smart-contracts.md). The Zap accepts ETH or any Arbitrary ERC20 token and converts it into the appropriate input type for the Vault. Any token swaps that are required are done so in a manner such that the output is maximized with as little slippage as possible. This is done via intelligent pathing to ensure that the exchange is routed optimally, leveraging PMMs if necessary. In addition, if the input type for the vault is an LP token \(e.g. a Curve LP\), the Zap will also acquire the required LPs via an underlying Zap before adding liquidity into the Vault and returning the proceeds to the sender.

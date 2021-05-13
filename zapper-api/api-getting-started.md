@@ -18,7 +18,7 @@ The Zapper Developer APIs provides the Ethereum community with accessible and co
 
 ### Transactions Endpoints
 
-The Zapper API Transaction endpoints makes it easy for builders to interact directly with a wide range of DeFi protocols. Get an easy to consume transaction for approving, adding, removing, and rebalancing liquidity through any of our [zaps](../zapper-smart-contracts/smart-contracts.md). Making it a breeze to submit a DeFi related transaction.
+The Zapper API Transaction endpoints makes it easy for builders to interact directly with a wide range of DeFi protocols. Get an easy to consume transaction for approving, adding, removing, and rebalancing liquidity through any of our [zap contracts](../zapper-smart-contracts/smart-contracts.md). Making it a breeze to submit a DeFi related transaction.
 
 ![API returns transaction components](../.gitbook/assets/transaction-data.png)
 
