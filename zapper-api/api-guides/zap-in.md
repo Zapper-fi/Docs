@@ -22,7 +22,7 @@ The yVault Zap In adds liquidity to V1 and V2 Vaults. The latest currently deplo
 
 Before Zapping In, check that the Zap contract has approval to spend the tokens you are sending. If ETH is being Zapped in, this step can be skipped as it does not require approval to transfer to the Zap contract. 
 
-{% api-method method="get" host="https://api.zapper.fi/v1/zap-in/yearn/approval-state?api\_key=" path="API\_KEY" %}
+{% api-method method="get" host="https://api.zapper.fi/" path="v1/zap-in/yearn/approval-state" %}
 {% api-method-summary %}
 Get Approval State
 {% endapi-method-summary %}
@@ -89,7 +89,7 @@ error: "Bad Request"
 
 If `isApprove` is false and the `sellToken` is not ETH, this endpoint can be used to assemble an approval transaction. This transaction will grant the yVault Zap In contract \(i.e. the `spenderAddress` from the previous step\) an allowance, enabling it to transfer tokens from the `ownerAddress` to the Zap contract. This step is required in order for the Zap to proceed if it does not yet have an allowance.
 
-{% api-method method="get" host="https://api.zapper.fi/v1/zap-in/yearn/approval-transaction?api\_key=" path="API\_KEY" %}
+{% api-method method="get" host="https://api.zapper.fi/" path="v1/zap-in/yearn/approval-transaction" %}
 {% api-method-summary %}
 Get Approval Transaction
 {% endapi-method-summary %}
@@ -164,7 +164,7 @@ The `poolAddress` represents the yVault to enter. This address can be obtained f
 
 The `gasPrice` recommended by Zapper is returned from [Zapper's Gas Price API](gas-price.md). Alternatively, you can choose to use any gas price you'd like. The `gasPrice` should be in `WEI`
 
-{% api-method method="get" host="https://api.zapper.fi/v1/zap-in/yearn/transaction?api\_key=" path="API\_KEY" %}
+{% api-method method="get" host="https://api.zapper.fi/" path="v1/zap-in/yearn/transaction" %}
 {% api-method-summary %}
 Get Zap In Transaction
 {% endapi-method-summary %}

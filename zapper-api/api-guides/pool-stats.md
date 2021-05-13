@@ -10,7 +10,7 @@ Ensure you have read the [Zapper API ](../api-getting-started.md)section for a b
 
 The Sushiswap pool stats endpoint returns contextual data for all of Zapper's supported Sushiswap pools. The returned data includes information such as each pool's address, liquidity, total supply, USD price, underlying tokens, and more. This endpoint is useful to query statistics about the pools in Sushiswap's ecosystem or to use the returned data \(like the address property\) as parameters in the Transactions API as shown [here](zap-in.md#zap-in).
 
-{% api-method method="get" host="https://api.zapper.fi/v1/pool-stats/sushiswap?api\_key=" path="api\_key" %}
+{% api-method method="get" host="https://api.zapper.fi/" path="v1/pool-stats/sushiswap" %}
 {% api-method-summary %}
 Get Sushiswap Pool Stats
 {% endapi-method-summary %}

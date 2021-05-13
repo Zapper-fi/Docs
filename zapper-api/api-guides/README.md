@@ -28,7 +28,7 @@ The same patterns shown here can be used for any of Zapper's [supported platform
 ### Tokens, Gas Prices, Misc
 
 * The [Token Balances API](token-balances.md) returns a list of tokens for which the account has a balance.
-* The [Prices API](supported-tokens-and-prices.md) returns an easy to consume list of Zapper's supported tokens and their USD prices.
+* The [Prices API]() returns an easy to consume list of Zapper's supported tokens and their USD prices.
 * The [Gas Price API](gas-price.md) returns Zapper's current gas prices.
 
 ## API Support 

@@ -20,7 +20,7 @@ This guide is also applicable to Uniswap V2. Simply substitute references of`sus
 
 Before Zapping Out, check that the Zap contract has approval to spend the LP tokens you are sending. 
 
-{% api-method method="get" host="https://api.zapper.fi" path="/v1/zap-out/sushiswap/approval-state?api\_key=API\_KEY" %}
+{% api-method method="get" host="https://api.zapper.fi" path="/v1/zap-out/sushiswap/approval-state" %}
 {% api-method-summary %}
 Get Approval State
 {% endapi-method-summary %}
@@ -95,7 +95,7 @@ Error response from approval-state endpoint
 
 If `isApprove` is false, this endpoint can be used to assemble an approval transaction to submit to the Ethereum network for the LP token. This transaction will grant the Sushiswap Zap Out contract \(i.e. the `spenderAddress` from the previous step\) an allowance, enabling it to transfer tokens from the `ownerAddress` to the Zap contract. This step is required in order for the Zap to proceed if it does not yet have an allowance.
 
-{% api-method method="get" host="https://api.zapper.fi" path="/v1/zap-out/sushiswap/approval-transaction?api\_key=API\_KEY" %}
+{% api-method method="get" host="https://api.zapper.fi" path="/v1/zap-out/sushiswap/approval-transaction" %}
 {% api-method-summary %}
 Get Approval Transaction
 {% endapi-method-summary %}
@@ -174,7 +174,7 @@ The `poolAddress` represents the Sushiswap pool to exit from. This address can b
 
 The `gasPrice` recommended by Zapper is returned from [Zapper's Gas Price API](gas-price.md). Alternatively, you can choose to use any gas price you'd like. The `gasPrice` should be in `WEI`
 
-{% api-method method="get" host="https://api.zapper.fi" path="/v1/zap-out/sushiswap/transaction?api\_key=API\_KEY" %}
+{% api-method method="get" host="https://api.zapper.fi" path="/v1/zap-out/sushiswap/transaction" %}
 {% api-method-summary %}
 Get Zap Out Transaction
 {% endapi-method-summary %}

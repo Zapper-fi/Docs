@@ -10,7 +10,7 @@ Ensure you have read the [Zapper API ](../api-getting-started.md)section for a b
 
 The yearn vault stats endpoint returns contextual data for all of Zapper's supported yVaults. The returned data includes information such as each yVault's address, liquidity, total supply, USD price, underlying tokens, and more. This endpoint is useful to query statistics about the vaults in yearn's ecosystem or to use the returned data \(like the address property\) as parameters in the Transactions API as shown [here](zap-in.md#zap-in)
 
-{% api-method method="get" host="https://api.zapper.fi/v1/vault-stats/yearn?api\_key=" path="api\_key" %}
+{% api-method method="get" host="https://api.zapper.fi" path="/v1/vault-stats/yearn" %}
 {% api-method-summary %}
 Get yearn Vault Stats
 {% endapi-method-summary %}

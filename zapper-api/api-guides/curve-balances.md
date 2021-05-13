@@ -6,23 +6,33 @@ description: Get an account's Curve balances
 
 ## Overview
 
-Ensure you have read the [Zapper API Overview ](../api-getting-started.md)section for a brief overview of the API types and to acquire an API key. This guide uses the Zapper Data API. In addition, you can directly test out the protocol balances endpoint [here](https://api.zapper.fi/api/static/index.html#/default/BalanceController_getProtocolBalances).
+Ensure you have read the [Zapper API Overview ](../api-getting-started.md)section for a brief overview of the API types and to acquire an API key. This guide uses the Zapper Data API. 
+
+{% hint style="info" %}
+You can directly test out the protocol balances endpoint [**here**](https://api.zapper.fi/api/static/index.html#/default/BalanceController_getProtocolBalances).
+{% endhint %}
 
 ### Curve Balances
 
 The Curve balances endpoint returns an account's balance data for all of Zapper's supported Curve pools. The returned data includes raw, USD, and underlying token balances of an account, in addition to contextual information about each pool for which the account has a balance. This endpoint is useful to query account balances for pools in Curve's ecosystem.
 
-{% api-method method="get" host="https://api.zapper.fi" path="/v1/curve/balances?api\_key=api\_key" %}
+{% api-method method="get" host="https://api.zapper.fi" path="/v1/protocols/curve/balances" %}
 {% api-method-summary %}
 Get Curve Balances
 {% endapi-method-summary %}
 
 {% api-method-description %}
-Returns balance data for Curve pools
+Returns balance data for Curve pools 
 {% endapi-method-description %}
 
 {% api-method-spec %}
 {% api-method-request %}
+{% api-method-path-parameters %}
+{% api-method-parameter name="protocol" type="string" required=true %}
+The specific protocol to get balances for. In this case **Curve**
+{% endapi-method-parameter %}
+{% endapi-method-path-parameters %}
+
 {% api-method-query-parameters %}
 {% api-method-parameter name="addresses\[\]" type="string" required=true %}
 Array of addresses to query for balance
@@ -42,51 +52,163 @@ Successful response from vault-stats endpoint
 
 ```
 {
-  "0x0f3d8...": 
-   data: [
-     {
-       type: "pool",
-       address: "0xeb16ae0052ed37f479f7fe63849198df1765a733",
-       tokenAddress: "0x02d341ccb60faaf662bc0554d13778015d1b285c",
-       decimals: 18,
-       label: "sAAVE",
-       symbol: "sAAVE",
-       share: 0.000012077379020945607,
-       supply: 15208456.306812523,
-       tokens: [
-         {
-           decimals: 18,
-           address: "0x6b175474e89094c44da98b954eedeac495271d0f",
-           symbol: "DAI",
-           balance: 126.3168534770324,
-           balanceUSD: 126.3168534770324,
-           reserve: 10458962.433650801,
-           price: 1
-         },
-         {
-           decimals: 18,
-           address: "0x57ab1ec28d129707052df4df418d58a2d46d5f51",
-           symbol: "sUSD",
-           balance: 61.68571949330141,
-           balanceUSD: 62.91943388316744,
-           reserve: 5107541.908415795,
-           price: 1.02
-         }
-       ],
-       protocol: "curve",
-       protocolSymbol: "Curve",
-       protocolDisplay: "Curve",
-       price: 1.033085387226444,
-       balance: 183.67829114086547,
-       balanceRaw: "183678291140865471191",
-       balanceUSD: 189.23628736019984
-     },
+  "0xb1a...": {
+    "products": [
+      {
+        "label": "Curve",
+        "assets": [
+          {
+            "type": "pool",
+            "category": "pool",
+            "address": "0x3b3ac5386837dc563660fb6a0937dfaa5924333b",
+            "decimals": 18,
+            "label": "BUSD",
+            "symbol": "BUSD",
+            "share": 2.733268612429166e-7,
+            "supply": 58686684.43771173,
+            "tokens": [
+              {
+                "decimals": 18,
+                "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                "symbol": "DAI",
+                "balance": 3.525232950015166,
+                "balanceUSD": 3.4663439335851627,
+                "reserve": 12897499.11144719,
+                "price": 0.983295
+              },
+              {
+                "decimals": 6,
+                "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                "symbol": "USDC",
+                "balance": 4.698445147973828,
+                "balanceUSD": 4.667660935364304,
+                "reserve": 17189840.495765,
+                "price": 0.993448
+              },
+              {
+                "decimals": 6,
+                "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+                "symbol": "USDT",
+                "balance": 3.6609429114733385,
+                "balanceUSD": 3.6235244139751694,
+                "reserve": 13394010.727031,
+                "price": 0.989779
+              },
+              {
+                "decimals": 18,
+                "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+                "symbol": "BUSD",
+                "balance": 4.784708349311653,
+                "balanceUSD": 4.751459410992286,
+                "reserve": 17505445.046834566,
+                "price": 0.993051
+              }
+            ],
+            "protocol": "curve",
+            "protocolSymbol": "Curve",
+            "protocolDisplay": "Curve",
+            "price": 1.1000502438824038,
+            "balance": 16.040647254113267,
+            "balanceRaw": "16040647254113267158",
+            "balanceUSD": 16.508988693916923
+          },
+          {
+            "type": "pool",
+            "category": "pool",
+            "address": "0x02d341ccb60faaf662bc0554d13778015d1b285c",
+            "decimals": 18,
+            "label": "sAAVE",
+            "symbol": "sAAVE",
+            "share": 0.000008643510065527967,
+            "supply": 21250428.326960705,
+            "tokens": [
+              {
+                "decimals": 18,
+                "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                "symbol": "DAI",
+                "balance": 145.6124501753291,
+                "balanceUSD": 143.17999419515021,
+                "reserve": 16846448.846755028,
+                "price": 0.983295
+              },
+              {
+                "decimals": 18,
+                "address": "0x57ab1ec28d129707052df4df418d58a2d46d5f51",
+                "symbol": "sUSD",
+                "balance": 44.013938567751055,
+                "balanceUSD": 44.454077953428566,
+                "reserve": 5092137.133418445,
+                "price": 1.01
+              }
+            ],
+            "protocol": "curve",
+            "protocolSymbol": "Curve",
+            "protocolDisplay": "Curve",
+            "price": 1.026851565402617,
+            "balance": 183.67829114086547,
+            "balanceRaw": "183678291140865471191",
+            "balanceUSD": 187.63407214857878
+          },
+          {
+            "type": "pool",
+            "category": "pool",
+            "address": "0xd2967f45c4f384deea880f807be904762a3dea07",
+            "decimals": 18,
+            "label": "GUSD",
+            "symbol": "GUSD",
+            "share": 0.0000074471106833135844,
+            "supply": 87634608.23650196,
+            "tokens": [
+              {
+                "decimals": 2,
+                "address": "0x056fd409e1d7a124bd7017459dfea2f387b6d5cd",
+                "symbol": "GUSD",
+                "balance": 321.8520051985404,
+                "balanceUSD": 311.16651862594887,
+                "reserve": 43218372.72,
+                "price": 0.9668
+              },
+              {
+                "decimals": 18,
+                "address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+                "symbol": "3CRV",
+                "balance": 335.94138837888687,
+                "balanceUSD": 337.64913571022237,
+                "reserve": 45110298.83463611,
+                "price": 1.0050834681001242
+              }
+            ],
+            "protocol": "curve",
+            "protocolSymbol": "Curve",
+            "protocolDisplay": "Curve",
+            "price": 1.0020787702024336,
+            "balance": 652.6246272260544,
+            "balanceRaw": "652624627226054336269",
+            "balanceUSD": 648.8156543361713
+          }
+        ],
+        "meta": []
+      }
+    ],
+    "meta": [
+      {
+        "label": "Total",
+        "value": 852.958715178667,
+        "type": "dollar"
+      },
+      {
+        "label": "Assets",
+        "value": 852.958715178667,
+        "type": "dollar"
+      },
+      {
+        "label": "Debt",
+        "value": 0,
+        "type": "dollar"
+      }
     ]
-    meta: {
-    totalUSD: 894.0880577705768
-    }
-} 
-
+  }
+}
 ```
 {% endapi-method-response-example %}
 
@@ -104,99 +226,6 @@ Error response from vault-stats endpoint
   "error": "Bad Request"
 }
 
-```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
-
-### Yearn Balances
-
-The Yearn balances endpoint returns an account's balance data for all of Zapper's supported Yearn vaults. The returned data includes raw, USD, and underlying token balances of an account, in addition to contextual information about each vault for which the account has a balance. This endpoint is useful to query account balances for pools in Yearns ecosystem.
-
-{% api-method method="get" host="https://api.zapper.fi" path="/v1/yearn/balances?api\_key=api\_key" %}
-{% api-method-summary %}
-Get Yearn Balances
-{% endapi-method-summary %}
-
-{% api-method-description %}
-Returns balance data for specific addresses for Yearn vaults
-{% endapi-method-description %}
-
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-query-parameters %}
-{% api-method-parameter name="addresses\[\]" type="string" required=true %}
-Array of addresses to query for balance
-{% endapi-method-parameter %}
-
-{% api-method-parameter name="api\_key" type="string" required=true %}
-Authentication token
-{% endapi-method-parameter %}
-{% endapi-method-query-parameters %}
-{% endapi-method-request %}
-
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-
-{% endapi-method-response-example-description %}
-
-```
-{
-  "0x3b2c...": {
-  data: [
-    {
-      type: "vault",
-      address: "0xba2e7fed597fd0e3e70f5130bcdbbfe06bb94fe1",
-      decimals: 18,
-      tokenAddress: "0xba2e7fed597fd0e3e70f5130bcdbbfe06bb94fe1",
-      contractAddress: "0xba2e7fed597fd0e3e70f5130bcdbbfe06bb94fe1",
-      symbol: "YFI Vault",
-      label: "YFI Vault",
-      img: "YFI-icon.png",
-      protocolDisplay: "Yearn",
-      protocolSymbol: "YFI",
-      protocolImg: "YFI-icon.png",
-      protocol: "yearn",
-      balance: 1.3044743275618431,
-      balanceRaw: "1304474327561843174",
-      balanceUSD: 60908.844755453116,
-      price: 46692.252556089894,
-      pricePerShare: 1.0151372414142512,
-      canDeposit: true,
-      tokens: [
-        {
-          address: "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
-          symbol: "YFI",
-          decimals: 18,
-          img: "YFI-icon.png",
-          balance: 1.3242204703768397,
-          balanceUSD: 60908.844755453116
-        }
-      ]
-    }
-  ],
-  meta: {
-  totalUSD: 60908.844755453116
-  }
-}
-```
-{% endapi-method-response-example %}
-
-{% api-method-response-example httpCode=400 %}
-{% api-method-response-example-description %}
-
-{% endapi-method-response-example-description %}
-
-```
-{
-    statusCode: 400,
-    message: [
-    "A helpful error message"
-    ],
-    error: "Bad Request"
-}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}

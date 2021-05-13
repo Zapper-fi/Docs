@@ -8,7 +8,7 @@ description: Get Zapper's current gas prices
 
 The prices endpoint returns Zapper's current Ethereum, BSC, and Polygon/Matic network gas prices
 
-{% api-method method="get" host="http://api.zapper.fi/v1/gas-price" path=" " %}
+{% api-method method="get" host="http://api.zapper.fi/" path="v1/gas-price" %}
 {% api-method-summary %}
 Get Gas Prices
 {% endapi-method-summary %}
@@ -24,6 +24,10 @@ To convert to WEI multiply response values by 10 \*\* 9
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-query-parameters %}
+{% api-method-parameter name="api\_key" type="string" required=true %}
+Authorization token
+{% endapi-method-parameter %}
+
 {% api-method-parameter name="network" type="string" required=false %}
 Network to get gas prices for
 {% endapi-method-parameter %}

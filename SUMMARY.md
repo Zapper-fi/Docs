@@ -8,7 +8,6 @@
 * [Endpoints](zapper-api/endpoints.md)
 * [API Guides](zapper-api/api-guides/README.md)
   * [Token Balances](zapper-api/api-guides/token-balances.md)
-  * [Supported Tokens and Prices](zapper-api/api-guides/supported-tokens-and-prices.md)
   * [Gas Price](zapper-api/api-guides/gas-price.md)
   * [Protocol Balances](zapper-api/api-guides/curve-balances.md)
   * [Pool Stats](zapper-api/api-guides/pool-stats.md)
