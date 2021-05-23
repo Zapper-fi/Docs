@@ -12,6 +12,8 @@ The token balances endpoint returns an an account's token balances, including co
 
 The `img` property returns the path for the image associated with an asset. For example, this is the path for the ETH image:  `https://zapper.fi/images/networks/ethereum/0xfc1e690f61efd961294b3e1ce3313fbd8aa4f85d.png`
 
+Note: The image response is an optional property and not supported for all types of balances responses.
+
 {% api-method method="get" host="https://api.zapper.fi" path="/v1/protocols/tokens/balances" %}
 {% api-method-summary %}
 Get User Token Balances
