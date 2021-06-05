@@ -36,7 +36,6 @@ These contracts are currently deployed on Ethereum mainnet and are used by [Zapp
 {% tab title="Polygon" %}
 These contracts are currently deployed on Polygon \(Matic\) and are used by [Zapper.fi](https://zapper.fi/) and other DeFi projects. The recommended way to interact with these contracts is via the [Transactions API](../zapper-api/api-guides/#transactions-api).
 
-
 | Contract | Address | Version |
 | :--- | :--- | :--- |
 | Sushiswap Add | [0x47b0eC1beA7d8EcC7cF70C3bF82c5f5d15a96b6D](https://explorer-mainnet.maticvigil.com/address/0x47b0eC1beA7d8EcC7cF70C3bF82c5f5d15a96b6D/transactions) | 3.0 |
