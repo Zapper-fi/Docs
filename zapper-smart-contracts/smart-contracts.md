@@ -34,7 +34,7 @@ These contracts are currently deployed on Ethereum mainnet and are used by [Zapp
 {% endtab %}
 
 {% tab title="Polygon" %}
-These contracts are currently deployed on BSC \(Binance Smart Chain\) and are used by [Zapper.fi](https://zapper.fi/) and other DeFi projects. The recommended way to interact with these contracts is via the [Transactions API](../zapper-api/api-guides/#transactions-api).
+These contracts are currently deployed on Polygon \(Matic\) and are used by [Zapper.fi](https://zapper.fi/) and other DeFi projects. The recommended way to interact with these contracts is via the [Transactions API](../zapper-api/api-guides/#transactions-api).
 
 | Contract | Address | Version |
 | :--- | :--- | :--- |
@@ -45,7 +45,7 @@ These contracts are currently deployed on BSC \(Binance Smart Chain\) and are us
 {% endtab %}
 
 {% tab title="BSC" %}
-These contracts are currently deployed on Polygon \(Matic\) and are used by [Zapper.fi](https://zapper.fi/) and other DeFi projects. The recommended way to interact with these contracts is via the [Transactions API](../zapper-api/api-guides/#transactions-api).
+These contracts are currently deployed on BSC \(Binance Smart Chain\) and are used by [Zapper.fi](https://zapper.fi/) and other DeFi projects. The recommended way to interact with these contracts is via the [Transactions API](../zapper-api/api-guides/#transactions-api).
 
 | Contract | Address | Version |
 | :--- | :--- | :--- |
