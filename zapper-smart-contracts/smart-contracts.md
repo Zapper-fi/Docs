@@ -25,7 +25,7 @@ These contracts are currently deployed on Ethereum mainnet and are used by [Zapp
 | Sushiswap Remove | [0x235Fda2564977c0158EE084f9B5c50a59Bf1656f](https://etherscan.io/address/0x235Fda2564977c0158EE084f9B5c50a59Bf1656f) | 3.0 |
 | Bancor Add | [0xa14EEefa753a166a5651bce7B84094f614Df0D05](https://etherscan.io/address/0xa14EEefa753a166a5651bce7B84094f614Df0D05) | 2.1 |
 | Harvest Add | [0x98E562a87c5243eeF333E43cb1834223f526c434](https://etherscan.io/address/0x98e562a87c5243eef333e43cb1834223f526c434) | 3.0 |
-| PoolTogether Add | [0x2e61170a7dCab6438e403AA7A8A7143d39ED0A65](https://etherscan.io/address/0x2e61170a7dCab6438e403AA7A8A7143d39ED0A65) | 1.0 |
+| PoolTogether Add | [0x4752b3Bf9DAbD61FE8150760EC580b183D9fdA57](https://etherscan.io/address/0x4752b3bf9dabd61fe8150760ec580b183d9fda57) | 2.0 |
 | Ethereum to Polygon Bridge | [0xe34B087Bf3C99E664316A15B01E5295eB3512760](https://etherscan.io/address/0xe34b087bf3c99e664316a15b01e5295eb3512760) | 1.1 |
 | 1Inch Add | [0x5531b2eAA05D8b6fb855E15F1d21e6a3A3794B4d](https://etherscan.io/address/0x5531b2eAA05D8b6fb855E15F1d21e6a3A3794B4d#code) | 1.0 |
 | Pickle Add | [0xc695f73c1862e050059367B2E64489E66c525983](https://etherscan.io/address/0xc695f73c1862e050059367b2e64489e66c525983) | 1.0 |
@@ -50,9 +50,7 @@ These contracts are currently deployed on BSC \(Binance Smart Chain\) and are us
 | Contract | Address | Version |
 | :--- | :--- | :--- |
 | PancakeSwap Add | [0x25d9Fa3DA06422EC5306A85545f0F30646D30eCd](https://bscscan.com/address/0x25d9fa3da06422ec5306a85545f0f30646d30ecd) | 3.1 |
-| PancakeSwap Remove | [0x47b0eC1beA7d8EcC7cF70C3bF82c5f5d15a96b6D](https://bscscan.com/address/0x47b0ec1bea7d8ecc7cf70c3bf82c5f5d15a96b6d) | 2.1  |
+| PancakeSwap Remove | [0x47b0eC1beA7d8EcC7cF70C3bF82c5f5d15a96b6D](https://bscscan.com/address/0x47b0ec1bea7d8ecc7cf70c3bf82c5f5d15a96b6d) | 2.1 |
 {% endtab %}
 {% endtabs %}
-
-
 
