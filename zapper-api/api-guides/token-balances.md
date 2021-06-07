@@ -10,7 +10,7 @@ Ensure you have read the [Zapper API ](../api-getting-started.md)section for a b
 
 The token balances endpoint returns an an account's token balances, including contextual information about each token for which the account has a balance.
 
-The `img` property returns the path for the image associated with an asset. For example, this is the path for the ETH image:  `https://zapper.fi/images/networks/ethereum/0xfc1e690f61efd961294b3e1ce3313fbd8aa4f85d.png`
+The `img` property returns the path for the image associated with an asset. For example, this is the path for the DAI token image on Ethereum:  `https://zapper.fi/images/networks/ethereum/0x6b175474e89094c44da98b954eedeac495271d0f.png`
 
 Note: The image response is an optional property and not supported for all types of balances responses.
 
