@@ -6,6 +6,8 @@ description: >-
 
 # Smart Contracts
 
+[**Zap**](https://learn.zapper.fi/articles/what-is-a-zap) ****contracts ****make it easy for anyone to add liquidity to complex DeFi protocols.
+
 {% tabs %}
 {% tab title="Ethereum" %}
 These contracts are currently deployed on Ethereum mainnet and are used by [Zapper.fi](https://zapper.fi/) and other DeFi projects. The recommended way to interact with these contracts is via the [Transactions API](../zapper-api/api-guides/#transactions-api).

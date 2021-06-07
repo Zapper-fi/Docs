@@ -23,6 +23,7 @@
 ## ADDITIONAL RESOURCES
 
 * [Brand Assets](additional-resources/brand-assets.md)
+* [Bug Bounties](https://immunefi.com/bounty/zapper/)
 * [Join Our Discord](https://discordapp.com/invite/h6CGbuN)
 * [Tutorials & FAQs](https://zapper.crunch.help/)
 * [Feature Requests](https://features.zapper.fi/)
