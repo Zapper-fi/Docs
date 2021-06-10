@@ -15,7 +15,7 @@ These contracts are currently deployed on Ethereum mainnet and are used by [Zapp
 | Contract | Address | Version |
 | :--- | :--- | :--- |
 | Uniswap V2 Add | [0x6D9893fa101CD2b1F8D1A12DE3189ff7b80FdC10](https://etherscan.io/address/0x6d9893fa101cd2b1f8d1a12de3189ff7b80fdc10) | 5.0 |
-| Uniswap V2 Remove | [0xfB13B2aE7282CFACA2C0cf62D9aeD131dB2209f7](https://etherscan.io/address/0xfb13b2ae7282cfaca2c0cf62d9aed131db2209f7) | 4.0.1 |
+| Uniswap V2 Remove | [0x4422610F73f4143a3936F8fa300329BBa8833b54](https://etherscan.io/address/0x4422610f73f4143a3936f8fa300329bba8833b54) | 5.0 |
 | Balancer Add | [0x7F249DBD212158e1ac449f0A37CA956C8186ac80](https://etherscan.io/address/0x7F249DBD212158e1ac449f0A37CA956C8186ac80) | 3.0 |
 | Balancer Remove | [0x00d0f137b51692D0AC708bdE7b367a373865cFfe](https://etherscan.io/address/0x00d0f137b51692D0AC708bdE7b367a373865cFfe) | 2.2 |
 | Curve Add | [0x7A0a6906De7714d27413f5092ED1a0636A3FBc9A](https://etherscan.io/address/0x7a0a6906de7714d27413f5092ed1a0636a3fbc9a) | 4.0 |
@@ -41,7 +41,7 @@ These contracts are currently deployed on Polygon \(Matic\) and are used by [Zap
 | Contract | Address | Version |
 | :--- | :--- | :--- |
 | Sushiswap Add | [0x47b0eC1beA7d8EcC7cF70C3bF82c5f5d15a96b6D](https://explorer-mainnet.maticvigil.com/address/0x47b0eC1beA7d8EcC7cF70C3bF82c5f5d15a96b6D/transactions) | 3.0 |
-| Sushiswap Remove | [0x784dD16f7683b7Ec042A6f36787052a11BFbEc68](https://explorer-mainnet.maticvigil.com/address/0x784dD16f7683b7Ec042A6f36787052a11BFbEc68/transactions) | 2.0 |
+| Sushiswap Remove | [0x52D1C6F4Db354C8f2F3C87B8F90081115356C597](https://polygonscan.com/address/0x52D1C6F4Db354C8f2F3C87B8F90081115356C597) | 3.0 |
 | Quickswap Add | [0xF231be40d73a9E73d859955344A4fF74f448dF34](https://explorer-mainnet.maticvigil.com/address/0xF231be40d73a9E73d859955344A4fF74f448dF34/transactions) | 2.0 |
 | Quickswap Remove | [0x4bF331Aa2BfB0869315fB81a350d109F4839f81b](https://explorer-mainnet.maticvigil.com/address/0x4bF331Aa2BfB0869315fB81a350d109F4839f81b/transactions) | 1.0 |
 {% endtab %}
@@ -52,7 +52,7 @@ These contracts are currently deployed on BSC \(Binance Smart Chain\) and are us
 | Contract | Address | Version |
 | :--- | :--- | :--- |
 | PancakeSwap Add | [0x25d9Fa3DA06422EC5306A85545f0F30646D30eCd](https://bscscan.com/address/0x25d9fa3da06422ec5306a85545f0f30646d30ecd) | 3.1 |
-| PancakeSwap Remove | [0x47b0eC1beA7d8EcC7cF70C3bF82c5f5d15a96b6D](https://bscscan.com/address/0x47b0ec1bea7d8ecc7cf70c3bf82c5f5d15a96b6d) | 2.1 |
+| PancakeSwap Remove | [0x4bF331Aa2BfB0869315fB81a350d109F4839f81b](https://bscscan.com/address/0x4bF331Aa2BfB0869315fB81a350d109F4839f81b) | 3.0 |
 {% endtab %}
 {% endtabs %}
 
