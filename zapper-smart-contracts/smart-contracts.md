@@ -43,7 +43,6 @@ These contracts are currently deployed on Polygon \(Matic\) and are used by [Zap
 | Sushiswap Add | [0x47b0eC1beA7d8EcC7cF70C3bF82c5f5d15a96b6D](https://explorer-mainnet.maticvigil.com/address/0x47b0eC1beA7d8EcC7cF70C3bF82c5f5d15a96b6D/transactions) | 3.0 |
 | Sushiswap Remove | [0x52D1C6F4Db354C8f2F3C87B8F90081115356C597](https://polygonscan.com/address/0x52D1C6F4Db354C8f2F3C87B8F90081115356C597) | 3.0 |
 | Quickswap Add | [0xF231be40d73a9E73d859955344A4fF74f448dF34](https://explorer-mainnet.maticvigil.com/address/0xF231be40d73a9E73d859955344A4fF74f448dF34/transactions) | 2.0 |
-| Quickswap Remove | [0x4bF331Aa2BfB0869315fB81a350d109F4839f81b](https://explorer-mainnet.maticvigil.com/address/0x4bF331Aa2BfB0869315fB81a350d109F4839f81b/transactions) | 1.0 |
 {% endtab %}
 
 {% tab title="BSC" %}
