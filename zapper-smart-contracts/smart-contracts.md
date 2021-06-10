@@ -24,7 +24,7 @@ These contracts are currently deployed on Ethereum mainnet and are used by [Zapp
 | Yearn yVault Remove | [0xA8a3B1A1e09A0f84B2856533DB4eE0Cc88DD4E11](https://etherscan.io/address/0xa8a3b1a1e09a0f84b2856533db4ee0cc88dd4e11) | 3.0 |
 | Yearn yVault Add | [0x92Be6ADB6a12Da0CA607F9d87DB2F9978cD6ec3E](https://etherscan.io/address/0x92be6adb6a12da0ca607f9d87db2f9978cd6ec3e) | 4.0 |
 | Sushiswap Add | [0x5abfbE56553a5d794330EACCF556Ca1d2a55647C](https://etherscan.io/address/0x5abfbe56553a5d794330eaccf556ca1d2a55647c) | 4.0 |
-| Sushiswap Remove | [0x235Fda2564977c0158EE084f9B5c50a59Bf1656f](https://etherscan.io/address/0x235Fda2564977c0158EE084f9B5c50a59Bf1656f) | 3.0 |
+| Sushiswap Remove | [0x3098cFaAbA3795AB98DC2D5066eC4d2584ae7C68](https://etherscan.io/address/0x3098cfaaba3795ab98dc2d5066ec4d2584ae7c68) | 4.0 |
 | Bancor Add | [0xa14EEefa753a166a5651bce7B84094f614Df0D05](https://etherscan.io/address/0xa14EEefa753a166a5651bce7B84094f614Df0D05) | 2.1 |
 | Harvest Add | [0x98E562a87c5243eeF333E43cb1834223f526c434](https://etherscan.io/address/0x98e562a87c5243eef333e43cb1834223f526c434) | 3.0 |
 | PoolTogether Add | [0x4752b3Bf9DAbD61FE8150760EC580b183D9fdA57](https://etherscan.io/address/0x4752b3bf9dabd61fe8150760ec580b183d9fda57) | 2.0 |
