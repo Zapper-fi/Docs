@@ -28,7 +28,7 @@ These contracts are currently deployed on Ethereum mainnet and are used by [Zapp
 | Bancor Add | [0xa14EEefa753a166a5651bce7B84094f614Df0D05](https://etherscan.io/address/0xa14EEefa753a166a5651bce7B84094f614Df0D05) | 2.1 |
 | Harvest Add | [0x98E562a87c5243eeF333E43cb1834223f526c434](https://etherscan.io/address/0x98e562a87c5243eef333e43cb1834223f526c434) | 3.0 |
 | PoolTogether Add | [0x4752b3Bf9DAbD61FE8150760EC580b183D9fdA57](https://etherscan.io/address/0x4752b3bf9dabd61fe8150760ec580b183d9fda57) | 2.0 |
-| Ethereum to Polygon Bridge | [0xe34B087Bf3C99E664316A15B01E5295eB3512760](https://etherscan.io/address/0xe34b087bf3c99e664316a15b01e5295eb3512760) | 1.1 |
+| Ethereum to Polygon Bridge | [0xe34B087Bf3C99E664316A15B01E5295eB3512760](https://etherscan.io/address/0xe34b087bf3c99e664316a15b01e5295eb3512760) | 1.3 |
 | 1Inch Add | [0x5531b2eAA05D8b6fb855E15F1d21e6a3A3794B4d](https://etherscan.io/address/0x5531b2eAA05D8b6fb855E15F1d21e6a3A3794B4d#code) | 1.0 |
 | Pickle Add | [0xc695f73c1862e050059367B2E64489E66c525983](https://etherscan.io/address/0xc695f73c1862e050059367b2e64489e66c525983) | 1.0 |
 | Mushrooms Add | [0xe80a9A878c4bED81f3803DE10beFF08Ca8Cd8c61](https://etherscan.io/address/0xe80a9a878c4bed81f3803de10beff08ca8cd8c61) | 2.0 |
