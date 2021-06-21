@@ -20,8 +20,7 @@ These contracts are currently deployed on Ethereum mainnet and are used by [Zapp
 | Balancer Remove | [0x00d0f137b51692D0AC708bdE7b367a373865cFfe](https://etherscan.io/address/0x00d0f137b51692D0AC708bdE7b367a373865cFfe) | 2.2 |
 | Curve Add | [0x7A0a6906De7714d27413f5092ED1a0636A3FBc9A](https://etherscan.io/address/0x7a0a6906de7714d27413f5092ed1a0636a3fbc9a) | 4.0 |
 | Curve Remove | [0xD754ffB697CD276ad6B0f0273521775C1A11b175](https://etherscan.io/address/0xd754ffb697cd276ad6b0f0273521775c1a11b175) | 4.1 |
-| Yearn yVault Remove | [0xC5b49ABF8b164472bE9486767aF6B1A5586B5609](https://etherscan.io/address/0xc5b49abf8b164472be9486767af6b1a5586b5609) | 2.0 |
-| Yearn yVault Remove | [0xA8a3B1A1e09A0f84B2856533DB4eE0Cc88DD4E11](https://etherscan.io/address/0xa8a3b1a1e09a0f84b2856533db4ee0cc88dd4e11) | 3.0 |
+| Yearn yVault Remove | [0xd6b88257e91e4E4D4E990B3A858c849EF2DFdE8c](https://etherscan.io/address/0xd6b88257e91e4e4d4e990b3a858c849ef2dfde8c) | 3.0.1 |
 | Yearn yVault Add | [0x92Be6ADB6a12Da0CA607F9d87DB2F9978cD6ec3E](https://etherscan.io/address/0x92be6adb6a12da0ca607f9d87db2f9978cd6ec3e) | 4.0 |
 | Sushiswap Add | [0x5abfbE56553a5d794330EACCF556Ca1d2a55647C](https://etherscan.io/address/0x5abfbe56553a5d794330eaccf556ca1d2a55647c) | 4.0 |
 | Sushiswap Remove | [0x3098cFaAbA3795AB98DC2D5066eC4d2584ae7C68](https://etherscan.io/address/0x3098cfaaba3795ab98dc2d5066ec4d2584ae7c68) | 4.0 |
