@@ -6,7 +6,7 @@ description: >-
 
 # Smart Contracts
 
-[**Zap**](https://learn.zapper.fi/articles/what-is-a-zap) ****contracts ****make it easy for anyone to add liquidity to complex DeFi protocols.
+[**Zap**](https://learn.zapper.fi/articles/what-is-a-zap) ****contracts ****make it easy for anyone to interact with complex DeFi protocols.
 
 {% tabs %}
 {% tab title="Ethereum" %}
