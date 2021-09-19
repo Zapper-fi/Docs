@@ -305,6 +305,7 @@ function ZapOut(
     ? address(this).balance
     : IERC20(buyToken).balanceOf(address(this));
     // Call the encoded Zap Out function call on the contract at `ZapContract`,
+    // NOTE: You should restrict calls to trusted ZapContracts and never tokens!
     (bool success,) = ZapContract.call(zapCallData);
     require(success, 'Zap Out Failed');
     uint256 finlBal = buyToken == address(0)

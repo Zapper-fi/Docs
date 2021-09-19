@@ -293,6 +293,7 @@ function ZapIn(
     uint256 initialBalance = IERC20(buyToken).balanceOf(address(this));
     // Call the encoded Zap function call on the contract at `ZapContract`,
     // passing along any ETH attached to this function call for the Zap.
+    // NOTE: You should restrict calls to trusted ZapContracts and never tokens!
     (bool success,) = ZapContract.call{value: msg.value}(zapCallData);
     require(success, 'Zap In Failed');
     yVaultTokensRec = IERC20(buyToken).balanceOf(address(this)).sub(initialBalance);
