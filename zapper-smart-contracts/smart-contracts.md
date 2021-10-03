@@ -61,5 +61,14 @@ These contracts are currently deployed on BSC \(Binance Smart Chain\) and are us
 | PancakeSwap Add | [0x25d9Fa3DA06422EC5306A85545f0F30646D30eCd](https://bscscan.com/address/0x25d9fa3da06422ec5306a85545f0f30646d30ecd) | 3.1 |
 | PancakeSwap Remove | [0x4bF331Aa2BfB0869315fB81a350d109F4839f81b](https://bscscan.com/address/0x4bF331Aa2BfB0869315fB81a350d109F4839f81b) | 3.0 |
 {% endtab %}
+
+{% tab title="Avalanche" %}
+| Contract | Address | Version |
+| :--- | :--- | :--- |
+| TraderJoe Add | [0x8308a1A404dB3cB3075618B1651671bC4E15F9d5](https://cchain.explorer.avax.network/address/0x8308a1A404dB3cB3075618B1651671bC4E15F9d5/transactions) | 1.0 |
+| TraderJoe Remove | [0x60b7072e83C2965ae5F190427Dc1EEdf477A1588](https://cchain.explorer.avax.network/address/0x60b7072e83C2965ae5F190427Dc1EEdf477A1588/transactions) | 1.0 |
+{% endtab %}
 {% endtabs %}
+
+
 

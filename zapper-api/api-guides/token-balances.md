@@ -25,12 +25,6 @@ Returns supported token balances
 
 {% api-method-spec %}
 {% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="protocol" type="string" required=true %}
-The specific protocol to retrieve balances for. In this case **tokens**.
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
-
 {% api-method-query-parameters %}
 {% api-method-parameter name="addresses\[\]" type="array" required=true %}
 Array of addresses to query for balance

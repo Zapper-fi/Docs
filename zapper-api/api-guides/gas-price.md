@@ -24,6 +24,10 @@ To convert to WEI multiply response values by 10 \*\* 9
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-query-parameters %}
+{% api-method-parameter name="eip1559" type="boolean" required=true %}
+Retrieve post London gas price details
+{% endapi-method-parameter %}
+
 {% api-method-parameter name="api\_key" type="string" required=true %}
 Authorization token
 {% endapi-method-parameter %}
@@ -41,10 +45,29 @@ Gas prices successfully retrieved.
 {% endapi-method-response-example-description %}
 
 ```
+// Pre-London
 {
   "standard": 75,
   "fast": 84.000001459,
   "instant": 90
+}
+// Post-London
+{
+  "standard": {
+    "baseFeePerGas": 42,
+    "maxPriorityFeePerGas": 2,
+    "maxFeePerGas": 83
+  },
+  "fast": {
+    "baseFeePerGas": 42,
+    "maxPriorityFeePerGas": 2,
+    "maxFeePerGas": 83
+  },
+  "instant": {
+    "baseFeePerGas": 42,
+    "maxPriorityFeePerGas": 2,
+    "maxFeePerGas": 83
+  }
 }
 ```
 {% endapi-method-response-example %}
