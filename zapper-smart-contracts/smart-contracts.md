@@ -57,11 +57,11 @@ These contracts are currently deployed on BSC (Binance Smart Chain) and are used
 {% endtab %}
 
 {% tab title="Avalanche" %}
-| Contract               | Address                                                                                                                                            | Version |
-| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| TraderJoe Add          | [0x8308a1A404dB3cB3075618B1651671bC4E15F9d5](https://cchain.explorer.avax.network/address/0x8308a1A404dB3cB3075618B1651671bC4E15F9d5/transactions) | 1.0     |
-| TraderJoe Remove       | [0x60b7072e83C2965ae5F190427Dc1EEdf477A1588](https://cchain.explorer.avax.network/address/0x60b7072e83C2965ae5F190427Dc1EEdf477A1588/transactions) | 1.0     |
-| Wonderland Add/RemoveQ | [0x19df95E50310852CCD16d2BadbF73419eb837c1b](https://cchain.explorer.avax.network/address/0x19df95E50310852CCD16d2BadbF73419eb837c1b/transactions) | 1.0     |
+| Contract              | Address                                                                                                                                            | Version |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| TraderJoe Add         | [0x8308a1A404dB3cB3075618B1651671bC4E15F9d5](https://cchain.explorer.avax.network/address/0x8308a1A404dB3cB3075618B1651671bC4E15F9d5/transactions) | 1.0     |
+| TraderJoe Remove      | [0x60b7072e83C2965ae5F190427Dc1EEdf477A1588](https://cchain.explorer.avax.network/address/0x60b7072e83C2965ae5F190427Dc1EEdf477A1588/transactions) | 1.0     |
+| Wonderland Add/Remove | [0x19df95E50310852CCD16d2BadbF73419eb837c1b](https://cchain.explorer.avax.network/address/0x19df95E50310852CCD16d2BadbF73419eb837c1b/transactions) | 1.0     |
 {% endtab %}
 {% endtabs %}
 
