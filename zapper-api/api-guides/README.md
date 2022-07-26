@@ -37,3 +37,7 @@ The same patterns shown here can be used for any of Zapper's [supported platform
 For any API related inquiries, please reach out in the **`build-on-zapper`** channel in our [Discord](https://discord.com/invite/5C4wxPr).
 {% endhint %}
 
+## Community Tools
+
+* [Unofficial zapper.fi API wrapper](https://github.com/izayl/zapperfi-api)
+
