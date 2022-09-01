@@ -4,7 +4,7 @@ description: This section contains helpful guides for interacting with Zapper AP
 
 # Guides
 
-If you'd like to contribute a guide, please reach out to us on [Discord](https://discord.com/invite/5C4wxPr) or [Twitter](https://twitter.com/zapper_fi)
+If you'd like to contribute a guide, please reach out to us on [Discord](https://zapper.fi/discord) or [Twitter](https://twitter.com/zapper_fi)
 
 ## Transactions API
 
